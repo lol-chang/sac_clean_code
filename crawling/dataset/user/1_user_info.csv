@@ -1,0 +1,2 @@
+user_id,companion,travel_style,budget,duration_days,like_keywords,dislike_keywords,crowd_tolerance,age,gender,start_date
+U0001,friends,Healing,2200000,3,"['Convenient amenities', 'Attentive staff', 'Quiet atmosphere']","['Insect presence', 'Lack of privacy']",0.53,19,Male,2025-08-16

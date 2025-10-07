@@ -1,0 +1,6 @@
+user_id,companion,travel_style,budget,duration_days,like_keywords,dislike_keywords,crowd_tolerance,age,gender,start_date
+U0001,friends,Healing,2200000,3,"['Convenient amenities', 'Attentive staff', 'Quiet atmosphere']","['Insect presence', 'Lack of privacy']",0.53,19,Male,2025-08-16
+U0002,friends,Foodie,2000000,3,"['Well-maintained facilities', 'Fresh seafood', 'Delicious food']","['Small room size', 'High price']",0.51,21,Female,2025-10-07
+U0003,couple,Activity,2800000,3,"['Clean room', 'Authentic taste', 'Good value']","['Small portions', 'Outdated facilities']",0.45,36,Both,2025-02-18
+U0004,solo,Healing,700000,1,"['Tasty food', 'Tender meat', 'Large portions']","['Limited options', 'Lack of privacy']",0.61,56,Female,2025-01-24
+U0005,friends,Foodie,800000,1,"['Satisfying portions', 'Friendly service', 'Cleanliness']","['Salty food', 'Overpriced']",0.27,27,Female,2025-05-18

@@ -1,0 +1,1001 @@
+user_id,companion,travel_style,budget,duration_days,like_keywords,dislike_keywords,crowd_tolerance,age,gender,start_date
+U0001,friends,Healing,2200000,3,"['Convenient amenities', 'Attentive staff', 'Quiet atmosphere']","['Insect presence', 'Lack of privacy']",0.53,19,Male,2025-08-16
+U0002,friends,Foodie,2000000,3,"['Well-maintained facilities', 'Fresh seafood', 'Delicious food']","['Small room size', 'High price']",0.51,21,Female,2025-10-07
+U0003,couple,Activity,2800000,3,"['Clean room', 'Authentic taste', 'Good value']","['Small portions', 'Outdated facilities']",0.45,36,Both,2025-02-18
+U0004,solo,Healing,700000,1,"['Tasty food', 'Tender meat', 'Large portions']","['Limited options', 'Lack of privacy']",0.61,56,Female,2025-01-24
+U0005,friends,Foodie,800000,1,"['Satisfying portions', 'Friendly service', 'Cleanliness']","['Salty food', 'Overpriced']",0.27,27,Female,2025-05-18
+U0006,couple,Healing,1000000,2,"['Quiet atmosphere', 'Large portions', 'Tender meat']","['Poor food quality', 'Weak water pressure']",0.86,53,Both,2025-04-21
+U0007,couple,Healing,200000,2,"['Friendly service', 'Spicy flavor', 'Beautiful view']","['Cramped space', 'Salty food']",0.18,18,Both,2025-01-09
+U0008,couple,Activity,400000,2,"['Large portions', 'Fresh seafood', 'Tasty food']","['Small portions', 'Long wait']",0.19,47,Both,2025-10-22
+U0009,solo,Healing,1700000,2,"['Authentic taste', 'Clean facilities', 'Fresh seafood']","['Unpleasant taste', 'Limited amenities']",0.86,40,Female,2025-11-10
+U0010,friends,Cultural,700000,3,"['Pleasant atmosphere', 'Clean room', 'Delicious coffee']","['Insect presence', 'Limited menu']",0.36,24,Female,2025-02-18
+U0011,friends,Cultural,400000,2,"['Fresh seafood', 'Clean room', 'Delicious coffee']","['Weak water pressure', 'Unpleasant taste']",0.89,60,Male,2025-08-28
+U0012,friends,Activity,1200000,5,"['Affordable prices', 'Friendly service', 'Cleanliness']","['Cramped space', 'Lack of privacy']",0.15,41,Female,2025-11-15
+U0013,friends,Cultural,1500000,2,"['Tasty food', 'Well-maintained facilities', 'Attentive staff']","['Slow service', 'Insect presence']",0.15,63,Female,2025-05-30
+U0014,friends,Activity,500000,1,"['Beautiful view', 'Good value', 'Quiet atmosphere']","['Weak water pressure', 'Unpleasant taste']",0.18,47,Female,2025-10-25
+U0015,couple,Cultural,300000,3,"['Affordable prices', 'Family-friendly', 'Delicious coffee']","['Bland taste', 'Insect presence']",0.08,19,Both,2025-01-08
+U0016,solo,Foodie,400000,2,"['Tasty food', 'Quick service', 'Authentic taste']","['Unpleasant taste', 'High price']",0.5,52,Female,2025-10-21
+U0017,couple,Cultural,1400000,3,"['Ocean view', 'Friendly service', 'Delicious food']","['High price', 'Unfriendly staff']",0.91,21,Both,2025-02-19
+U0018,solo,Foodie,300000,2,"['Affordable prices', 'Spicy flavor', 'Large portions']","['Limited options', 'Unfriendly staff']",0.52,28,Female,2025-07-17
+U0019,solo,Foodie,700000,2,"['Well-maintained facilities', 'Delicious coffee', 'Attentive staff']","['Outdated facilities', 'Overpriced']",0.44,39,Male,2025-07-26
+U0020,friends,Foodie,500000,5,"['Family-friendly', 'Tender meat', 'Clean facilities']","['Limited menu', 'Poor value']",0.25,25,Male,2025-10-15
+U0021,solo,Healing,200000,1,"['Friendly service', 'Convenient amenities', 'Quiet atmosphere']","['Lack of privacy', 'Unfriendly staff']",0.2,34,Female,2025-07-29
+U0022,friends,Healing,900000,5,"['Cleanliness', 'Good value', 'Beautiful view']","['Weak water pressure', 'Poor food quality']",0.64,40,Female,2025-12-22
+U0023,friends,Foodie,500000,1,"['Good value', 'Friendly service', 'Family-friendly']","['Limited menu', 'Bland taste']",0.2,44,Female,2025-06-03
+U0024,friends,Healing,600000,3,"['Tender meat', 'Quiet atmosphere', 'Variety of dishes']","['Weak water pressure', 'Poor value']",0.48,29,Female,2025-09-27
+U0025,solo,Activity,300000,1,"['Generous portions', 'Clean room', 'Convenient amenities']","['Noise', 'Unpleasant taste']",0.87,52,Female,2025-12-16
+U0026,friends,Cultural,500000,2,"['Generous portions', 'Family-friendly', 'Authentic taste']","['High price', 'Bland taste']",0.25,57,Male,2025-11-08
+U0027,friends,Cultural,700000,3,"['Variety of dishes', 'Generous portions', 'Convenient amenities']","['Insect presence', 'Small room size']",0.13,60,Female,2025-12-29
+U0028,friends,Foodie,3200000,5,"['Attentive staff', 'Clean room', 'Delicious coffee']","['Poor soundproofing', 'Poor cleanliness']",0.88,58,Female,2025-01-19
+U0029,friends,Activity,800000,3,"['Satisfying portions', 'Scenic views', 'Good value']","['Poor cleanliness', 'Bland taste']",0.53,57,Male,2025-09-27
+U0030,couple,Activity,800000,2,"['Pleasant atmosphere', 'Tasty food', 'Affordable prices']","['Poor food quality', 'Long wait']",0.82,37,Both,2025-09-27
+U0031,friends,Cultural,600000,5,"['Scenic views', 'Tender meat', 'Large portions']","['Bland taste', 'Outdated facilities']",0.34,55,Male,2025-10-09
+U0032,couple,Healing,300000,2,"['Convenient amenities', 'High-quality meat', 'Quiet atmosphere']","['Long wait', 'Poor cleanliness']",0.29,51,Both,2025-03-23
+U0033,friends,Cultural,300000,2,"['Fresh seafood', 'Generous portions', 'Convenient amenities']","['Limited amenities', 'Slow service']",0.57,30,Male,2025-11-15
+U0034,solo,Healing,400000,3,"['Scenic views', 'Cleanliness', 'Comfortable bedding']","['Poor cleanliness', 'Long wait']",0.8,53,Male,2025-04-11
+U0035,solo,Cultural,1800000,2,"['Quick service', 'Ocean view', 'Convenient amenities']","['Lack of privacy', 'Small room size']",0.33,20,Female,2025-06-25
+U0036,solo,Activity,1600000,2,"['Quick service', 'Quiet atmosphere', 'Ocean view']","['Limited amenities', 'Salty food']",0.01,31,Female,2025-08-25
+U0037,friends,Activity,800000,2,"['Good value', 'Quiet atmosphere', 'Fresh seafood']","['Unfriendly staff', 'Salty food']",0.5,62,Female,2025-02-23
+U0038,solo,Healing,500000,2,"['Good value', 'Clean room', 'High-quality meat']","['Limited menu', 'Limited amenities']",0.12,30,Female,2025-09-03
+U0039,solo,Cultural,400000,1,"['Delicious food', 'Comfortable bedding', 'Scenic views']","['Long wait', 'Weak water pressure']",0.94,25,Male,2025-08-11
+U0040,solo,Foodie,100000,1,"['Well-maintained facilities', 'Large portions', 'Tasty food']","['Long wait', 'Limited amenities']",0.97,37,Male,2025-11-27
+U0041,friends,Foodie,300000,3,"['Clean facilities', 'Good value', 'Ocean view']","['Poor cleanliness', 'Limited options']",0.15,35,Female,2025-05-26
+U0042,friends,Activity,1000000,5,"['Attentive staff', 'Affordable prices', 'Clean room']","['Poor value', 'Bland taste']",0.99,45,Female,2025-08-11
+U0043,couple,Cultural,500000,4,"['Well-maintained facilities', 'Large portions', 'Beautiful view']","['Poor soundproofing', 'Limited amenities']",0.68,49,Both,2025-11-09
+U0044,solo,Foodie,400000,2,"['Quick service', 'Convenient amenities', 'Tasty food']","['Poor food quality', 'Salty food']",0.93,51,Female,2025-08-23
+U0045,solo,Cultural,700000,3,"['Clean room', 'Beautiful view', 'Fresh seafood']","['Overpriced', 'Unpleasant taste']",0.04,46,Female,2025-01-31
+U0046,couple,Healing,1400000,3,"['Beautiful view', 'Convenient amenities', 'Quick service']","['Limited menu', 'Bland taste']",0.78,53,Both,2025-08-27
+U0047,solo,Cultural,3500000,4,"['Value for money', 'Spicy flavor', 'Scenic views']","['Poor cleanliness', 'Unfriendly staff']",0.77,23,Male,2025-10-29
+U0048,solo,Foodie,200000,2,"['Convenient amenities', 'Value for money', 'Quiet atmosphere']","['Limited menu', 'Small portions']",0.83,54,Male,2025-03-28
+U0049,friends,Healing,500000,3,"['Family-friendly', 'Value for money', 'High-quality meat']","['Limited options', 'Weak water pressure']",0.61,64,Male,2025-07-10
+U0050,couple,Activity,300000,1,"['Authentic taste', 'Affordable prices', 'High-quality meat']","['Small room size', 'Bland taste']",0.71,37,Both,2025-10-29
+U0051,couple,Activity,600000,2,"['Fresh seafood', 'Variety of dishes', 'Generous portions']","['Lack of privacy', 'Cramped space']",0.48,18,Both,2025-05-01
+U0052,friends,Foodie,200000,1,"['Variety of dishes', 'Affordable prices', 'Comfortable bedding']","['Noise', 'Cramped space']",0.29,48,Male,2025-07-26
+U0053,couple,Activity,500000,2,"['Clean facilities', 'Authentic taste', 'Generous portions']","['Poor cleanliness', 'Small portions']",0.89,64,Both,2025-09-17
+U0054,solo,Cultural,200000,2,"['Clean room', 'Authentic taste', 'Comfortable bedding']","['Unfriendly staff', 'Overpriced']",0.86,57,Male,2025-02-21
+U0055,couple,Cultural,600000,3,"['Generous portions', 'Tasty food', 'Clean facilities']","['Bland taste', 'Hygiene issues']",0.4,31,Both,2025-06-08
+U0056,solo,Cultural,600000,3,"['Authentic taste', 'Delicious food', 'Generous portions']","['High price', 'Insect presence']",0.21,36,Female,2025-04-18
+U0057,friends,Cultural,500000,3,"['Tender meat', 'Authentic taste', 'Friendly service']","['Salty food', 'High price']",0.51,26,Female,2025-12-05
+U0058,couple,Healing,1000000,2,"['Ocean view', 'Pleasant atmosphere', 'Value for money']","['Unpleasant taste', 'Limited options']",0.59,39,Both,2025-02-25
+U0059,couple,Foodie,200000,2,"['High-quality meat', 'Clean facilities', 'Large portions']","['High price', 'Cramped space']",0.36,58,Both,2025-08-06
+U0060,friends,Cultural,300000,1,"['Satisfying portions', 'Tasty food', 'Cleanliness']","['Overpriced', 'Small room size']",0.49,21,Male,2025-12-08
+U0061,couple,Cultural,400000,2,"['Well-maintained facilities', 'Quick service', 'Clean room']","['Unfriendly staff', 'Poor soundproofing']",0.23,28,Both,2025-11-05
+U0062,couple,Healing,1600000,2,"['Attentive staff', 'Convenient amenities', 'Tender meat']","['Weak water pressure', 'Bland taste']",0.52,55,Both,2025-02-21
+U0063,couple,Activity,1600000,2,"['Fresh seafood', 'Convenient amenities', 'Delicious coffee']","['Poor value', 'Lack of privacy']",0.21,33,Both,2025-05-21
+U0064,solo,Cultural,300000,2,"['Attentive staff', 'Convenient amenities', 'Tasty food']","['Weak water pressure', 'Salty food']",0.17,33,Female,2025-05-31
+U0065,couple,Activity,400000,3,"['Convenient amenities', 'Tasty food', 'Satisfying portions']","['Poor value', 'Poor food quality']",0.47,29,Both,2025-05-30
+U0066,solo,Foodie,800000,2,"['Spicy flavor', 'Clean facilities', 'Scenic views']","['Insect presence', 'Outdated facilities']",0.78,30,Male,2025-05-24
+U0067,couple,Foodie,300000,3,"['Well-maintained facilities', 'Value for money', 'Clean room']","['Poor cleanliness', 'Small room size']",0.99,27,Both,2025-01-12
+U0068,couple,Cultural,200000,2,"['Spicy flavor', 'Family-friendly', 'Large portions']","['Poor cleanliness', 'Poor value']",0.99,20,Both,2025-01-31
+U0069,solo,Cultural,700000,4,"['Quick service', 'Convenient amenities', 'Affordable prices']","['Cramped space', 'Limited options']",0.96,24,Male,2025-05-31
+U0070,solo,Cultural,300000,3,"['Spicy flavor', 'Satisfying portions', 'Pleasant atmosphere']","['Poor value', 'Salty food']",0.19,34,Female,2025-04-25
+U0071,solo,Cultural,400000,3,"['High-quality meat', 'Delicious coffee', 'Comfortable bedding']","['Lack of privacy', 'Salty food']",0.7,40,Female,2025-03-21
+U0072,friends,Cultural,500000,5,"['Friendly service', 'Authentic taste', 'Scenic views']","['Insect presence', 'Overpriced']",0.65,18,Female,2025-06-19
+U0073,solo,Activity,800000,2,"['Well-maintained facilities', 'Authentic taste', 'Generous portions']","['Limited options', 'Lack of privacy']",0.84,47,Male,2025-06-30
+U0074,friends,Activity,500000,1,"['Clean room', 'Ocean view', 'Delicious coffee']","['Poor value', 'Limited amenities']",0.92,64,Male,2025-11-28
+U0075,solo,Activity,400000,2,"['Pleasant atmosphere', 'Delicious coffee', 'Beautiful view']","['Poor cleanliness', 'Poor soundproofing']",0.99,21,Female,2025-06-04
+U0076,friends,Foodie,1300000,2,"['Spicy flavor', 'Well-maintained facilities', 'Tender meat']","['Poor soundproofing', 'Limited amenities']",0.03,25,Male,2025-09-17
+U0077,solo,Foodie,2800000,3,"['Affordable prices', 'High-quality meat', 'Clean facilities']","['Slow service', 'High price']",0.82,42,Female,2025-08-20
+U0078,couple,Healing,1400000,2,"['Scenic views', 'Attentive staff', 'Cleanliness']","['Poor cleanliness', 'Poor value']",0.81,46,Both,2025-12-12
+U0079,friends,Foodie,2300000,3,"['Beautiful view', 'Tender meat', 'Authentic taste']","['Lack of privacy', 'Weak water pressure']",0.2,65,Female,2025-09-18
+U0080,friends,Foodie,700000,1,"['Tasty food', 'Ocean view', 'Good value']","['Poor cleanliness', 'Small room size']",0.56,25,Male,2025-01-17
+U0081,friends,Cultural,700000,2,"['Pleasant atmosphere', 'Authentic taste', 'Satisfying portions']","['Limited menu', 'Weak water pressure']",0.29,50,Male,2025-08-15
+U0082,couple,Healing,1900000,2,"['Tender meat', 'Quick service', 'Satisfying portions']","['Unfriendly staff', 'Limited menu']",0.39,52,Both,2025-11-15
+U0083,friends,Activity,900000,1,"['Value for money', 'High-quality meat', 'Well-maintained facilities']","['Slow service', 'Limited options']",0.91,32,Female,2025-10-31
+U0084,friends,Cultural,200000,1,"['Clean facilities', 'High-quality meat', 'Attentive staff']","['Small room size', 'Unfriendly staff']",0.91,23,Female,2025-11-23
+U0085,friends,Activity,1700000,4,"['Delicious food', 'Attentive staff', 'Tender meat']","['Small room size', 'Slow service']",0.48,45,Male,2025-10-11
+U0086,friends,Cultural,500000,2,"['Affordable prices', 'Tender meat', 'Beautiful view']","['Long wait', 'Poor value']",0.39,63,Male,2025-10-19
+U0087,solo,Foodie,400000,2,"['Clean facilities', 'High-quality meat', 'Authentic taste']","['Limited menu', 'Small portions']",0.5,20,Male,2025-07-23
+U0088,solo,Cultural,700000,5,"['Clean facilities', 'Comfortable bedding', 'Value for money']","['Weak water pressure', 'Slow service']",0.52,32,Female,2025-10-19
+U0089,solo,Activity,1300000,2,"['Generous portions', 'Friendly service', 'Ocean view']","['High price', 'Lack of privacy']",0.72,55,Female,2025-02-18
+U0090,couple,Cultural,1100000,4,"['Family-friendly', 'Pleasant atmosphere', 'Quick service']","['High price', 'Small portions']",0.66,50,Both,2025-11-04
+U0091,friends,Foodie,500000,5,"['Generous portions', 'Convenient amenities', 'Delicious food']","['Poor cleanliness', 'Lack of privacy']",0.11,25,Male,2025-03-10
+U0092,couple,Activity,800000,4,"['Delicious coffee', 'Cleanliness', 'Scenic views']","['Unfriendly staff', 'Hygiene issues']",0.33,31,Both,2025-05-31
+U0093,couple,Healing,500000,5,"['Good value', 'Satisfying portions', 'High-quality meat']","['Outdated facilities', 'Small portions']",0.91,48,Both,2025-12-14
+U0094,solo,Cultural,300000,2,"['Tender meat', 'Ocean view', 'Family-friendly']","['Salty food', 'Insect presence']",0.38,39,Female,2025-08-04
+U0095,solo,Cultural,200000,2,"['Quick service', 'Authentic taste', 'Tender meat']","['Lack of privacy', 'Weak water pressure']",0.42,62,Female,2025-02-12
+U0096,friends,Foodie,500000,1,"['Authentic taste', 'Fresh seafood', 'Comfortable bedding']","['Poor food quality', 'Small room size']",0.47,18,Female,2025-11-11
+U0097,couple,Activity,400000,2,"['Convenient amenities', 'Delicious food', 'Clean facilities']","['Slow service', 'Poor value']",0.37,59,Both,2025-01-03
+U0098,couple,Healing,300000,3,"['High-quality meat', 'Spicy flavor', 'Quiet atmosphere']","['Poor cleanliness', 'Overpriced']",0.59,27,Both,2025-05-11
+U0099,couple,Healing,500000,2,"['Attentive staff', 'Pleasant atmosphere', 'Convenient amenities']","['Poor value', 'Outdated facilities']",0.85,34,Both,2025-05-14
+U0100,couple,Activity,1700000,5,"['Delicious food', 'Ocean view', 'Value for money']","['Unfriendly staff', 'Insect presence']",0.57,23,Both,2025-08-31
+U0101,friends,Foodie,1500000,2,"['Attentive staff', 'Large portions', 'Fresh seafood']","['Noise', 'Weak water pressure']",0.38,19,Female,2025-09-26
+U0102,solo,Cultural,400000,1,"['Clean facilities', 'Good value', 'Pleasant atmosphere']","['Noise', 'Unfriendly staff']",0.48,39,Female,2025-10-09
+U0103,friends,Activity,500000,3,"['Pleasant atmosphere', 'Beautiful view', 'Convenient amenities']","['Bland taste', 'Poor food quality']",0.93,62,Female,2025-06-07
+U0104,solo,Foodie,800000,3,"['Ocean view', 'Clean facilities', 'Affordable prices']","['Long wait', 'Lack of privacy']",0.1,41,Male,2025-12-02
+U0105,friends,Activity,300000,2,"['Scenic views', 'Clean room', 'Value for money']","['Small room size', 'Lack of privacy']",0.57,28,Male,2025-05-16
+U0106,couple,Cultural,500000,2,"['High-quality meat', 'Family-friendly', 'Pleasant atmosphere']","['Salty food', 'Hygiene issues']",0.58,65,Both,2025-04-08
+U0107,friends,Activity,100000,1,"['Friendly service', 'Clean room', 'Fresh seafood']","['Poor soundproofing', 'Lack of privacy']",0.3,21,Male,2025-06-23
+U0108,friends,Healing,300000,2,"['Convenient amenities', 'Generous portions', 'Attentive staff']","['Small portions', 'High price']",0.58,52,Female,2025-01-05
+U0109,solo,Cultural,700000,3,"['Quick service', 'Generous portions', 'Clean facilities']","['High price', 'Small room size']",0.9,49,Female,2025-09-09
+U0110,friends,Healing,200000,2,"['Good value', 'Tasty food', 'Clean room']","['Small portions', 'Unpleasant taste']",0.66,55,Male,2025-07-25
+U0111,solo,Foodie,800000,3,"['Beautiful view', 'Affordable prices', 'Clean facilities']","['Long wait', 'Unpleasant taste']",0.51,65,Male,2025-05-12
+U0112,solo,Activity,1100000,3,"['Scenic views', 'Fresh seafood', 'Delicious coffee']","['Small portions', 'Overpriced']",0.04,31,Female,2025-04-21
+U0113,solo,Cultural,400000,2,"['Value for money', 'Cleanliness', 'Convenient amenities']","['Limited menu', 'Poor soundproofing']",0.43,60,Female,2025-12-16
+U0114,friends,Foodie,800000,2,"['Spicy flavor', 'Tasty food', 'Tender meat']","['Outdated facilities', 'Poor value']",0.98,43,Female,2025-10-06
+U0115,couple,Cultural,600000,2,"['Clean room', 'Quick service', 'Generous portions']","['Poor food quality', 'Unpleasant taste']",0.12,45,Both,2025-01-21
+U0116,couple,Cultural,600000,3,"['Satisfying portions', 'Variety of dishes', 'Beautiful view']","['Cramped space', 'Bland taste']",0.4,61,Both,2025-03-11
+U0117,couple,Activity,1000000,5,"['Well-maintained facilities', 'Generous portions', 'Ocean view']","['Small room size', 'Hygiene issues']",0.05,33,Both,2025-09-22
+U0118,couple,Foodie,1700000,2,"['Quick service', 'Large portions', 'Good value']","['Limited options', 'Insect presence']",0.48,54,Both,2025-01-04
+U0119,couple,Healing,800000,3,"['Attentive staff', 'Comfortable bedding', 'Tender meat']","['Insect presence', 'Unpleasant taste']",0.95,31,Both,2025-09-23
+U0120,couple,Cultural,300000,1,"['Scenic views', 'Quiet atmosphere', 'Attentive staff']","['Long wait', 'Small portions']",0.62,49,Both,2025-08-11
+U0121,solo,Healing,500000,2,"['Friendly service', 'Value for money', 'Quiet atmosphere']","['Limited amenities', 'Cramped space']",0.21,41,Female,2025-08-25
+U0122,friends,Healing,400000,2,"['Large portions', 'Authentic taste', 'High-quality meat']","['Limited amenities', 'Small portions']",0.56,21,Male,2025-11-11
+U0123,couple,Foodie,1800000,2,"['Tender meat', 'Spicy flavor', 'Quick service']","['Outdated facilities', 'Bland taste']",0.89,49,Both,2025-01-20
+U0124,couple,Activity,200000,1,"['Authentic taste', 'High-quality meat', 'Scenic views']","['Overpriced', 'Long wait']",0.27,18,Both,2025-05-24
+U0125,couple,Cultural,1400000,4,"['Delicious food', 'Clean room', 'Attentive staff']","['Cramped space', 'Poor soundproofing']",0.4,45,Both,2025-06-24
+U0126,friends,Foodie,400000,2,"['High-quality meat', 'Clean facilities', 'Satisfying portions']","['Bland taste', 'Poor food quality']",0.38,24,Female,2025-10-30
+U0127,friends,Cultural,700000,3,"['Family-friendly', 'Value for money', 'Comfortable bedding']","['Small room size', 'Limited menu']",0.14,20,Male,2025-01-02
+U0128,solo,Healing,3500000,5,"['Friendly service', 'Good value', 'Spicy flavor']","['Small room size', 'Poor value']",0.8,54,Male,2025-07-21
+U0129,friends,Activity,200000,2,"['Delicious coffee', 'Scenic views', 'Variety of dishes']","['Poor food quality', 'Insect presence']",0.42,64,Female,2025-02-15
+U0130,solo,Healing,400000,1,"['Quiet atmosphere', 'Authentic taste', 'Ocean view']","['High price', 'Small room size']",0.25,55,Male,2025-05-12
+U0131,solo,Foodie,400000,2,"['Tender meat', 'Beautiful view', 'Clean facilities']","['Cramped space', 'Outdated facilities']",0.05,51,Female,2025-06-27
+U0132,solo,Foodie,300000,2,"['Spicy flavor', 'Satisfying portions', 'Pleasant atmosphere']","['Slow service', 'High price']",0.44,38,Female,2025-12-04
+U0133,solo,Cultural,1200000,5,"['Tender meat', 'Pleasant atmosphere', 'Clean facilities']","['Unfriendly staff', 'High price']",0.42,33,Female,2025-10-28
+U0134,friends,Foodie,2300000,3,"['Pleasant atmosphere', 'Generous portions', 'Ocean view']","['Noise', 'Long wait']",0.52,23,Female,2025-04-29
+U0135,friends,Activity,400000,1,"['Spicy flavor', 'Family-friendly', 'Comfortable bedding']","['Outdated facilities', 'Bland taste']",0.26,23,Male,2025-02-12
+U0136,solo,Foodie,200000,1,"['Beautiful view', 'Pleasant atmosphere', 'Family-friendly']","['Salty food', 'Poor value']",0.34,22,Male,2025-02-10
+U0137,solo,Healing,400000,2,"['Quiet atmosphere', 'Ocean view', 'Family-friendly']","['Poor cleanliness', 'Slow service']",0.01,51,Male,2025-06-18
+U0138,couple,Cultural,1500000,3,"['Clean room', 'High-quality meat', 'Delicious food']","['Poor soundproofing', 'Limited options']",0.86,24,Both,2025-07-15
+U0139,solo,Healing,1500000,2,"['Delicious coffee', 'Comfortable bedding', 'Variety of dishes']","['Limited options', 'Cramped space']",0.0,31,Male,2025-12-20
+U0140,couple,Cultural,800000,2,"['Friendly service', 'Clean facilities', 'Scenic views']","['Overpriced', 'Long wait']",0.33,39,Both,2025-02-05
+U0141,couple,Foodie,1400000,2,"['Good value', 'Family-friendly', 'High-quality meat']","['Small portions', 'Salty food']",0.62,41,Both,2025-06-06
+U0142,friends,Cultural,500000,2,"['Delicious coffee', 'Quick service', 'Tender meat']","['Unpleasant taste', 'Limited amenities']",0.49,39,Male,2025-02-17
+U0143,solo,Cultural,1500000,4,"['Family-friendly', 'Tender meat', 'Beautiful view']","['Limited amenities', 'Small room size']",0.26,54,Female,2025-05-27
+U0144,solo,Cultural,700000,3,"['Beautiful view', 'Pleasant atmosphere', 'Spicy flavor']","['Poor cleanliness', 'Overpriced']",0.54,61,Female,2025-09-11
+U0145,friends,Foodie,3000000,4,"['Tasty food', 'Spicy flavor', 'Convenient amenities']","['Limited menu', 'Noise']",0.89,30,Female,2025-10-22
+U0146,couple,Activity,500000,5,"['Cleanliness', 'Large portions', 'Comfortable bedding']","['Limited options', 'Slow service']",0.93,18,Both,2025-12-03
+U0147,friends,Healing,700000,2,"['Tasty food', 'Spicy flavor', 'Attentive staff']","['Noise', 'High price']",0.27,49,Male,2025-11-06
+U0148,friends,Cultural,1900000,2,"['Delicious coffee', 'Satisfying portions', 'Spicy flavor']","['Cramped space', 'Lack of privacy']",0.76,57,Female,2025-05-11
+U0149,couple,Healing,1100000,3,"['Tasty food', 'Cleanliness', 'High-quality meat']","['Poor cleanliness', 'Poor value']",0.75,47,Both,2025-05-01
+U0150,solo,Foodie,400000,1,"['Family-friendly', 'Clean facilities', 'Delicious food']","['Poor value', 'Salty food']",0.63,56,Male,2025-06-28
+U0151,friends,Foodie,700000,3,"['Friendly service', 'Tasty food', 'Ocean view']","['Unfriendly staff', 'Unpleasant taste']",0.2,51,Female,2025-10-04
+U0152,solo,Healing,400000,2,"['Delicious coffee', 'Quick service', 'Ocean view']","['Small room size', 'Limited amenities']",0.74,31,Male,2025-09-21
+U0153,friends,Activity,200000,1,"['Friendly service', 'Fresh seafood', 'Good value']","['Long wait', 'Weak water pressure']",0.4,22,Male,2025-08-07
+U0154,couple,Healing,200000,2,"['Cleanliness', 'Quick service', 'Large portions']","['Long wait', 'Poor cleanliness']",0.5,34,Both,2025-10-17
+U0155,friends,Healing,400000,2,"['Beautiful view', 'Good value', 'Quiet atmosphere']","['Poor value', 'Noise']",0.96,64,Female,2025-07-29
+U0156,friends,Foodie,300000,3,"['Fresh seafood', 'Convenient amenities', 'Delicious food']","['Long wait', 'Insect presence']",0.07,53,Male,2025-08-06
+U0157,friends,Foodie,100000,1,"['Pleasant atmosphere', 'Authentic taste', 'Well-maintained facilities']","['Unpleasant taste', 'Poor soundproofing']",0.77,43,Female,2025-04-16
+U0158,friends,Cultural,600000,3,"['Quiet atmosphere', 'Value for money', 'Attentive staff']","['Poor cleanliness', 'Limited amenities']",0.32,41,Male,2025-12-03
+U0159,solo,Foodie,700000,3,"['Well-maintained facilities', 'Beautiful view', 'Large portions']","['Outdated facilities', 'Small room size']",0.77,18,Male,2025-07-31
+U0160,couple,Foodie,400000,3,"['Well-maintained facilities', 'Delicious coffee', 'Tender meat']","['Small room size', 'Bland taste']",0.27,49,Both,2025-05-22
+U0161,couple,Foodie,600000,3,"['Convenient amenities', 'Clean facilities', 'Tender meat']","['Poor cleanliness', 'Unfriendly staff']",0.24,58,Both,2025-10-03
+U0162,friends,Cultural,100000,1,"['Tender meat', 'Generous portions', 'Quiet atmosphere']","['Unfriendly staff', 'Unpleasant taste']",0.14,53,Male,2025-02-16
+U0163,friends,Activity,100000,1,"['Tender meat', 'Clean facilities', 'Authentic taste']","['Poor soundproofing', 'Overpriced']",0.41,47,Male,2025-02-18
+U0164,solo,Activity,200000,2,"['Clean facilities', 'Attentive staff', 'Large portions']","['Limited amenities', 'Cramped space']",0.46,34,Male,2025-03-27
+U0165,solo,Healing,300000,1,"['Authentic taste', 'High-quality meat', 'Quick service']","['Weak water pressure', 'Slow service']",0.79,25,Female,2025-04-29
+U0166,friends,Healing,1100000,3,"['Ocean view', 'Cleanliness', 'Delicious food']","['Slow service', 'Insect presence']",0.43,29,Female,2025-10-18
+U0167,friends,Cultural,700000,2,"['Satisfying portions', 'Convenient amenities', 'Quiet atmosphere']","['Poor food quality', 'Overpriced']",0.81,49,Female,2025-06-03
+U0168,solo,Foodie,1700000,2,"['Clean facilities', 'Friendly service', 'Value for money']","['Long wait', 'Small portions']",0.95,45,Male,2025-02-14
+U0169,friends,Cultural,100000,1,"['Large portions', 'Good value', 'Friendly service']","['High price', 'Limited amenities']",0.79,48,Female,2025-05-24
+U0170,friends,Cultural,500000,2,"['Large portions', 'Attentive staff', 'Well-maintained facilities']","['Small portions', 'Long wait']",0.33,48,Female,2025-10-19
+U0171,solo,Foodie,400000,2,"['Fresh seafood', 'Convenient amenities', 'Generous portions']","['Limited amenities', 'Poor soundproofing']",1.0,46,Female,2025-09-18
+U0172,solo,Activity,300000,2,"['Tender meat', 'Variety of dishes', 'Convenient amenities']","['Small room size', 'Overpriced']",0.26,30,Female,2025-10-17
+U0173,friends,Healing,400000,2,"['Attentive staff', 'Beautiful view', 'Family-friendly']","['Overpriced', 'Insect presence']",0.19,34,Male,2025-08-23
+U0174,couple,Foodie,800000,2,"['Tasty food', 'Friendly service', 'Spicy flavor']","['Cramped space', 'Long wait']",0.95,23,Both,2025-11-15
+U0175,couple,Foodie,600000,2,"['Quick service', 'Well-maintained facilities', 'Delicious food']","['Bland taste', 'Slow service']",0.62,55,Both,2025-05-17
+U0176,couple,Activity,500000,2,"['Quiet atmosphere', 'Well-maintained facilities', 'Generous portions']","['Overpriced', 'Unpleasant taste']",0.93,52,Both,2025-05-09
+U0177,solo,Healing,1400000,4,"['Ocean view', 'Authentic taste', 'Delicious coffee']","['Insect presence', 'Limited menu']",0.65,46,Female,2025-08-02
+U0178,couple,Cultural,600000,2,"['Spicy flavor', 'Value for money', 'Quiet atmosphere']","['Limited options', 'Slow service']",0.16,21,Both,2025-10-21
+U0179,friends,Healing,400000,3,"['Tasty food', 'Satisfying portions', 'Fresh seafood']","['Bland taste', 'High price']",0.5,46,Female,2025-02-03
+U0180,solo,Activity,3000000,4,"['Convenient amenities', 'Scenic views', 'Generous portions']","['Insect presence', 'Unfriendly staff']",0.78,42,Female,2025-05-15
+U0181,solo,Foodie,1800000,2,"['Clean room', 'Well-maintained facilities', 'Tasty food']","['Poor soundproofing', 'High price']",0.76,37,Male,2025-04-18
+U0182,friends,Healing,400000,2,"['Well-maintained facilities', 'Large portions', 'Delicious food']","['Limited options', 'Poor cleanliness']",0.39,44,Female,2025-11-21
+U0183,friends,Foodie,100000,1,"['Cleanliness', 'Delicious food', 'Beautiful view']","['Bland taste', 'Limited options']",0.74,23,Male,2025-01-01
+U0184,solo,Cultural,2800000,3,"['High-quality meat', 'Authentic taste', 'Delicious food']","['Bland taste', 'Poor soundproofing']",0.7,62,Female,2025-07-29
+U0185,couple,Cultural,200000,2,"['Variety of dishes', 'Tasty food', 'Comfortable bedding']","['Insect presence', 'Hygiene issues']",0.16,28,Both,2025-02-07
+U0186,solo,Cultural,400000,4,"['Clean facilities', 'Friendly service', 'Value for money']","['Slow service', 'Limited options']",0.14,34,Female,2025-08-20
+U0187,couple,Healing,200000,2,"['Quiet atmosphere', 'Variety of dishes', 'Delicious coffee']","['Unpleasant taste', 'Lack of privacy']",0.36,33,Both,2025-10-27
+U0188,couple,Foodie,500000,3,"['Tender meat', 'Delicious food', 'Variety of dishes']","['Weak water pressure', 'Small portions']",0.85,46,Both,2025-09-17
+U0189,couple,Healing,600000,3,"['Tasty food', 'Convenient amenities', 'Quiet atmosphere']","['Poor value', 'Limited menu']",0.37,29,Both,2025-12-25
+U0190,solo,Cultural,900000,4,"['Convenient amenities', 'Tasty food', 'Fresh seafood']","['Unpleasant taste', 'Small portions']",0.39,49,Female,2025-10-26
+U0191,couple,Activity,800000,3,"['Clean facilities', 'Affordable prices', 'Scenic views']","['High price', 'Cramped space']",0.89,56,Both,2025-11-26
+U0192,solo,Healing,300000,2,"['Clean facilities', 'Value for money', 'Beautiful view']","['Noise', 'Limited options']",0.33,60,Female,2025-06-08
+U0193,couple,Activity,2200000,3,"['Family-friendly', 'Tasty food', 'Comfortable bedding']","['Overpriced', 'Unpleasant taste']",0.55,36,Both,2025-01-12
+U0194,solo,Cultural,300000,3,"['Friendly service', 'Convenient amenities', 'High-quality meat']","['Poor food quality', 'Poor cleanliness']",0.01,63,Female,2025-03-19
+U0195,solo,Foodie,200000,2,"['Variety of dishes', 'Attentive staff', 'Tender meat']","['Poor food quality', 'Insect presence']",0.01,58,Female,2025-12-27
+U0196,friends,Cultural,600000,5,"['Attentive staff', 'Tasty food', 'Spicy flavor']","['Weak water pressure', 'Cramped space']",0.73,38,Female,2025-01-07
+U0197,couple,Foodie,100000,1,"['Tasty food', 'Beautiful view', 'Attentive staff']","['Small portions', 'Overpriced']",0.81,33,Both,2025-11-17
+U0198,couple,Healing,300000,1,"['Clean facilities', 'Convenient amenities', 'Delicious coffee']","['Limited amenities', 'High price']",0.75,39,Both,2025-09-11
+U0199,friends,Healing,300000,3,"['Delicious food', 'Fresh seafood', 'Ocean view']","['Small portions', 'Long wait']",0.29,55,Female,2025-07-14
+U0200,couple,Healing,700000,1,"['High-quality meat', 'Value for money', 'Generous portions']","['Poor value', 'Noise']",0.97,47,Both,2025-07-02
+U0201,friends,Cultural,1800000,2,"['Comfortable bedding', 'Quick service', 'Well-maintained facilities']","['Salty food', 'Limited amenities']",0.4,47,Male,2025-01-02
+U0202,solo,Healing,800000,3,"['Quiet atmosphere', 'Affordable prices', 'Attentive staff']","['Limited options', 'Poor value']",0.4,53,Female,2025-03-24
+U0203,solo,Foodie,2700000,3,"['Cleanliness', 'Delicious coffee', 'Well-maintained facilities']","['Outdated facilities', 'Unpleasant taste']",0.07,23,Female,2025-08-23
+U0204,solo,Cultural,200000,2,"['High-quality meat', 'Value for money', 'Friendly service']","['Limited options', 'Bland taste']",0.85,18,Female,2025-11-20
+U0205,solo,Activity,900000,4,"['Convenient amenities', 'Beautiful view', 'Spicy flavor']","['Limited amenities', 'Poor food quality']",0.41,49,Male,2025-04-03
+U0206,friends,Healing,600000,2,"['Family-friendly', 'Fresh seafood', 'Variety of dishes']","['Unfriendly staff', 'Insect presence']",0.27,47,Male,2025-04-06
+U0207,solo,Cultural,1500000,4,"['Quick service', 'Scenic views', 'Fresh seafood']","['Poor value', 'Hygiene issues']",0.98,26,Male,2025-05-20
+U0208,friends,Cultural,1400000,2,"['Tender meat', 'Ocean view', 'Good value']","['Cramped space', 'High price']",0.58,55,Male,2025-11-28
+U0209,friends,Healing,300000,2,"['Quick service', 'Well-maintained facilities', 'Tasty food']","['Unfriendly staff', 'Noise']",0.95,36,Male,2025-06-22
+U0210,couple,Activity,1000000,2,"['Value for money', 'Friendly service', 'Variety of dishes']","['Slow service', 'Weak water pressure']",0.51,39,Both,2025-06-19
+U0211,couple,Cultural,1100000,5,"['Authentic taste', 'Tasty food', 'Clean facilities']","['Long wait', 'Outdated facilities']",0.28,54,Both,2025-01-29
+U0212,solo,Foodie,2000000,3,"['Ocean view', 'Authentic taste', 'Tender meat']","['Salty food', 'Insect presence']",0.31,38,Female,2025-12-06
+U0213,solo,Foodie,200000,2,"['Quiet atmosphere', 'Scenic views', 'Good value']","['Poor food quality', 'Insect presence']",0.62,61,Female,2025-11-15
+U0214,couple,Foodie,200000,2,"['Delicious coffee', 'Family-friendly', 'Tender meat']","['Lack of privacy', 'High price']",0.14,65,Both,2025-11-28
+U0215,friends,Activity,900000,2,"['Tender meat', 'Pleasant atmosphere', 'Attentive staff']","['Slow service', 'Limited options']",0.1,23,Female,2025-08-31
+U0216,solo,Healing,500000,2,"['Beautiful view', 'Family-friendly', 'Quick service']","['Lack of privacy', 'High price']",0.69,37,Male,2025-10-26
+U0217,couple,Healing,200000,1,"['Convenient amenities', 'Variety of dishes', 'Friendly service']","['Hygiene issues', 'High price']",0.76,60,Both,2025-01-11
+U0218,solo,Healing,800000,4,"['High-quality meat', 'Family-friendly', 'Quiet atmosphere']","['Limited amenities', 'Limited options']",0.36,57,Male,2025-04-02
+U0219,solo,Cultural,1500000,4,"['Tender meat', 'Friendly service', 'Variety of dishes']","['Small portions', 'Poor food quality']",0.34,19,Male,2025-01-20
+U0220,friends,Activity,600000,5,"['Fresh seafood', 'Clean facilities', 'Satisfying portions']","['Poor soundproofing', 'Unpleasant taste']",0.12,22,Female,2025-01-17
+U0221,couple,Activity,600000,3,"['Pleasant atmosphere', 'Beautiful view', 'Delicious food']","['Limited options', 'Cramped space']",0.62,45,Both,2025-12-06
+U0222,solo,Cultural,200000,2,"['Affordable prices', 'Generous portions', 'Well-maintained facilities']","['High price', 'Weak water pressure']",0.81,44,Male,2025-03-17
+U0223,couple,Healing,900000,1,"['Comfortable bedding', 'High-quality meat', 'Generous portions']","['Limited menu', 'Bland taste']",0.18,39,Both,2025-05-04
+U0224,couple,Healing,3300000,4,"['Fresh seafood', 'Well-maintained facilities', 'Clean facilities']","['Long wait', 'Limited amenities']",0.27,50,Both,2025-09-05
+U0225,couple,Healing,1100000,5,"['Attentive staff', 'Variety of dishes', 'Large portions']","['Lack of privacy', 'Limited options']",0.55,30,Both,2025-11-01
+U0226,friends,Foodie,2800000,3,"['Generous portions', 'Clean facilities', 'Authentic taste']","['Insect presence', 'Outdated facilities']",0.9,49,Male,2025-05-21
+U0227,friends,Healing,800000,2,"['Delicious food', 'Well-maintained facilities', 'Authentic taste']","['Poor value', 'Unpleasant taste']",0.92,20,Female,2025-06-17
+U0228,friends,Activity,900000,2,"['Delicious food', 'Ocean view', 'Attentive staff']","['Limited amenities', 'Small room size']",0.36,48,Female,2025-12-05
+U0229,friends,Healing,500000,3,"['Authentic taste', 'Delicious food', 'Cleanliness']","['Salty food', 'Limited amenities']",0.69,48,Female,2025-01-23
+U0230,couple,Foodie,2400000,3,"['Cleanliness', 'Quiet atmosphere', 'Beautiful view']","['Limited amenities', 'Weak water pressure']",0.22,24,Both,2025-09-30
+U0231,solo,Cultural,500000,3,"['Quick service', 'Authentic taste', 'High-quality meat']","['High price', 'Limited menu']",0.76,54,Male,2025-02-25
+U0232,solo,Foodie,1500000,2,"['Delicious coffee', 'High-quality meat', 'Quick service']","['High price', 'Noise']",0.25,61,Male,2025-07-03
+U0233,couple,Activity,700000,2,"['Spicy flavor', 'Beautiful view', 'Clean room']","['Limited options', 'Slow service']",0.9,43,Both,2025-07-24
+U0234,solo,Foodie,1200000,4,"['Quiet atmosphere', 'High-quality meat', 'Good value']","['Limited amenities', 'Cramped space']",0.19,34,Female,2025-03-17
+U0235,couple,Foodie,2100000,3,"['Cleanliness', 'Delicious food', 'High-quality meat']","['Noise', 'Limited options']",0.38,18,Both,2025-08-01
+U0236,friends,Cultural,1300000,2,"['Authentic taste', 'Tender meat', 'Good value']","['Limited menu', 'Outdated facilities']",0.83,32,Male,2025-03-23
+U0237,couple,Activity,500000,2,"['Authentic taste', 'Comfortable bedding', 'Family-friendly']","['Unpleasant taste', 'Overpriced']",0.32,29,Both,2025-03-14
+U0238,couple,Healing,500000,2,"['Ocean view', 'Authentic taste', 'Delicious food']","['Long wait', 'Lack of privacy']",0.45,55,Both,2025-11-20
+U0239,couple,Cultural,1700000,2,"['Variety of dishes', 'Satisfying portions', 'Delicious food']","['Bland taste', 'Hygiene issues']",0.82,40,Both,2025-08-17
+U0240,friends,Foodie,1300000,5,"['Satisfying portions', 'Authentic taste', 'Ocean view']","['Poor soundproofing', 'Bland taste']",0.91,62,Female,2025-01-20
+U0241,couple,Cultural,300000,1,"['Quick service', 'Ocean view', 'Variety of dishes']","['Long wait', 'Lack of privacy']",0.74,18,Both,2025-02-21
+U0242,couple,Cultural,400000,1,"['Quick service', 'Delicious coffee', 'Good value']","['Long wait', 'Limited amenities']",0.43,23,Both,2025-01-13
+U0243,friends,Foodie,700000,3,"['Family-friendly', 'Generous portions', 'Variety of dishes']","['Limited amenities', 'Overpriced']",0.99,23,Female,2025-12-02
+U0244,friends,Activity,1300000,2,"['Affordable prices', 'Beautiful view', 'Attentive staff']","['Poor soundproofing', 'Bland taste']",0.17,39,Male,2025-07-29
+U0245,solo,Cultural,1300000,5,"['Authentic taste', 'Ocean view', 'Cleanliness']","['High price', 'Salty food']",0.94,39,Male,2025-09-24
+U0246,friends,Cultural,300000,3,"['Comfortable bedding', 'Satisfying portions', 'Clean room']","['Poor food quality', 'Noise']",0.46,56,Female,2025-07-08
+U0247,friends,Healing,2300000,3,"['Variety of dishes', 'Good value', 'Large portions']","['Slow service', 'Lack of privacy']",0.76,40,Female,2025-01-11
+U0248,couple,Activity,1500000,3,"['Well-maintained facilities', 'Delicious food', 'Pleasant atmosphere']","['Salty food', 'Poor soundproofing']",0.04,23,Both,2025-12-12
+U0249,couple,Cultural,600000,5,"['High-quality meat', 'Well-maintained facilities', 'Generous portions']","['Poor value', 'Small room size']",0.35,21,Both,2025-12-22
+U0250,friends,Activity,1000000,2,"['Spicy flavor', 'Ocean view', 'Delicious food']","['Overpriced', 'Small room size']",0.55,39,Female,2025-09-06
+U0251,friends,Activity,400000,2,"['Scenic views', 'Delicious coffee', 'Large portions']","['Unfriendly staff', 'Hygiene issues']",0.48,30,Female,2025-11-22
+U0252,solo,Activity,200000,1,"['Authentic taste', 'Beautiful view', 'Tasty food']","['Poor soundproofing', 'Small portions']",0.68,29,Male,2025-02-25
+U0253,couple,Healing,300000,3,"['Fresh seafood', 'Delicious coffee', 'Large portions']","['Long wait', 'Lack of privacy']",0.19,40,Both,2025-12-27
+U0254,friends,Activity,300000,2,"['Tender meat', 'Value for money', 'Pleasant atmosphere']","['Poor soundproofing', 'Small portions']",0.34,59,Female,2025-12-08
+U0255,friends,Cultural,1500000,3,"['Cleanliness', 'Spicy flavor', 'Value for money']","['Poor food quality', 'Slow service']",0.53,23,Female,2025-06-09
+U0256,solo,Activity,500000,4,"['Family-friendly', 'Cleanliness', 'Friendly service']","['Unfriendly staff', 'Limited amenities']",0.95,29,Male,2025-09-22
+U0257,solo,Healing,300000,3,"['Quick service', 'Convenient amenities', 'Fresh seafood']","['Bland taste', 'Poor value']",0.88,60,Female,2025-03-17
+U0258,couple,Cultural,500000,1,"['Pleasant atmosphere', 'Well-maintained facilities', 'Variety of dishes']","['Overpriced', 'Poor cleanliness']",0.95,54,Both,2025-05-06
+U0259,friends,Activity,200000,2,"['Tasty food', 'Friendly service', 'Satisfying portions']","['Unfriendly staff', 'Bland taste']",0.92,19,Female,2025-06-05
+U0260,solo,Activity,600000,3,"['Delicious coffee', 'Convenient amenities', 'Generous portions']","['Cramped space', 'Poor cleanliness']",0.82,50,Female,2025-06-26
+U0261,friends,Cultural,500000,3,"['Affordable prices', 'Tasty food', 'Family-friendly']","['Limited options', 'Insect presence']",0.49,42,Male,2025-10-18
+U0262,friends,Cultural,4700000,5,"['Large portions', 'Delicious coffee', 'Attentive staff']","['Unpleasant taste', 'Limited options']",0.79,36,Female,2025-04-26
+U0263,couple,Foodie,1500000,2,"['High-quality meat', 'Friendly service', 'Delicious coffee']","['Unpleasant taste', 'Noise']",0.58,52,Both,2025-04-25
+U0264,friends,Healing,700000,2,"['Convenient amenities', 'Tender meat', 'Cleanliness']","['Hygiene issues', 'Unfriendly staff']",0.99,45,Male,2025-03-26
+U0265,friends,Foodie,900000,4,"['Family-friendly', 'Comfortable bedding', 'Friendly service']","['Limited options', 'Slow service']",0.18,60,Female,2025-07-29
+U0266,couple,Activity,1500000,4,"['Fresh seafood', 'Scenic views', 'Good value']","['Limited amenities', 'Unfriendly staff']",0.21,49,Both,2025-11-18
+U0267,friends,Foodie,400000,1,"['Attentive staff', 'Scenic views', 'Delicious food']","['Poor soundproofing', 'Poor value']",0.27,30,Male,2025-02-14
+U0268,friends,Foodie,500000,5,"['Fresh seafood', 'Friendly service', 'Generous portions']","['Lack of privacy', 'Unfriendly staff']",0.65,51,Female,2025-03-04
+U0269,solo,Cultural,600000,3,"['High-quality meat', 'Quick service', 'Cleanliness']","['Outdated facilities', 'Small room size']",0.14,45,Female,2025-11-06
+U0270,couple,Foodie,1400000,2,"['Convenient amenities', 'Satisfying portions', 'High-quality meat']","['Cramped space', 'Limited options']",0.86,23,Both,2025-05-21
+U0271,friends,Activity,500000,2,"['Quick service', 'Pleasant atmosphere', 'Delicious food']","['Poor value', 'Poor soundproofing']",0.37,29,Female,2025-01-11
+U0272,friends,Cultural,600000,3,"['Delicious food', 'High-quality meat', 'Family-friendly']","['Slow service', 'Overpriced']",0.04,29,Male,2025-03-14
+U0273,solo,Activity,3700000,4,"['Variety of dishes', 'Tasty food', 'Attentive staff']","['Poor value', 'Insect presence']",0.13,49,Male,2025-01-26
+U0274,solo,Foodie,1800000,4,"['Beautiful view', 'Cleanliness', 'Family-friendly']","['Insect presence', 'Unpleasant taste']",0.61,46,Male,2025-10-18
+U0275,friends,Healing,200000,2,"['Generous portions', 'Affordable prices', 'Comfortable bedding']","['Poor cleanliness', 'Small portions']",1.0,45,Female,2025-01-10
+U0276,couple,Foodie,800000,1,"['Comfortable bedding', 'High-quality meat', 'Tasty food']","['Limited amenities', 'Weak water pressure']",0.4,54,Both,2025-12-24
+U0277,solo,Cultural,200000,1,"['Clean facilities', 'Spicy flavor', 'Scenic views']","['Unpleasant taste', 'Limited menu']",0.04,40,Male,2025-07-22
+U0278,couple,Activity,200000,2,"['Well-maintained facilities', 'Beautiful view', 'Good value']","['Poor cleanliness', 'Slow service']",0.32,40,Both,2025-01-04
+U0279,couple,Healing,1300000,5,"['Beautiful view', 'Spicy flavor', 'Well-maintained facilities']","['Noise', 'Long wait']",0.04,26,Both,2025-01-23
+U0280,friends,Foodie,2100000,5,"['Good value', 'Large portions', 'Quiet atmosphere']","['Weak water pressure', 'Lack of privacy']",0.46,20,Female,2025-06-15
+U0281,friends,Activity,1000000,4,"['Variety of dishes', 'Comfortable bedding', 'Scenic views']","['Weak water pressure', 'Small portions']",0.01,63,Female,2025-09-02
+U0282,solo,Activity,200000,1,"['Comfortable bedding', 'Scenic views', 'High-quality meat']","['Noise', 'Outdated facilities']",0.46,45,Female,2025-08-21
+U0283,couple,Cultural,200000,2,"['Quick service', 'Clean facilities', 'Beautiful view']","['Unpleasant taste', 'Small room size']",0.06,59,Both,2025-10-02
+U0284,couple,Cultural,300000,2,"['High-quality meat', 'Pleasant atmosphere', 'Variety of dishes']","['Slow service', 'Small room size']",0.53,51,Both,2025-02-21
+U0285,couple,Foodie,400000,2,"['Beautiful view', 'Clean room', 'Tender meat']","['Limited options', 'Bland taste']",0.91,48,Both,2025-10-23
+U0286,friends,Healing,2600000,3,"['Authentic taste', 'Well-maintained facilities', 'Beautiful view']","['Small portions', 'Poor food quality']",0.08,55,Male,2025-03-31
+U0287,friends,Cultural,200000,2,"['Delicious food', 'Clean room', 'Pleasant atmosphere']","['Outdated facilities', 'Poor food quality']",0.25,32,Female,2025-11-04
+U0288,solo,Cultural,700000,1,"['Attentive staff', 'Family-friendly', 'Large portions']","['Limited options', 'Cramped space']",0.32,64,Male,2025-05-04
+U0289,couple,Activity,700000,2,"['Scenic views', 'Well-maintained facilities', 'Variety of dishes']","['Poor food quality', 'Hygiene issues']",0.26,57,Both,2025-11-04
+U0290,couple,Healing,200000,2,"['Tender meat', 'Friendly service', 'Affordable prices']","['Long wait', 'Limited amenities']",0.86,28,Both,2025-10-01
+U0291,solo,Activity,200000,1,"['Ocean view', 'Good value', 'Friendly service']","['High price', 'Poor cleanliness']",0.01,54,Male,2025-09-28
+U0292,friends,Healing,500000,5,"['Tasty food', 'Fresh seafood', 'Clean facilities']","['Poor soundproofing', 'Poor cleanliness']",0.39,65,Male,2025-03-14
+U0293,solo,Activity,200000,1,"['Generous portions', 'Well-maintained facilities', 'Authentic taste']","['Hygiene issues', 'Small room size']",0.71,60,Female,2025-03-30
+U0294,solo,Activity,1100000,5,"['High-quality meat', 'Value for money', 'Family-friendly']","['Outdated facilities', 'Hygiene issues']",0.06,42,Female,2025-11-14
+U0295,friends,Activity,700000,2,"['Delicious coffee', 'Quick service', 'Authentic taste']","['Poor soundproofing', 'Small room size']",0.02,24,Male,2025-06-28
+U0296,friends,Activity,200000,1,"['Comfortable bedding', 'Delicious food', 'Variety of dishes']","['Unpleasant taste', 'Limited options']",0.1,28,Female,2025-04-30
+U0297,friends,Activity,200000,2,"['Satisfying portions', 'Clean facilities', 'Good value']","['Small portions', 'Hygiene issues']",0.25,63,Male,2025-11-20
+U0298,couple,Foodie,1700000,5,"['Generous portions', 'Variety of dishes', 'Clean room']","['Poor cleanliness', 'Limited amenities']",0.44,27,Both,2025-02-13
+U0299,couple,Foodie,500000,5,"['Fresh seafood', 'Ocean view', 'Delicious coffee']","['Long wait', 'Limited amenities']",0.22,65,Both,2025-10-06
+U0300,solo,Foodie,400000,2,"['Tasty food', 'Value for money', 'Attentive staff']","['Long wait', 'Hygiene issues']",0.22,35,Male,2025-03-11
+U0301,couple,Activity,400000,3,"['Family-friendly', 'High-quality meat', 'Authentic taste']","['Insect presence', 'Poor value']",0.39,20,Both,2025-03-15
+U0302,couple,Cultural,100000,1,"['Quiet atmosphere', 'Fresh seafood', 'Ocean view']","['Salty food', 'Unfriendly staff']",0.99,60,Both,2025-12-16
+U0303,solo,Activity,200000,2,"['Cleanliness', 'Value for money', 'Fresh seafood']","['Limited amenities', 'Poor soundproofing']",0.64,23,Female,2025-05-26
+U0304,couple,Healing,1300000,2,"['Friendly service', 'Clean room', 'Affordable prices']","['Unfriendly staff', 'Small portions']",0.16,34,Both,2025-06-09
+U0305,solo,Activity,500000,3,"['Well-maintained facilities', 'Attentive staff', 'Delicious coffee']","['Salty food', 'Outdated facilities']",0.24,37,Male,2025-09-10
+U0306,couple,Activity,900000,4,"['Family-friendly', 'Delicious food', 'Variety of dishes']","['Poor soundproofing', 'Unfriendly staff']",0.55,61,Both,2025-08-08
+U0307,solo,Healing,500000,2,"['Comfortable bedding', 'Variety of dishes', 'Cleanliness']","['Bland taste', 'Unfriendly staff']",0.91,30,Female,2025-01-21
+U0308,friends,Healing,100000,1,"['Generous portions', 'Cleanliness', 'Variety of dishes']","['Poor value', 'Hygiene issues']",0.18,64,Female,2025-11-18
+U0309,solo,Activity,200000,1,"['Scenic views', 'Friendly service', 'Comfortable bedding']","['Unfriendly staff', 'Poor soundproofing']",0.48,46,Female,2025-07-04
+U0310,friends,Foodie,500000,2,"['Clean room', 'Large portions', 'Scenic views']","['Unfriendly staff', 'Outdated facilities']",0.08,52,Female,2025-03-12
+U0311,solo,Foodie,1000000,5,"['Attentive staff', 'Delicious food', 'Family-friendly']","['Cramped space', 'Insect presence']",0.48,46,Female,2025-09-29
+U0312,friends,Activity,400000,2,"['Family-friendly', 'Spicy flavor', 'Quick service']","['Hygiene issues', 'Small room size']",0.57,63,Female,2025-02-25
+U0313,solo,Activity,3100000,4,"['Pleasant atmosphere', 'Clean room', 'Affordable prices']","['Lack of privacy', 'Cramped space']",0.92,37,Female,2025-02-21
+U0314,friends,Healing,500000,2,"['Clean room', 'Value for money', 'Beautiful view']","['Weak water pressure', 'Unfriendly staff']",0.24,63,Female,2025-05-03
+U0315,friends,Healing,400000,2,"['Clean facilities', 'Good value', 'Generous portions']","['Noise', 'Small room size']",0.46,43,Female,2025-12-07
+U0316,couple,Cultural,1100000,3,"['Tender meat', 'Quick service', 'Clean room']","['Unfriendly staff', 'High price']",0.72,27,Both,2025-06-24
+U0317,friends,Activity,900000,1,"['Ocean view', 'Clean room', 'Comfortable bedding']","['Limited menu', 'Slow service']",0.28,58,Female,2025-08-16
+U0318,solo,Healing,300000,2,"['Quiet atmosphere', 'Attentive staff', 'Authentic taste']","['Insect presence', 'Cramped space']",0.11,37,Male,2025-12-10
+U0319,friends,Cultural,100000,1,"['Quiet atmosphere', 'Affordable prices', 'Large portions']","['Cramped space', 'Salty food']",0.26,57,Female,2025-08-13
+U0320,solo,Cultural,500000,5,"['High-quality meat', 'Generous portions', 'Cleanliness']","['Bland taste', 'Lack of privacy']",0.06,44,Female,2025-11-16
+U0321,friends,Healing,400000,2,"['Clean room', 'Convenient amenities', 'Affordable prices']","['Limited amenities', 'Limited options']",0.45,42,Female,2025-07-15
+U0322,solo,Healing,100000,1,"['Well-maintained facilities', 'Good value', 'Tender meat']","['Lack of privacy', 'Bland taste']",0.45,50,Male,2025-12-15
+U0323,couple,Healing,800000,5,"['Delicious coffee', 'Affordable prices', 'Spicy flavor']","['Small room size', 'Long wait']",0.87,62,Both,2025-06-10
+U0324,solo,Healing,1700000,2,"['Friendly service', 'Delicious coffee', 'Spicy flavor']","['Long wait', 'Poor soundproofing']",0.74,43,Female,2025-12-07
+U0325,friends,Healing,400000,2,"['Affordable prices', 'Convenient amenities', 'High-quality meat']","['Slow service', 'Weak water pressure']",0.49,61,Female,2025-01-20
+U0326,friends,Activity,1200000,4,"['Large portions', 'Comfortable bedding', 'Spicy flavor']","['Noise', 'Cramped space']",0.32,34,Male,2025-09-30
+U0327,friends,Cultural,2300000,3,"['Large portions', 'Quiet atmosphere', 'Authentic taste']","['Noise', 'Overpriced']",0.81,28,Female,2025-03-27
+U0328,friends,Cultural,1000000,4,"['Large portions', 'Well-maintained facilities', 'Pleasant atmosphere']","['Cramped space', 'Insect presence']",0.87,41,Male,2025-11-04
+U0329,couple,Cultural,300000,1,"['Spicy flavor', 'Delicious coffee', 'Large portions']","['Poor food quality', 'Limited amenities']",0.79,52,Both,2025-11-02
+U0330,solo,Foodie,400000,2,"['Good value', 'Quick service', 'Ocean view']","['Small room size', 'Outdated facilities']",0.81,39,Female,2025-11-09
+U0331,friends,Activity,400000,2,"['Quiet atmosphere', 'Value for money', 'Family-friendly']","['Limited amenities', 'Small room size']",0.13,58,Male,2025-04-03
+U0332,solo,Activity,700000,5,"['Tasty food', 'Affordable prices', 'Family-friendly']","['Salty food', 'Outdated facilities']",0.25,18,Male,2025-10-01
+U0333,friends,Activity,300000,2,"['Delicious food', 'Friendly service', 'Value for money']","['Poor value', 'Noise']",0.22,54,Male,2025-02-09
+U0334,friends,Healing,200000,1,"['Fresh seafood', 'Pleasant atmosphere', 'Delicious food']","['Hygiene issues', 'Bland taste']",0.71,65,Female,2025-02-12
+U0335,friends,Cultural,1300000,2,"['Clean room', 'Value for money', 'Large portions']","['Hygiene issues', 'Limited menu']",0.79,43,Male,2025-09-13
+U0336,couple,Foodie,200000,2,"['Satisfying portions', 'Variety of dishes', 'Quiet atmosphere']","['Poor cleanliness', 'Bland taste']",0.46,40,Both,2025-04-01
+U0337,couple,Cultural,500000,2,"['Delicious food', 'Cleanliness', 'Quick service']","['Long wait', 'Insect presence']",0.48,64,Both,2025-10-22
+U0338,friends,Healing,1000000,4,"['Authentic taste', 'Good value', 'Satisfying portions']","['Insect presence', 'Long wait']",0.3,61,Female,2025-12-28
+U0339,solo,Activity,300000,2,"['Pleasant atmosphere', 'Beautiful view', 'Large portions']","['Cramped space', 'Hygiene issues']",0.47,61,Female,2025-03-11
+U0340,couple,Cultural,1600000,2,"['Friendly service', 'Family-friendly', 'Clean facilities']","['Unpleasant taste', 'Overpriced']",0.81,25,Both,2025-09-19
+U0341,friends,Cultural,200000,2,"['Comfortable bedding', 'Good value', 'Satisfying portions']","['High price', 'Poor cleanliness']",0.37,52,Female,2025-02-24
+U0342,solo,Activity,1100000,3,"['Attentive staff', 'High-quality meat', 'Comfortable bedding']","['Long wait', 'Insect presence']",0.42,24,Male,2025-08-18
+U0343,friends,Activity,800000,2,"['Beautiful view', 'Attentive staff', 'Variety of dishes']","['Salty food', 'High price']",0.31,51,Female,2025-06-27
+U0344,couple,Cultural,1600000,2,"['Quick service', 'Quiet atmosphere', 'Clean facilities']","['Noise', 'Cramped space']",0.65,49,Both,2025-03-31
+U0345,friends,Foodie,500000,3,"['Tender meat', 'Quick service', 'Generous portions']","['Small room size', 'Lack of privacy']",0.15,59,Female,2025-08-23
+U0346,solo,Cultural,1000000,3,"['Tender meat', 'Clean room', 'Value for money']","['Poor food quality', 'Slow service']",0.56,33,Female,2025-03-09
+U0347,couple,Cultural,200000,2,"['Delicious food', 'Good value', 'Quiet atmosphere']","['Hygiene issues', 'Unpleasant taste']",0.62,60,Both,2025-01-04
+U0348,solo,Cultural,800000,5,"['Good value', 'Cleanliness', 'High-quality meat']","['Poor value', 'Long wait']",0.86,18,Male,2025-03-15
+U0349,friends,Healing,500000,5,"['Quiet atmosphere', 'Generous portions', 'Authentic taste']","['Poor cleanliness', 'Poor food quality']",0.52,44,Male,2025-05-15
+U0350,friends,Activity,500000,3,"['Beautiful view', 'Pleasant atmosphere', 'Large portions']","['Limited amenities', 'Salty food']",0.25,26,Female,2025-10-13
+U0351,couple,Activity,300000,2,"['Convenient amenities', 'Cleanliness', 'Spicy flavor']","['Unpleasant taste', 'Lack of privacy']",0.4,24,Both,2025-03-15
+U0352,friends,Foodie,200000,2,"['Tender meat', 'Quiet atmosphere', 'Family-friendly']","['Slow service', 'Poor value']",0.5,33,Male,2025-01-27
+U0353,friends,Healing,400000,3,"['Quick service', 'Satisfying portions', 'Quiet atmosphere']","['Limited options', 'Cramped space']",0.29,57,Female,2025-03-01
+U0354,friends,Foodie,1000000,3,"['Quiet atmosphere', 'Affordable prices', 'Tasty food']","['Unfriendly staff', 'Limited options']",0.09,32,Male,2025-02-23
+U0355,friends,Cultural,500000,2,"['Ocean view', 'Delicious coffee', 'Clean room']","['Small portions', 'Lack of privacy']",0.54,58,Male,2025-08-23
+U0356,solo,Healing,1000000,2,"['Pleasant atmosphere', 'Beautiful view', 'Tasty food']","['Bland taste', 'Outdated facilities']",0.37,22,Male,2025-08-17
+U0357,couple,Healing,400000,2,"['Satisfying portions', 'Comfortable bedding', 'Delicious coffee']","['High price', 'Slow service']",0.71,55,Both,2025-10-11
+U0358,couple,Activity,3300000,5,"['Satisfying portions', 'Cleanliness', 'Value for money']","['Overpriced', 'Limited amenities']",0.76,64,Both,2025-02-14
+U0359,solo,Activity,700000,3,"['Quick service', 'Tasty food', 'Convenient amenities']","['Poor value', 'Unfriendly staff']",0.79,53,Female,2025-03-07
+U0360,solo,Activity,1200000,5,"['Large portions', 'Clean facilities', 'Convenient amenities']","['Poor food quality', 'Limited amenities']",0.68,44,Male,2025-07-24
+U0361,solo,Cultural,200000,1,"['Friendly service', 'Quiet atmosphere', 'Family-friendly']","['Insect presence', 'Bland taste']",0.87,42,Male,2025-09-02
+U0362,solo,Healing,300000,3,"['Friendly service', 'Tender meat', 'Well-maintained facilities']","['Weak water pressure', 'Outdated facilities']",0.31,27,Male,2025-12-08
+U0363,couple,Foodie,500000,4,"['Spicy flavor', 'Ocean view', 'Delicious food']","['High price', 'Slow service']",0.62,45,Both,2025-02-07
+U0364,friends,Activity,500000,2,"['Tender meat', 'Affordable prices', 'Large portions']","['Poor soundproofing', 'Salty food']",0.69,54,Female,2025-07-10
+U0365,friends,Foodie,600000,2,"['Satisfying portions', 'Beautiful view', 'Authentic taste']","['Small portions', 'Poor cleanliness']",0.88,49,Female,2025-07-15
+U0366,solo,Activity,500000,2,"['Satisfying portions', 'High-quality meat', 'Affordable prices']","['Weak water pressure', 'Small room size']",0.44,21,Male,2025-02-26
+U0367,solo,Cultural,200000,1,"['Value for money', 'Delicious food', 'Clean room']","['Insect presence', 'Weak water pressure']",0.96,64,Male,2025-07-16
+U0368,friends,Activity,300000,3,"['Good value', 'Ocean view', 'Quiet atmosphere']","['Salty food', 'Poor cleanliness']",0.71,32,Male,2025-09-19
+U0369,friends,Activity,900000,2,"['Satisfying portions', 'Beautiful view', 'Good value']","['Unpleasant taste', 'Long wait']",0.69,30,Female,2025-03-17
+U0370,couple,Healing,300000,1,"['Delicious coffee', 'Family-friendly', 'Pleasant atmosphere']","['Salty food', 'Limited menu']",0.38,62,Both,2025-08-22
+U0371,couple,Healing,1100000,4,"['Attentive staff', 'Pleasant atmosphere', 'Good value']","['Unpleasant taste', 'Slow service']",0.47,58,Both,2025-09-25
+U0372,solo,Foodie,1000000,2,"['Well-maintained facilities', 'Friendly service', 'Delicious food']","['Poor food quality', 'Hygiene issues']",0.31,24,Female,2025-12-24
+U0373,solo,Foodie,300000,1,"['Authentic taste', 'Satisfying portions', 'Affordable prices']","['Salty food', 'Weak water pressure']",0.37,40,Female,2025-11-22
+U0374,friends,Foodie,400000,2,"['Beautiful view', 'Tasty food', 'Authentic taste']","['Cramped space', 'Bland taste']",0.96,26,Female,2025-12-04
+U0375,friends,Healing,500000,2,"['Authentic taste', 'Pleasant atmosphere', 'Convenient amenities']","['Poor soundproofing', 'Unfriendly staff']",0.45,29,Female,2025-01-03
+U0376,solo,Cultural,700000,4,"['Beautiful view', 'Spicy flavor', 'Satisfying portions']","['Lack of privacy', 'Poor soundproofing']",0.91,49,Female,2025-01-20
+U0377,couple,Foodie,300000,3,"['Scenic views', 'Pleasant atmosphere', 'Tender meat']","['Insect presence', 'Hygiene issues']",1.0,32,Both,2025-08-21
+U0378,solo,Cultural,400000,3,"['Large portions', 'High-quality meat', 'Variety of dishes']","['Cramped space', 'Limited amenities']",0.21,54,Female,2025-03-03
+U0379,friends,Cultural,1500000,2,"['Variety of dishes', 'Scenic views', 'Satisfying portions']","['Lack of privacy', 'Poor value']",0.75,64,Female,2025-10-09
+U0380,couple,Cultural,400000,2,"['High-quality meat', 'Authentic taste', 'Affordable prices']","['Overpriced', 'Slow service']",0.06,61,Both,2025-10-25
+U0381,couple,Activity,400000,2,"['Well-maintained facilities', 'Satisfying portions', 'Tasty food']","['Noise', 'Salty food']",0.45,23,Both,2025-11-15
+U0382,friends,Healing,300000,2,"['Well-maintained facilities', 'Delicious food', 'Large portions']","['Hygiene issues', 'Poor food quality']",0.07,22,Male,2025-04-28
+U0383,friends,Foodie,600000,3,"['Scenic views', 'Delicious food', 'Clean facilities']","['Weak water pressure', 'Unfriendly staff']",0.61,34,Female,2025-11-17
+U0384,friends,Activity,400000,3,"['Fresh seafood', 'Attentive staff', 'Beautiful view']","['Bland taste', 'Poor value']",0.72,22,Female,2025-10-23
+U0385,solo,Foodie,600000,3,"['Delicious coffee', 'Affordable prices', 'Spicy flavor']","['Lack of privacy', 'Limited options']",0.32,33,Female,2025-05-24
+U0386,couple,Foodie,200000,2,"['Fresh seafood', 'Attentive staff', 'Quiet atmosphere']","['Small portions', 'Poor cleanliness']",0.03,50,Both,2025-02-25
+U0387,friends,Activity,400000,2,"['Authentic taste', 'Clean facilities', 'Family-friendly']","['Limited options', 'Unpleasant taste']",0.26,44,Female,2025-01-15
+U0388,couple,Healing,800000,4,"['Comfortable bedding', 'Quick service', 'Spicy flavor']","['Outdated facilities', 'Noise']",0.61,49,Both,2025-04-30
+U0389,friends,Healing,100000,1,"['Quick service', 'Ocean view', 'Clean facilities']","['Unfriendly staff', 'Hygiene issues']",0.27,50,Female,2025-03-17
+U0390,couple,Cultural,900000,2,"['Family-friendly', 'Beautiful view', 'Comfortable bedding']","['Salty food', 'Limited options']",0.87,41,Both,2025-04-16
+U0391,couple,Healing,900000,2,"['Beautiful view', 'Affordable prices', 'Quick service']","['Limited amenities', 'Small portions']",0.88,21,Both,2025-09-13
+U0392,solo,Foodie,1100000,3,"['Beautiful view', 'Quick service', 'Authentic taste']","['Salty food', 'Limited menu']",0.29,57,Female,2025-07-30
+U0393,friends,Cultural,700000,3,"['Friendly service', 'Delicious coffee', 'Generous portions']","['High price', 'Outdated facilities']",0.78,23,Male,2025-11-14
+U0394,solo,Cultural,400000,3,"['Authentic taste', 'Ocean view', 'Generous portions']","['Poor soundproofing', 'Lack of privacy']",0.39,24,Male,2025-11-24
+U0395,solo,Healing,800000,3,"['Well-maintained facilities', 'High-quality meat', 'Friendly service']","['Poor value', 'Hygiene issues']",0.52,47,Male,2025-05-20
+U0396,friends,Foodie,400000,2,"['Well-maintained facilities', 'Comfortable bedding', 'Delicious food']","['Poor cleanliness', 'Insect presence']",0.5,42,Male,2025-05-25
+U0397,friends,Cultural,400000,2,"['Spicy flavor', 'Tasty food', 'Affordable prices']","['High price', 'Poor cleanliness']",0.32,30,Male,2025-09-15
+U0398,solo,Cultural,1500000,3,"['Friendly service', 'Cleanliness', 'Ocean view']","['Small room size', 'Noise']",0.7,38,Male,2025-08-17
+U0399,solo,Activity,900000,1,"['Delicious food', 'Tender meat', 'Cleanliness']","['Long wait', 'Salty food']",0.04,36,Female,2025-02-20
+U0400,friends,Cultural,200000,2,"['Good value', 'Ocean view', 'Variety of dishes']","['Overpriced', 'Limited options']",0.12,31,Female,2025-11-27
+U0401,friends,Foodie,300000,2,"['Delicious food', 'Pleasant atmosphere', 'Good value']","['Limited menu', 'Bland taste']",0.42,54,Female,2025-06-12
+U0402,couple,Cultural,800000,2,"['Ocean view', 'High-quality meat', 'Spicy flavor']","['Salty food', 'Poor food quality']",0.55,21,Both,2025-07-15
+U0403,solo,Cultural,500000,2,"['Ocean view', 'Delicious coffee', 'Clean facilities']","['Poor soundproofing', 'Outdated facilities']",0.92,26,Male,2025-01-27
+U0404,couple,Healing,400000,4,"['Scenic views', 'Satisfying portions', 'Quick service']","['Cramped space', 'High price']",0.18,59,Both,2025-07-22
+U0405,solo,Healing,300000,2,"['Well-maintained facilities', 'Affordable prices', 'Attentive staff']","['Noise', 'High price']",0.22,24,Female,2025-08-28
+U0406,friends,Foodie,2400000,3,"['Comfortable bedding', 'Beautiful view', 'Satisfying portions']","['Long wait', 'Small portions']",0.14,48,Male,2025-02-23
+U0407,solo,Cultural,300000,1,"['Affordable prices', 'Tasty food', 'Convenient amenities']","['Noise', 'Hygiene issues']",0.86,50,Male,2025-02-14
+U0408,solo,Cultural,300000,3,"['High-quality meat', 'Tasty food', 'Value for money']","['Insect presence', 'Limited menu']",0.0,25,Male,2025-11-10
+U0409,couple,Activity,500000,4,"['Affordable prices', 'Attentive staff', 'Tender meat']","['Weak water pressure', 'Unpleasant taste']",0.47,29,Both,2025-11-05
+U0410,friends,Cultural,300000,2,"['Attentive staff', 'Spicy flavor', 'High-quality meat']","['Insect presence', 'Limited options']",0.87,47,Female,2025-11-23
+U0411,solo,Activity,1300000,3,"['Comfortable bedding', 'Delicious coffee', 'Well-maintained facilities']","['Bland taste', 'Poor food quality']",0.01,59,Female,2025-03-13
+U0412,couple,Foodie,600000,3,"['Convenient amenities', 'Good value', 'Ocean view']","['Limited amenities', 'Poor cleanliness']",0.97,55,Both,2025-01-28
+U0413,friends,Cultural,500000,2,"['Variety of dishes', 'Ocean view', 'Delicious food']","['Limited menu', 'Slow service']",0.11,39,Male,2025-07-10
+U0414,solo,Foodie,500000,2,"['Quick service', 'Satisfying portions', 'Affordable prices']","['Limited menu', 'Unpleasant taste']",0.1,64,Female,2025-10-27
+U0415,solo,Healing,900000,4,"['Comfortable bedding', 'Tasty food', 'Quick service']","['High price', 'Limited options']",0.95,23,Female,2025-05-16
+U0416,solo,Activity,400000,2,"['Friendly service', 'Spicy flavor', 'High-quality meat']","['Cramped space', 'Unpleasant taste']",0.03,65,Male,2025-09-30
+U0417,solo,Foodie,300000,2,"['Friendly service', 'Value for money', 'Generous portions']","['Salty food', 'Unfriendly staff']",0.4,33,Male,2025-08-05
+U0418,friends,Cultural,400000,4,"['Tender meat', 'Beautiful view', 'Delicious coffee']","['Lack of privacy', 'Bland taste']",0.2,46,Female,2025-01-12
+U0419,solo,Activity,4100000,5,"['Affordable prices', 'Beautiful view', 'Clean room']","['Overpriced', 'Poor soundproofing']",0.99,39,Male,2025-11-20
+U0420,friends,Cultural,1700000,2,"['Quick service', 'Good value', 'Delicious coffee']","['Small room size', 'Weak water pressure']",0.92,38,Male,2025-04-11
+U0421,solo,Healing,300000,2,"['Beautiful view', 'Large portions', 'Friendly service']","['Poor cleanliness', 'Bland taste']",0.93,64,Female,2025-08-22
+U0422,solo,Activity,400000,4,"['Quick service', 'Tender meat', 'Delicious food']","['Slow service', 'Poor soundproofing']",0.83,26,Female,2025-09-25
+U0423,friends,Foodie,1100000,3,"['Satisfying portions', 'Spicy flavor', 'Attentive staff']","['Overpriced', 'Salty food']",0.27,48,Male,2025-05-06
+U0424,solo,Healing,400000,1,"['Tender meat', 'Quick service', 'Family-friendly']","['Lack of privacy', 'Poor cleanliness']",0.08,54,Male,2025-10-23
+U0425,friends,Foodie,200000,2,"['Cleanliness', 'Attentive staff', 'Family-friendly']","['Limited options', 'Lack of privacy']",0.51,59,Male,2025-05-01
+U0426,solo,Activity,1700000,4,"['Fresh seafood', 'Clean room', 'Affordable prices']","['Poor food quality', 'Bland taste']",0.0,49,Male,2025-07-31
+U0427,friends,Foodie,200000,2,"['Attentive staff', 'Family-friendly', 'High-quality meat']","['Slow service', 'Lack of privacy']",0.18,24,Male,2025-03-18
+U0428,couple,Healing,300000,1,"['Tasty food', 'Clean room', 'Good value']","['Small portions', 'Overpriced']",0.09,34,Both,2025-05-28
+U0429,couple,Activity,300000,2,"['Delicious food', 'Scenic views', 'Cleanliness']","['Small room size', 'Poor food quality']",0.48,46,Both,2025-06-15
+U0430,friends,Activity,2400000,5,"['Fresh seafood', 'Ocean view', 'Large portions']","['Small room size', 'Limited amenities']",0.16,65,Male,2025-11-29
+U0431,friends,Cultural,700000,4,"['Large portions', 'Affordable prices', 'Fresh seafood']","['Insect presence', 'Lack of privacy']",0.58,38,Male,2025-06-10
+U0432,couple,Healing,3900000,5,"['Good value', 'Family-friendly', 'Scenic views']","['Bland taste', 'High price']",0.11,56,Both,2025-12-04
+U0433,friends,Foodie,800000,4,"['Variety of dishes', 'Friendly service', 'Pleasant atmosphere']","['Noise', 'Hygiene issues']",0.61,51,Male,2025-09-25
+U0434,couple,Activity,2400000,3,"['Well-maintained facilities', 'Good value', 'Large portions']","['Lack of privacy', 'Limited options']",0.48,38,Both,2025-08-01
+U0435,friends,Cultural,400000,2,"['Clean facilities', 'Beautiful view', 'Good value']","['Poor soundproofing', 'Poor food quality']",0.49,42,Male,2025-03-08
+U0436,couple,Foodie,300000,1,"['Cleanliness', 'Good value', 'Delicious coffee']","['Slow service', 'Small room size']",0.08,52,Both,2025-01-07
+U0437,solo,Cultural,600000,2,"['Convenient amenities', 'Pleasant atmosphere', 'Affordable prices']","['Overpriced', 'Limited menu']",0.14,22,Male,2025-11-04
+U0438,friends,Foodie,600000,3,"['Delicious food', 'Ocean view', 'Affordable prices']","['Poor cleanliness', 'Bland taste']",0.47,53,Male,2025-01-06
+U0439,solo,Foodie,200000,2,"['Generous portions', 'Convenient amenities', 'Clean facilities']","['Hygiene issues', 'Salty food']",0.92,52,Male,2025-06-05
+U0440,couple,Activity,200000,2,"['Clean facilities', 'Tasty food', 'Family-friendly']","['Bland taste', 'Limited amenities']",0.2,32,Both,2025-06-08
+U0441,friends,Foodie,1000000,2,"['Affordable prices', 'Ocean view', 'Tasty food']","['Small portions', 'Lack of privacy']",0.33,23,Male,2025-06-29
+U0442,couple,Cultural,600000,2,"['Quiet atmosphere', 'Fresh seafood', 'Large portions']","['Bland taste', 'High price']",0.67,37,Both,2025-03-03
+U0443,couple,Foodie,200000,1,"['Pleasant atmosphere', 'High-quality meat', 'Satisfying portions']","['Unfriendly staff', 'Limited options']",0.07,37,Both,2025-07-25
+U0444,couple,Activity,700000,2,"['Quiet atmosphere', 'Beautiful view', 'Variety of dishes']","['Slow service', 'Poor cleanliness']",0.28,47,Both,2025-03-05
+U0445,friends,Healing,500000,3,"['Scenic views', 'Cleanliness', 'Authentic taste']","['Limited menu', 'Overpriced']",0.78,18,Male,2025-10-18
+U0446,friends,Healing,800000,4,"['Convenient amenities', 'Satisfying portions', 'Comfortable bedding']","['Limited options', 'Cramped space']",0.26,29,Female,2025-09-12
+U0447,solo,Activity,400000,4,"['Variety of dishes', 'Delicious coffee', 'Clean room']","['Overpriced', 'Cramped space']",0.89,55,Female,2025-03-16
+U0448,friends,Foodie,900000,5,"['Tasty food', 'Clean facilities', 'Attentive staff']","['Outdated facilities', 'Weak water pressure']",0.74,58,Male,2025-04-02
+U0449,friends,Cultural,900000,1,"['Quiet atmosphere', 'Well-maintained facilities', 'Quick service']","['Insect presence', 'Poor cleanliness']",0.12,36,Female,2025-09-16
+U0450,friends,Activity,300000,1,"['Generous portions', 'Ocean view', 'Clean facilities']","['Bland taste', 'Cramped space']",0.91,48,Female,2025-01-04
+U0451,solo,Foodie,600000,3,"['Generous portions', 'Attentive staff', 'Clean facilities']","['Noise', 'Unfriendly staff']",0.82,32,Male,2025-03-24
+U0452,couple,Activity,800000,3,"['Beautiful view', 'Authentic taste', 'Quiet atmosphere']","['Poor soundproofing', 'Salty food']",0.4,49,Both,2025-01-01
+U0453,solo,Activity,2600000,4,"['Scenic views', 'Large portions', 'Clean facilities']","['Overpriced', 'Unfriendly staff']",0.65,54,Female,2025-12-05
+U0454,friends,Healing,400000,1,"['Quick service', 'Fresh seafood', 'Comfortable bedding']","['High price', 'Lack of privacy']",0.44,38,Male,2025-11-15
+U0455,friends,Healing,300000,3,"['Quick service', 'Family-friendly', 'Delicious food']","['Unpleasant taste', 'Limited options']",0.18,19,Female,2025-02-02
+U0456,solo,Activity,100000,1,"['Cleanliness', 'Attentive staff', 'Large portions']","['Slow service', 'Limited options']",0.98,57,Male,2025-03-21
+U0457,friends,Foodie,400000,1,"['Scenic views', 'Cleanliness', 'Affordable prices']","['Poor food quality', 'Poor cleanliness']",0.01,62,Male,2025-07-03
+U0458,solo,Activity,100000,1,"['Family-friendly', 'Beautiful view', 'High-quality meat']","['Poor food quality', 'Limited amenities']",0.49,24,Male,2025-08-12
+U0459,solo,Healing,2800000,3,"['Good value', 'Pleasant atmosphere', 'Spicy flavor']","['Limited options', 'Insect presence']",0.06,30,Male,2025-11-04
+U0460,friends,Foodie,200000,2,"['Attentive staff', 'Good value', 'Cleanliness']","['Unpleasant taste', 'Poor soundproofing']",0.04,57,Male,2025-11-25
+U0461,friends,Cultural,900000,4,"['Fresh seafood', 'Ocean view', 'Authentic taste']","['Cramped space', 'Weak water pressure']",0.66,64,Female,2025-07-08
+U0462,couple,Healing,200000,1,"['Ocean view', 'Delicious coffee', 'Pleasant atmosphere']","['Cramped space', 'Unpleasant taste']",0.24,64,Both,2025-12-05
+U0463,couple,Activity,1100000,3,"['Cleanliness', 'Affordable prices', 'Quick service']","['Poor value', 'Insect presence']",0.05,46,Both,2025-06-15
+U0464,couple,Foodie,400000,3,"['Affordable prices', 'Large portions', 'Family-friendly']","['Slow service', 'Poor food quality']",1.0,36,Both,2025-10-08
+U0465,couple,Cultural,200000,2,"['Quiet atmosphere', 'Quick service', 'Convenient amenities']","['Overpriced', 'Insect presence']",0.26,19,Both,2025-08-28
+U0466,friends,Activity,800000,2,"['Convenient amenities', 'Quiet atmosphere', 'Beautiful view']","['Long wait', 'Overpriced']",0.64,61,Female,2025-02-25
+U0467,friends,Activity,200000,2,"['High-quality meat', 'Delicious coffee', 'Well-maintained facilities']","['Insect presence', 'High price']",0.23,36,Male,2025-04-02
+U0468,solo,Cultural,200000,2,"['Family-friendly', 'Good value', 'Comfortable bedding']","['Limited amenities', 'Limited options']",0.11,62,Male,2025-07-26
+U0469,couple,Healing,1300000,4,"['Value for money', 'Attentive staff', 'Quiet atmosphere']","['Poor food quality', 'Outdated facilities']",0.36,41,Both,2025-06-21
+U0470,couple,Foodie,1800000,4,"['Spicy flavor', 'Quick service', 'Cleanliness']","['Limited amenities', 'Cramped space']",0.92,29,Both,2025-11-21
+U0471,couple,Foodie,2700000,4,"['Scenic views', 'Large portions', 'Clean room']","['Small portions', 'Lack of privacy']",0.31,41,Both,2025-06-21
+U0472,friends,Cultural,400000,3,"['Spicy flavor', 'Clean facilities', 'Quick service']","['Noise', 'Limited menu']",0.76,19,Male,2025-12-28
+U0473,solo,Activity,400000,1,"['Generous portions', 'Tender meat', 'Pleasant atmosphere']","['Overpriced', 'Outdated facilities']",0.55,40,Female,2025-04-02
+U0474,solo,Foodie,2200000,5,"['Generous portions', 'Good value', 'Tasty food']","['Limited options', 'High price']",0.76,64,Male,2025-07-04
+U0475,couple,Cultural,500000,2,"['Scenic views', 'Fresh seafood', 'Delicious food']","['Weak water pressure', 'Poor soundproofing']",0.1,25,Both,2025-07-15
+U0476,friends,Cultural,300000,2,"['Tasty food', 'Quick service', 'Ocean view']","['Cramped space', 'Poor value']",0.48,61,Female,2025-06-27
+U0477,friends,Healing,1000000,2,"['Convenient amenities', 'Clean facilities', 'Spicy flavor']","['Poor cleanliness', 'Small room size']",0.59,46,Female,2025-03-24
+U0478,couple,Healing,2600000,3,"['Beautiful view', 'Family-friendly', 'Value for money']","['Limited amenities', 'Slow service']",0.27,50,Both,2025-06-19
+U0479,solo,Healing,100000,1,"['Clean facilities', 'Convenient amenities', 'Generous portions']","['Poor cleanliness', 'High price']",0.61,31,Male,2025-08-20
+U0480,solo,Foodie,700000,3,"['Friendly service', 'Good value', 'Clean room']","['Bland taste', 'Hygiene issues']",0.32,34,Male,2025-11-06
+U0481,couple,Activity,400000,1,"['Value for money', 'Quick service', 'Spicy flavor']","['Poor food quality', 'Outdated facilities']",0.15,30,Both,2025-01-25
+U0482,couple,Foodie,1100000,3,"['Quick service', 'High-quality meat', 'Variety of dishes']","['Small room size', 'High price']",0.2,26,Both,2025-04-23
+U0483,friends,Healing,500000,2,"['Family-friendly', 'Authentic taste', 'Friendly service']","['Bland taste', 'Small room size']",0.26,18,Female,2025-11-06
+U0484,couple,Healing,100000,1,"['Generous portions', 'Tasty food', 'Variety of dishes']","['Poor value', 'Weak water pressure']",0.19,64,Both,2025-02-13
+U0485,solo,Foodie,300000,1,"['Beautiful view', 'Value for money', 'Well-maintained facilities']","['Limited options', 'Salty food']",0.12,32,Male,2025-05-17
+U0486,couple,Foodie,400000,2,"['Spicy flavor', 'Fresh seafood', 'Satisfying portions']","['Limited amenities', 'Unfriendly staff']",0.05,42,Both,2025-12-04
+U0487,friends,Activity,200000,2,"['Satisfying portions', 'High-quality meat', 'Comfortable bedding']","['Poor cleanliness', 'Bland taste']",0.55,32,Female,2025-11-10
+U0488,solo,Foodie,600000,3,"['Delicious food', 'Comfortable bedding', 'Family-friendly']","['Salty food', 'Slow service']",0.61,20,Male,2025-07-16
+U0489,solo,Healing,200000,1,"['Fresh seafood', 'Family-friendly', 'Delicious coffee']","['Limited options', 'Weak water pressure']",0.42,62,Female,2025-08-25
+U0490,solo,Cultural,800000,2,"['Attentive staff', 'Beautiful view', 'Delicious coffee']","['Small room size', 'Salty food']",0.07,48,Male,2025-11-29
+U0491,solo,Foodie,700000,3,"['Clean room', 'Pleasant atmosphere', 'Variety of dishes']","['Limited options', 'High price']",0.38,41,Female,2025-09-06
+U0492,friends,Foodie,400000,4,"['Authentic taste', 'Fresh seafood', 'Satisfying portions']","['Long wait', 'High price']",0.02,22,Male,2025-12-08
+U0493,solo,Cultural,1300000,5,"['Large portions', 'Comfortable bedding', 'Convenient amenities']","['Long wait', 'Bland taste']",0.55,44,Male,2025-08-13
+U0494,solo,Healing,400000,3,"['Large portions', 'Scenic views', 'Family-friendly']","['Insect presence', 'High price']",0.49,52,Male,2025-12-31
+U0495,friends,Cultural,200000,2,"['Generous portions', 'Scenic views', 'Quick service']","['Overpriced', 'Hygiene issues']",0.59,45,Female,2025-10-03
+U0496,friends,Foodie,1600000,5,"['Delicious food', 'Well-maintained facilities', 'Clean facilities']","['Insect presence', 'Salty food']",0.96,34,Female,2025-03-11
+U0497,solo,Healing,500000,3,"['Clean room', 'Tender meat', 'Convenient amenities']","['Slow service', 'Weak water pressure']",0.24,52,Male,2025-04-08
+U0498,couple,Healing,900000,2,"['Family-friendly', 'Variety of dishes', 'Clean room']","['Limited options', 'Insect presence']",0.24,64,Both,2025-03-21
+U0499,couple,Healing,2400000,3,"['Tender meat', 'Quick service', 'Tasty food']","['Cramped space', 'Noise']",0.1,44,Both,2025-06-23
+U0500,solo,Activity,900000,2,"['Fresh seafood', 'Scenic views', 'Clean facilities']","['Salty food', 'Limited menu']",1.0,26,Male,2025-03-01
+U0501,solo,Foodie,500000,2,"['Convenient amenities', 'Beautiful view', 'Delicious coffee']","['Poor soundproofing', 'High price']",0.07,18,Male,2025-07-21
+U0502,couple,Healing,500000,5,"['Tasty food', 'Variety of dishes', 'Value for money']","['Slow service', 'Limited menu']",0.92,51,Both,2025-01-08
+U0503,solo,Activity,400000,2,"['Pleasant atmosphere', 'Variety of dishes', 'Satisfying portions']","['Poor value', 'Poor food quality']",0.74,20,Female,2025-12-24
+U0504,couple,Cultural,200000,1,"['Clean room', 'Spicy flavor', 'Scenic views']","['Outdated facilities', 'Small portions']",0.06,50,Both,2025-02-19
+U0505,solo,Activity,100000,1,"['Quiet atmosphere', 'Affordable prices', 'Clean room']","['Unfriendly staff', 'Unpleasant taste']",0.52,55,Female,2025-06-26
+U0506,couple,Activity,600000,2,"['Well-maintained facilities', 'Beautiful view', 'Pleasant atmosphere']","['Long wait', 'Hygiene issues']",0.13,32,Both,2025-03-16
+U0507,couple,Healing,300000,2,"['Convenient amenities', 'Tasty food', 'Attentive staff']","['Hygiene issues', 'Bland taste']",0.8,34,Both,2025-05-31
+U0508,friends,Cultural,2600000,3,"['Well-maintained facilities', 'Authentic taste', 'Delicious food']","['Small room size', 'Limited amenities']",0.68,38,Female,2025-11-14
+U0509,couple,Foodie,400000,3,"['Family-friendly', 'Large portions', 'Attentive staff']","['Poor cleanliness', 'Limited amenities']",0.97,31,Both,2025-01-07
+U0510,solo,Foodie,500000,2,"['Clean facilities', 'Tasty food', 'Spicy flavor']","['Slow service', 'Overpriced']",0.32,40,Female,2025-05-21
+U0511,couple,Healing,300000,3,"['Delicious coffee', 'Quiet atmosphere', 'Cleanliness']","['Salty food', 'Small room size']",0.68,32,Both,2025-01-13
+U0512,couple,Healing,400000,2,"['Variety of dishes', 'Cleanliness', 'Ocean view']","['High price', 'Limited amenities']",0.09,42,Both,2025-09-03
+U0513,couple,Healing,1100000,3,"['Ocean view', 'Satisfying portions', 'Tasty food']","['Poor cleanliness', 'Unfriendly staff']",0.51,65,Both,2025-01-29
+U0514,solo,Activity,1500000,4,"['Large portions', 'High-quality meat', 'Variety of dishes']","['Limited menu', 'Hygiene issues']",0.18,42,Male,2025-08-26
+U0515,friends,Healing,400000,2,"['Fresh seafood', 'Delicious coffee', 'Scenic views']","['Insect presence', 'Unpleasant taste']",0.51,47,Female,2025-09-16
+U0516,couple,Activity,400000,2,"['Ocean view', 'Well-maintained facilities', 'Authentic taste']","['Hygiene issues', 'Limited menu']",0.19,30,Both,2025-12-25
+U0517,solo,Foodie,300000,1,"['Clean facilities', 'Well-maintained facilities', 'Friendly service']","['Slow service', 'Hygiene issues']",0.3,38,Male,2025-11-16
+U0518,couple,Cultural,600000,2,"['Large portions', 'Authentic taste', 'Affordable prices']","['Hygiene issues', 'Poor value']",0.04,64,Both,2025-05-12
+U0519,solo,Healing,400000,2,"['Tasty food', 'Attentive staff', 'Large portions']","['Limited options', 'Cramped space']",0.2,31,Male,2025-11-03
+U0520,friends,Cultural,2300000,3,"['Delicious coffee', 'Family-friendly', 'Value for money']","['Cramped space', 'Limited options']",0.75,18,Female,2025-09-12
+U0521,couple,Foodie,4300000,5,"['Pleasant atmosphere', 'Spicy flavor', 'Quick service']","['Poor value', 'Cramped space']",0.08,45,Both,2025-08-10
+U0522,solo,Activity,100000,1,"['Value for money', 'Fresh seafood', 'Delicious food']","['Unpleasant taste', 'Hygiene issues']",0.18,20,Male,2025-05-08
+U0523,solo,Healing,300000,3,"['Ocean view', 'Clean facilities', 'Large portions']","['High price', 'Limited menu']",0.2,25,Female,2025-01-19
+U0524,couple,Activity,600000,5,"['Variety of dishes', 'Ocean view', 'Affordable prices']","['Outdated facilities', 'Poor food quality']",0.05,41,Both,2025-01-28
+U0525,couple,Healing,1300000,5,"['Family-friendly', 'Pleasant atmosphere', 'Friendly service']","['Insect presence', 'Small portions']",0.91,51,Both,2025-01-29
+U0526,solo,Cultural,1700000,2,"['Large portions', 'Fresh seafood', 'Quick service']","['Cramped space', 'High price']",0.84,55,Female,2025-02-08
+U0527,couple,Cultural,500000,2,"['Satisfying portions', 'Good value', 'Clean facilities']","['Poor value', 'Hygiene issues']",0.92,47,Both,2025-03-14
+U0528,couple,Activity,300000,2,"['Fresh seafood', 'Cleanliness', 'Beautiful view']","['Limited options', 'Lack of privacy']",0.32,42,Both,2025-07-01
+U0529,solo,Healing,500000,1,"['Good value', 'Scenic views', 'Generous portions']","['Overpriced', 'Slow service']",0.81,57,Female,2025-10-24
+U0530,couple,Foodie,900000,4,"['Quick service', 'Satisfying portions', 'Quiet atmosphere']","['Small room size', 'Limited menu']",0.86,37,Both,2025-01-24
+U0531,couple,Healing,400000,1,"['Satisfying portions', 'Family-friendly', 'Variety of dishes']","['High price', 'Small portions']",0.5,28,Both,2025-06-25
+U0532,solo,Cultural,500000,2,"['Friendly service', 'High-quality meat', 'Satisfying portions']","['Insect presence', 'Salty food']",0.56,31,Male,2025-09-17
+U0533,solo,Activity,300000,2,"['Affordable prices', 'Attentive staff', 'Delicious coffee']","['Poor food quality', 'Small portions']",0.73,29,Female,2025-11-29
+U0534,friends,Activity,1000000,2,"['Convenient amenities', 'Authentic taste', 'Delicious coffee']","['Overpriced', 'Salty food']",0.57,61,Male,2025-03-05
+U0535,solo,Foodie,500000,3,"['Tender meat', 'Delicious food', 'Good value']","['Lack of privacy', 'Poor cleanliness']",0.14,37,Female,2025-10-10
+U0536,solo,Foodie,2800000,3,"['Delicious food', 'Beautiful view', 'Friendly service']","['Bland taste', 'Long wait']",0.84,33,Female,2025-12-25
+U0537,couple,Healing,1900000,2,"['Well-maintained facilities', 'Tender meat', 'Good value']","['Weak water pressure', 'Slow service']",0.19,23,Both,2025-04-06
+U0538,solo,Activity,100000,1,"['Scenic views', 'Fresh seafood', 'Family-friendly']","['Overpriced', 'Lack of privacy']",0.69,27,Female,2025-10-04
+U0539,couple,Healing,200000,2,"['Scenic views', 'Cleanliness', 'Generous portions']","['Long wait', 'Limited menu']",1.0,39,Both,2025-01-03
+U0540,friends,Healing,1400000,2,"['Cleanliness', 'Well-maintained facilities', 'Quick service']","['Unfriendly staff', 'Salty food']",0.22,28,Female,2025-08-27
+U0541,friends,Activity,200000,1,"['Quick service', 'Family-friendly', 'Fresh seafood']","['Insect presence', 'Salty food']",0.47,48,Male,2025-12-17
+U0542,couple,Activity,200000,2,"['Tender meat', 'Variety of dishes', 'Generous portions']","['Overpriced', 'Poor food quality']",0.31,23,Both,2025-09-30
+U0543,solo,Healing,200000,2,"['Clean facilities', 'Good value', 'Generous portions']","['Insect presence', 'Hygiene issues']",0.72,42,Female,2025-12-13
+U0544,solo,Healing,500000,5,"['Quick service', 'High-quality meat', 'Comfortable bedding']","['Outdated facilities', 'Limited menu']",0.65,35,Female,2025-04-18
+U0545,friends,Foodie,600000,5,"['Good value', 'Fresh seafood', 'Quiet atmosphere']","['Long wait', 'Limited options']",0.31,31,Male,2025-09-02
+U0546,friends,Activity,400000,2,"['Friendly service', 'Comfortable bedding', 'Beautiful view']","['Limited amenities', 'Overpriced']",0.66,39,Female,2025-04-28
+U0547,solo,Cultural,2200000,5,"['Clean facilities', 'Generous portions', 'Quiet atmosphere']","['Poor cleanliness', 'Noise']",0.76,36,Female,2025-10-29
+U0548,solo,Foodie,100000,1,"['Scenic views', 'Variety of dishes', 'Clean facilities']","['Slow service', 'Limited menu']",0.28,23,Male,2025-10-16
+U0549,couple,Activity,500000,3,"['Pleasant atmosphere', 'Friendly service', 'Fresh seafood']","['Small portions', 'Slow service']",0.87,24,Both,2025-05-13
+U0550,couple,Activity,800000,4,"['Delicious coffee', 'Clean facilities', 'Generous portions']","['Poor soundproofing', 'Bland taste']",0.43,22,Both,2025-07-15
+U0551,solo,Foodie,1800000,2,"['Good value', 'Quick service', 'Beautiful view']","['Limited options', 'Outdated facilities']",0.77,65,Male,2025-09-14
+U0552,solo,Activity,200000,2,"['Tender meat', 'Variety of dishes', 'Friendly service']","['Limited options', 'Lack of privacy']",0.54,38,Male,2025-11-22
+U0553,couple,Activity,1200000,3,"['Fresh seafood', 'Value for money', 'Scenic views']","['Poor cleanliness', 'Unfriendly staff']",0.44,34,Both,2025-09-30
+U0554,friends,Activity,700000,2,"['Delicious food', 'Quiet atmosphere', 'Convenient amenities']","['Unpleasant taste', 'Unfriendly staff']",0.34,40,Female,2025-03-31
+U0555,friends,Cultural,500000,4,"['Beautiful view', 'Family-friendly', 'Pleasant atmosphere']","['Cramped space', 'Unfriendly staff']",0.4,34,Male,2025-10-14
+U0556,couple,Activity,100000,1,"['Authentic taste', 'Family-friendly', 'Generous portions']","['Poor food quality', 'Limited amenities']",0.05,48,Both,2025-09-25
+U0557,solo,Foodie,1300000,2,"['Beautiful view', 'Large portions', 'Tasty food']","['Hygiene issues', 'Outdated facilities']",0.66,46,Male,2025-02-21
+U0558,friends,Foodie,300000,2,"['Pleasant atmosphere', 'Quick service', 'Large portions']","['Poor food quality', 'Weak water pressure']",0.63,32,Female,2025-05-23
+U0559,solo,Activity,600000,5,"['Pleasant atmosphere', 'Scenic views', 'Clean room']","['Small room size', 'Salty food']",0.43,24,Male,2025-05-22
+U0560,friends,Cultural,800000,2,"['Generous portions', 'Spicy flavor', 'Friendly service']","['Bland taste', 'Poor value']",0.68,42,Male,2025-06-23
+U0561,solo,Healing,900000,4,"['Ocean view', 'Clean facilities', 'Comfortable bedding']","['Limited amenities', 'Limited options']",0.54,49,Female,2025-10-10
+U0562,couple,Cultural,900000,4,"['Authentic taste', 'Attentive staff', 'Satisfying portions']","['Poor soundproofing', 'Poor food quality']",0.83,42,Both,2025-09-05
+U0563,solo,Healing,800000,2,"['Clean facilities', 'Friendly service', 'High-quality meat']","['Lack of privacy', 'Limited options']",0.32,65,Female,2025-07-02
+U0564,friends,Healing,400000,2,"['Good value', 'Satisfying portions', 'Tasty food']","['Salty food', 'Overpriced']",0.33,26,Male,2025-08-05
+U0565,couple,Foodie,1600000,2,"['Satisfying portions', 'Affordable prices', 'Well-maintained facilities']","['Small room size', 'Insect presence']",0.23,51,Both,2025-11-24
+U0566,couple,Activity,800000,3,"['Variety of dishes', 'Quiet atmosphere', 'Cleanliness']","['High price', 'Insect presence']",0.22,44,Both,2025-04-18
+U0567,friends,Healing,1200000,3,"['Pleasant atmosphere', 'Well-maintained facilities', 'Ocean view']","['Small portions', 'Poor soundproofing']",0.67,60,Female,2025-06-03
+U0568,solo,Cultural,1700000,2,"['Satisfying portions', 'Convenient amenities', 'Ocean view']","['Unfriendly staff', 'Lack of privacy']",0.49,63,Male,2025-09-09
+U0569,couple,Activity,900000,2,"['Scenic views', 'Value for money', 'Pleasant atmosphere']","['Small room size', 'Limited amenities']",0.0,22,Both,2025-07-23
+U0570,couple,Cultural,200000,1,"['Beautiful view', 'Convenient amenities', 'Variety of dishes']","['Hygiene issues', 'Unfriendly staff']",0.37,58,Both,2025-11-13
+U0571,friends,Foodie,400000,4,"['Attentive staff', 'Delicious coffee', 'Good value']","['Unpleasant taste', 'Weak water pressure']",0.75,63,Female,2025-05-21
+U0572,solo,Cultural,700000,3,"['Attentive staff', 'Fresh seafood', 'Tasty food']","['Lack of privacy', 'Poor value']",0.33,56,Male,2025-03-30
+U0573,solo,Healing,300000,2,"['Ocean view', 'Spicy flavor', 'Good value']","['Unpleasant taste', 'Small room size']",0.97,60,Male,2025-09-25
+U0574,solo,Healing,700000,3,"['High-quality meat', 'Beautiful view', 'Tasty food']","['Poor food quality', 'Small room size']",0.59,50,Female,2025-02-18
+U0575,solo,Foodie,200000,2,"['Beautiful view', 'High-quality meat', 'Quick service']","['Poor soundproofing', 'Limited amenities']",0.7,32,Female,2025-07-14
+U0576,friends,Cultural,600000,2,"['Tender meat', 'Delicious food', 'Variety of dishes']","['Poor value', 'Salty food']",0.26,53,Female,2025-04-15
+U0577,couple,Activity,1200000,3,"['Quiet atmosphere', 'Spicy flavor', 'Well-maintained facilities']","['Outdated facilities', 'Overpriced']",0.74,59,Both,2025-01-02
+U0578,friends,Activity,100000,1,"['Cleanliness', 'Family-friendly', 'Delicious food']","['Insect presence', 'Small portions']",0.85,65,Male,2025-12-06
+U0579,couple,Healing,500000,4,"['High-quality meat', 'Quiet atmosphere', 'Generous portions']","['Small room size', 'Noise']",0.32,65,Both,2025-07-23
+U0580,couple,Cultural,2000000,3,"['Large portions', 'Pleasant atmosphere', 'Tasty food']","['Slow service', 'Small room size']",0.3,44,Both,2025-03-09
+U0581,friends,Cultural,1500000,2,"['Generous portions', 'Delicious food', 'Fresh seafood']","['Salty food', 'Small room size']",0.3,59,Female,2025-06-30
+U0582,solo,Activity,900000,2,"['Pleasant atmosphere', 'Fresh seafood', 'Well-maintained facilities']","['Salty food', 'Small room size']",0.61,61,Male,2025-05-12
+U0583,solo,Foodie,600000,5,"['Ocean view', 'Affordable prices', 'Comfortable bedding']","['Limited menu', 'Cramped space']",0.55,28,Male,2025-02-22
+U0584,couple,Activity,2700000,4,"['Authentic taste', 'High-quality meat', 'Clean facilities']","['Insect presence', 'Poor value']",0.76,23,Both,2025-08-09
+U0585,friends,Cultural,500000,1,"['Comfortable bedding', 'High-quality meat', 'Clean room']","['High price', 'Weak water pressure']",0.74,18,Female,2025-11-29
+U0586,couple,Foodie,300000,2,"['Tender meat', 'Satisfying portions', 'Clean room']","['Poor cleanliness', 'Outdated facilities']",0.41,61,Both,2025-07-07
+U0587,solo,Healing,300000,2,"['Friendly service', 'Ocean view', 'Pleasant atmosphere']","['Limited menu', 'Long wait']",0.88,63,Male,2025-11-28
+U0588,friends,Cultural,2700000,3,"['Ocean view', 'Large portions', 'Attentive staff']","['Limited amenities', 'Poor soundproofing']",0.43,52,Male,2025-08-06
+U0589,friends,Healing,300000,3,"['Tender meat', 'Cleanliness', 'Satisfying portions']","['Poor food quality', 'Insect presence']",0.67,43,Female,2025-12-29
+U0590,friends,Activity,200000,1,"['Clean facilities', 'Authentic taste', 'Generous portions']","['Hygiene issues', 'Slow service']",0.01,62,Female,2025-03-20
+U0591,friends,Healing,400000,4,"['Good value', 'Satisfying portions', 'Well-maintained facilities']","['Limited menu', 'Poor soundproofing']",0.43,41,Female,2025-10-18
+U0592,friends,Foodie,400000,4,"['High-quality meat', 'Tasty food', 'Convenient amenities']","['Poor value', 'Long wait']",0.65,44,Female,2025-08-05
+U0593,couple,Foodie,400000,2,"['Cleanliness', 'Tender meat', 'Well-maintained facilities']","['Limited menu', 'Small room size']",0.95,52,Both,2025-11-23
+U0594,solo,Foodie,800000,2,"['Delicious coffee', 'Family-friendly', 'Clean room']","['Lack of privacy', 'Slow service']",0.52,54,Female,2025-01-07
+U0595,solo,Activity,2300000,5,"['Friendly service', 'Delicious coffee', 'Clean facilities']","['Lack of privacy', 'Noise']",0.19,57,Male,2025-12-14
+U0596,solo,Foodie,700000,4,"['Delicious coffee', 'Large portions', 'Variety of dishes']","['Noise', 'Outdated facilities']",0.67,59,Male,2025-06-18
+U0597,solo,Cultural,400000,2,"['Family-friendly', 'Pleasant atmosphere', 'Beautiful view']","['Lack of privacy', 'Small portions']",0.11,51,Female,2025-03-10
+U0598,solo,Foodie,100000,1,"['Ocean view', 'Value for money', 'Friendly service']","['Limited options', 'Salty food']",0.44,32,Female,2025-01-10
+U0599,friends,Activity,400000,2,"['Cleanliness', 'Convenient amenities', 'Scenic views']","['Poor cleanliness', 'Slow service']",0.76,21,Female,2025-06-22
+U0600,friends,Activity,500000,2,"['Well-maintained facilities', 'Tender meat', 'Quick service']","['Small room size', 'Bland taste']",0.24,48,Male,2025-02-11
+U0601,solo,Activity,600000,5,"['Ocean view', 'Generous portions', 'Value for money']","['Poor food quality', 'Weak water pressure']",0.15,55,Female,2025-08-01
+U0602,friends,Cultural,900000,2,"['Attentive staff', 'Fresh seafood', 'Tasty food']","['Poor soundproofing', 'Lack of privacy']",0.07,26,Male,2025-04-06
+U0603,couple,Healing,1500000,2,"['Beautiful view', 'Convenient amenities', 'Variety of dishes']","['Limited options', 'Bland taste']",0.67,57,Both,2025-10-24
+U0604,solo,Cultural,2000000,4,"['Variety of dishes', 'Family-friendly', 'Satisfying portions']","['Bland taste', 'Slow service']",0.9,18,Female,2025-03-08
+U0605,couple,Cultural,900000,4,"['Tasty food', 'Authentic taste', 'Quick service']","['Outdated facilities', 'Poor food quality']",0.31,61,Both,2025-12-01
+U0606,solo,Cultural,2700000,3,"['Attentive staff', 'Ocean view', 'Variety of dishes']","['Cramped space', 'Slow service']",0.33,48,Male,2025-03-24
+U0607,couple,Cultural,200000,2,"['Comfortable bedding', 'Family-friendly', 'Spicy flavor']","['Outdated facilities', 'Overpriced']",0.46,49,Both,2025-01-01
+U0608,solo,Cultural,200000,2,"['Tasty food', 'Fresh seafood', 'Attentive staff']","['Poor food quality', 'Noise']",0.3,57,Female,2025-01-19
+U0609,couple,Cultural,1800000,2,"['Pleasant atmosphere', 'Generous portions', 'Quick service']","['Bland taste', 'High price']",0.56,49,Both,2025-03-05
+U0610,friends,Foodie,1900000,2,"['Delicious coffee', 'Affordable prices', 'Clean room']","['Noise', 'Salty food']",0.53,19,Male,2025-03-04
+U0611,couple,Activity,1400000,2,"['Satisfying portions', 'Affordable prices', 'Attentive staff']","['Limited amenities', 'Hygiene issues']",0.17,30,Both,2025-06-23
+U0612,couple,Activity,900000,3,"['Clean facilities', 'Value for money', 'Convenient amenities']","['Unfriendly staff', 'Small room size']",0.13,48,Both,2025-09-10
+U0613,couple,Cultural,500000,3,"['Comfortable bedding', 'Ocean view', 'Delicious food']","['Insect presence', 'Small room size']",0.22,53,Both,2025-07-30
+U0614,friends,Cultural,2500000,3,"['Delicious food', 'Friendly service', 'Family-friendly']","['Poor soundproofing', 'Weak water pressure']",0.48,20,Male,2025-03-05
+U0615,friends,Healing,100000,1,"['Cleanliness', 'High-quality meat', 'Attentive staff']","['Limited amenities', 'Noise']",0.38,30,Male,2025-04-02
+U0616,couple,Foodie,3500000,5,"['Cleanliness', 'High-quality meat', 'Delicious coffee']","['Hygiene issues', 'Poor soundproofing']",0.67,18,Both,2025-09-19
+U0617,solo,Activity,700000,2,"['Spicy flavor', 'Tender meat', 'Generous portions']","['Cramped space', 'Limited menu']",0.81,54,Female,2025-05-25
+U0618,friends,Healing,100000,1,"['Quick service', 'Ocean view', 'Pleasant atmosphere']","['Weak water pressure', 'Cramped space']",0.72,45,Female,2025-06-16
+U0619,solo,Foodie,2500000,5,"['Scenic views', 'Variety of dishes', 'Delicious coffee']","['Insect presence', 'Overpriced']",0.91,57,Male,2025-07-23
+U0620,solo,Healing,800000,1,"['Comfortable bedding', 'Fresh seafood', 'Authentic taste']","['Poor value', 'Small room size']",0.91,53,Female,2025-08-14
+U0621,couple,Foodie,800000,2,"['Clean room', 'Friendly service', 'Pleasant atmosphere']","['Limited amenities', 'Unfriendly staff']",0.42,33,Both,2025-12-28
+U0622,couple,Activity,2900000,3,"['Delicious coffee', 'Well-maintained facilities', 'Attentive staff']","['Overpriced', 'Insect presence']",0.03,47,Both,2025-01-06
+U0623,couple,Activity,200000,2,"['Friendly service', 'Large portions', 'Delicious food']","['Small portions', 'Poor cleanliness']",0.42,59,Both,2025-12-02
+U0624,friends,Activity,400000,2,"['Scenic views', 'Satisfying portions', 'Attentive staff']","['Small portions', 'Noise']",0.3,41,Female,2025-05-24
+U0625,couple,Healing,800000,3,"['Authentic taste', 'Generous portions', 'Friendly service']","['Weak water pressure', 'Salty food']",0.04,54,Both,2025-09-20
+U0626,couple,Healing,500000,5,"['Tasty food', 'Attentive staff', 'Pleasant atmosphere']","['Slow service', 'Hygiene issues']",0.41,49,Both,2025-06-15
+U0627,couple,Activity,300000,2,"['Authentic taste', 'Tender meat', 'Value for money']","['High price', 'Outdated facilities']",0.04,43,Both,2025-06-21
+U0628,couple,Healing,900000,2,"['Clean facilities', 'Scenic views', 'Family-friendly']","['Limited menu', 'Poor value']",0.38,33,Both,2025-07-16
+U0629,couple,Healing,400000,2,"['Family-friendly', 'Friendly service', 'Beautiful view']","['Weak water pressure', 'Lack of privacy']",0.85,32,Both,2025-01-23
+U0630,friends,Cultural,200000,2,"['Variety of dishes', 'Well-maintained facilities', 'Friendly service']","['Weak water pressure', 'Slow service']",0.28,27,Male,2025-09-04
+U0631,friends,Foodie,200000,1,"['Ocean view', 'Generous portions', 'Value for money']","['Long wait', 'Weak water pressure']",0.99,49,Male,2025-07-24
+U0632,couple,Foodie,200000,1,"['Cleanliness', 'Authentic taste', 'Large portions']","['Cramped space', 'Long wait']",0.74,46,Both,2025-07-10
+U0633,couple,Foodie,700000,3,"['Spicy flavor', 'Well-maintained facilities', 'Beautiful view']","['Limited options', 'Outdated facilities']",0.08,61,Both,2025-08-31
+U0634,friends,Cultural,1400000,2,"['Delicious coffee', 'Affordable prices', 'Quiet atmosphere']","['Poor food quality', 'Slow service']",0.14,31,Female,2025-11-05
+U0635,friends,Activity,700000,3,"['Pleasant atmosphere', 'Scenic views', 'High-quality meat']","['Hygiene issues', 'Unfriendly staff']",0.05,57,Female,2025-05-01
+U0636,solo,Healing,700000,2,"['Comfortable bedding', 'Friendly service', 'Value for money']","['Insect presence', 'Hygiene issues']",0.81,24,Male,2025-09-08
+U0637,friends,Cultural,200000,2,"['Quiet atmosphere', 'Friendly service', 'Authentic taste']","['Weak water pressure', 'Poor soundproofing']",0.32,35,Male,2025-09-19
+U0638,friends,Healing,1300000,3,"['Attentive staff', 'Fresh seafood', 'Clean room']","['Poor food quality', 'Unfriendly staff']",0.55,31,Male,2025-12-05
+U0639,couple,Foodie,600000,3,"['Delicious food', 'Good value', 'Family-friendly']","['Cramped space', 'Unpleasant taste']",0.93,53,Both,2025-11-07
+U0640,couple,Healing,1700000,4,"['Ocean view', 'Well-maintained facilities', 'Variety of dishes']","['Cramped space', 'Bland taste']",0.09,63,Both,2025-02-28
+U0641,friends,Cultural,300000,1,"['Family-friendly', 'Value for money', 'Delicious coffee']","['Noise', 'Salty food']",0.81,57,Female,2025-10-23
+U0642,friends,Cultural,900000,3,"['Quick service', 'Convenient amenities', 'Beautiful view']","['Small room size', 'Weak water pressure']",0.01,31,Female,2025-02-11
+U0643,solo,Foodie,500000,3,"['Variety of dishes', 'Clean room', 'Scenic views']","['Poor cleanliness', 'Bland taste']",0.94,24,Female,2025-12-22
+U0644,solo,Cultural,600000,3,"['Delicious coffee', 'Scenic views', 'Family-friendly']","['Salty food', 'Long wait']",0.59,60,Male,2025-08-23
+U0645,friends,Cultural,1800000,2,"['Ocean view', 'Pleasant atmosphere', 'Authentic taste']","['Unfriendly staff', 'Small room size']",0.41,27,Female,2025-06-19
+U0646,friends,Healing,400000,2,"['High-quality meat', 'Family-friendly', 'Good value']","['Unfriendly staff', 'Overpriced']",0.64,43,Male,2025-06-19
+U0647,couple,Healing,500000,3,"['Fresh seafood', 'Tasty food', 'Large portions']","['Limited menu', 'Lack of privacy']",0.68,47,Both,2025-02-23
+U0648,couple,Activity,1100000,3,"['Well-maintained facilities', 'Clean facilities', 'Satisfying portions']","['Limited amenities', 'Small room size']",0.83,41,Both,2025-07-24
+U0649,solo,Cultural,100000,1,"['Variety of dishes', 'Affordable prices', 'Generous portions']","['Insect presence', 'Small portions']",0.26,18,Male,2025-08-12
+U0650,friends,Cultural,1900000,5,"['Well-maintained facilities', 'Friendly service', 'Cleanliness']","['Bland taste', 'Small portions']",0.21,52,Female,2025-07-03
+U0651,solo,Healing,500000,3,"['Clean facilities', 'Tender meat', 'Authentic taste']","['Small room size', 'Slow service']",0.38,38,Female,2025-01-18
+U0652,friends,Cultural,500000,4,"['Attentive staff', 'Value for money', 'Well-maintained facilities']","['Noise', 'Unpleasant taste']",0.9,60,Female,2025-07-13
+U0653,couple,Healing,1400000,3,"['Comfortable bedding', 'Clean room', 'Affordable prices']","['Limited options', 'Outdated facilities']",0.57,35,Both,2025-04-21
+U0654,couple,Foodie,300000,2,"['Spicy flavor', 'Scenic views', 'Generous portions']","['Long wait', 'Poor soundproofing']",0.68,53,Both,2025-08-09
+U0655,solo,Activity,300000,2,"['Generous portions', 'Variety of dishes', 'Tender meat']","['Long wait', 'Poor food quality']",0.29,26,Male,2025-01-15
+U0656,couple,Cultural,400000,3,"['Large portions', 'Delicious coffee', 'Convenient amenities']","['Poor value', 'Long wait']",0.21,63,Both,2025-07-21
+U0657,friends,Activity,400000,3,"['Friendly service', 'Generous portions', 'Spicy flavor']","['Limited options', 'Small portions']",0.62,47,Male,2025-06-09
+U0658,couple,Foodie,200000,1,"['Authentic taste', 'Clean room', 'Satisfying portions']","['Poor soundproofing', 'Small portions']",0.74,48,Both,2025-03-19
+U0659,friends,Foodie,300000,3,"['Satisfying portions', 'Beautiful view', 'Authentic taste']","['Hygiene issues', 'Salty food']",0.71,61,Male,2025-12-09
+U0660,solo,Cultural,400000,2,"['Beautiful view', 'Good value', 'Friendly service']","['Poor food quality', 'Bland taste']",0.46,43,Female,2025-10-20
+U0661,solo,Foodie,300000,2,"['Attentive staff', 'Delicious food', 'Authentic taste']","['Bland taste', 'Poor value']",0.84,23,Female,2025-12-30
+U0662,solo,Foodie,200000,1,"['Family-friendly', 'Attentive staff', 'Fresh seafood']","['Unpleasant taste', 'Poor cleanliness']",0.03,20,Male,2025-12-08
+U0663,couple,Healing,900000,2,"['Well-maintained facilities', 'Authentic taste', 'Fresh seafood']","['Long wait', 'Poor soundproofing']",0.66,51,Both,2025-08-07
+U0664,couple,Healing,500000,2,"['Beautiful view', 'Pleasant atmosphere', 'Clean facilities']","['Poor soundproofing', 'Weak water pressure']",0.75,30,Both,2025-05-19
+U0665,couple,Healing,300000,2,"['Spicy flavor', 'Family-friendly', 'Tasty food']","['High price', 'Long wait']",0.14,58,Both,2025-12-06
+U0666,solo,Healing,600000,5,"['Good value', 'Beautiful view', 'Variety of dishes']","['Limited menu', 'Outdated facilities']",0.98,56,Female,2025-03-03
+U0667,friends,Activity,100000,1,"['Tender meat', 'Cleanliness', 'Generous portions']","['Slow service', 'Bland taste']",0.1,55,Male,2025-11-04
+U0668,friends,Foodie,700000,2,"['Affordable prices', 'Spicy flavor', 'Large portions']","['Bland taste', 'Slow service']",0.79,39,Male,2025-01-18
+U0669,friends,Cultural,400000,1,"['Satisfying portions', 'Value for money', 'High-quality meat']","['Limited menu', 'Lack of privacy']",0.71,56,Male,2025-05-10
+U0670,couple,Foodie,1500000,4,"['Quiet atmosphere', 'Delicious coffee', 'Authentic taste']","['Noise', 'Unpleasant taste']",0.63,57,Both,2025-09-04
+U0671,friends,Foodie,1200000,3,"['Comfortable bedding', 'Fresh seafood', 'Satisfying portions']","['Slow service', 'Poor food quality']",0.29,28,Female,2025-05-18
+U0672,friends,Activity,500000,3,"['Variety of dishes', 'Affordable prices', 'Quick service']","['Overpriced', 'Lack of privacy']",0.21,36,Female,2025-12-09
+U0673,solo,Foodie,1600000,4,"['Well-maintained facilities', 'Tasty food', 'Variety of dishes']","['Salty food', 'Unfriendly staff']",0.96,34,Female,2025-07-29
+U0674,friends,Foodie,400000,3,"['Value for money', 'High-quality meat', 'Variety of dishes']","['Weak water pressure', 'Insect presence']",0.17,39,Male,2025-04-04
+U0675,solo,Healing,600000,2,"['Good value', 'Scenic views', 'Family-friendly']","['Outdated facilities', 'Unfriendly staff']",0.85,51,Male,2025-02-14
+U0676,solo,Cultural,300000,1,"['Affordable prices', 'Tasty food', 'Attentive staff']","['Limited amenities', 'High price']",0.63,38,Male,2025-10-28
+U0677,couple,Healing,400000,4,"['Good value', 'Ocean view', 'Friendly service']","['Insect presence', 'Unpleasant taste']",0.67,32,Both,2025-07-12
+U0678,solo,Foodie,800000,4,"['Convenient amenities', 'Fresh seafood', 'Variety of dishes']","['Unfriendly staff', 'Cramped space']",0.75,61,Female,2025-06-12
+U0679,friends,Healing,400000,2,"['Tasty food', 'Beautiful view', 'Tender meat']","['Limited amenities', 'Poor value']",0.62,63,Male,2025-09-20
+U0680,solo,Healing,1600000,2,"['Fresh seafood', 'Delicious food', 'Family-friendly']","['Poor cleanliness', 'Poor value']",0.58,59,Male,2025-05-10
+U0681,friends,Cultural,400000,2,"['Clean facilities', 'Variety of dishes', 'Delicious food']","['Lack of privacy', 'Small room size']",0.28,47,Male,2025-06-27
+U0682,couple,Activity,700000,3,"['Clean facilities', 'Pleasant atmosphere', 'Variety of dishes']","['Overpriced', 'Outdated facilities']",0.67,44,Both,2025-01-31
+U0683,solo,Cultural,300000,2,"['Satisfying portions', 'Tender meat', 'Clean facilities']","['Hygiene issues', 'Overpriced']",0.37,62,Male,2025-08-29
+U0684,solo,Cultural,400000,2,"['Friendly service', 'Delicious coffee', 'Fresh seafood']","['Outdated facilities', 'Small portions']",0.36,53,Female,2025-11-14
+U0685,friends,Healing,1600000,2,"['Value for money', 'Well-maintained facilities', 'Quick service']","['Slow service', 'Poor soundproofing']",0.3,63,Male,2025-12-19
+U0686,couple,Healing,1400000,3,"['Quiet atmosphere', 'Affordable prices', 'Authentic taste']","['Lack of privacy', 'Poor cleanliness']",0.71,18,Both,2025-09-01
+U0687,friends,Activity,400000,2,"['Ocean view', 'Fresh seafood', 'Variety of dishes']","['Poor food quality', 'Unpleasant taste']",0.84,38,Female,2025-09-12
+U0688,solo,Foodie,700000,2,"['Well-maintained facilities', 'Friendly service', 'Clean room']","['Poor cleanliness', 'Unpleasant taste']",0.67,56,Male,2025-02-11
+U0689,couple,Healing,1200000,5,"['Cleanliness', 'Quick service', 'Authentic taste']","['Weak water pressure', 'Limited menu']",0.07,51,Both,2025-10-27
+U0690,couple,Healing,400000,2,"['Variety of dishes', 'Quick service', 'Scenic views']","['Small room size', 'Bland taste']",0.43,26,Both,2025-05-21
+U0691,couple,Activity,600000,3,"['Ocean view', 'Value for money', 'Clean facilities']","['Bland taste', 'Poor soundproofing']",0.78,39,Both,2025-08-17
+U0692,solo,Healing,1400000,5,"['Clean facilities', 'Affordable prices', 'Satisfying portions']","['Poor value', 'Slow service']",0.42,46,Male,2025-08-01
+U0693,couple,Cultural,200000,1,"['Quiet atmosphere', 'Affordable prices', 'Tasty food']","['Small room size', 'Poor food quality']",0.48,30,Both,2025-06-20
+U0694,friends,Healing,800000,2,"['Delicious coffee', 'High-quality meat', 'Spicy flavor']","['Limited options', 'Insect presence']",0.84,54,Male,2025-07-03
+U0695,couple,Cultural,400000,1,"['Clean room', 'Family-friendly', 'Pleasant atmosphere']","['Insect presence', 'Small portions']",0.94,53,Both,2025-12-22
+U0696,solo,Healing,400000,2,"['Satisfying portions', 'Value for money', 'Ocean view']","['Noise', 'Small room size']",0.98,64,Male,2025-09-10
+U0697,solo,Foodie,300000,2,"['Scenic views', 'Comfortable bedding', 'Delicious food']","['Salty food', 'Limited amenities']",0.69,23,Female,2025-11-06
+U0698,couple,Cultural,300000,1,"['Clean room', 'Good value', 'Convenient amenities']","['Limited options', 'Unfriendly staff']",0.98,24,Both,2025-06-30
+U0699,friends,Activity,900000,3,"['Quiet atmosphere', 'Friendly service', 'Satisfying portions']","['Small portions', 'Overpriced']",0.3,51,Male,2025-03-13
+U0700,solo,Foodie,800000,2,"['Value for money', 'Well-maintained facilities', 'Delicious food']","['Hygiene issues', 'Cramped space']",0.83,61,Male,2025-02-28
+U0701,solo,Cultural,1300000,2,"['Affordable prices', 'Comfortable bedding', 'Clean facilities']","['Unfriendly staff', 'Overpriced']",0.56,21,Male,2025-09-01
+U0702,friends,Cultural,1300000,5,"['Quiet atmosphere', 'Tender meat', 'Quick service']","['Poor food quality', 'Noise']",0.29,18,Female,2025-07-14
+U0703,couple,Activity,3600000,4,"['Delicious food', 'Scenic views', 'Comfortable bedding']","['Limited amenities', 'Bland taste']",0.35,28,Both,2025-03-05
+U0704,solo,Cultural,3800000,5,"['Pleasant atmosphere', 'Attentive staff', 'Tender meat']","['Bland taste', 'Noise']",0.11,29,Male,2025-08-05
+U0705,couple,Cultural,1000000,2,"['Cleanliness', 'Tasty food', 'Ocean view']","['Lack of privacy', 'High price']",0.82,19,Both,2025-04-03
+U0706,couple,Cultural,900000,1,"['Ocean view', 'Friendly service', 'Family-friendly']","['Salty food', 'Insect presence']",0.91,21,Both,2025-07-20
+U0707,solo,Healing,200000,2,"['Friendly service', 'Authentic taste', 'Cleanliness']","['Hygiene issues', 'Limited options']",0.05,34,Female,2025-12-05
+U0708,friends,Foodie,700000,1,"['Good value', 'Spicy flavor', 'Cleanliness']","['Noise', 'Cramped space']",0.69,19,Female,2025-05-27
+U0709,couple,Foodie,100000,1,"['Pleasant atmosphere', 'Clean facilities', 'Delicious food']","['Bland taste', 'Insect presence']",0.89,25,Both,2025-02-13
+U0710,couple,Foodie,200000,1,"['Affordable prices', 'Family-friendly', 'Ocean view']","['Poor cleanliness', 'Unpleasant taste']",0.56,56,Both,2025-10-19
+U0711,couple,Cultural,500000,3,"['Spicy flavor', 'Comfortable bedding', 'Cleanliness']","['Bland taste', 'Poor cleanliness']",0.07,25,Both,2025-09-09
+U0712,solo,Healing,2500000,5,"['Well-maintained facilities', 'Scenic views', 'Spicy flavor']","['Noise', 'Limited options']",0.42,47,Male,2025-10-12
+U0713,friends,Cultural,400000,2,"['Quiet atmosphere', 'Quick service', 'Value for money']","['Limited amenities', 'Poor cleanliness']",0.05,18,Male,2025-08-22
+U0714,couple,Cultural,300000,2,"['Tender meat', 'Delicious coffee', 'Pleasant atmosphere']","['Small portions', 'Insect presence']",0.22,19,Both,2025-10-17
+U0715,couple,Cultural,500000,2,"['Clean room', 'Variety of dishes', 'Scenic views']","['Poor food quality', 'Overpriced']",0.1,30,Both,2025-09-10
+U0716,friends,Foodie,100000,1,"['Tender meat', 'Clean room', 'Satisfying portions']","['Limited amenities', 'Salty food']",0.51,52,Male,2025-12-16
+U0717,solo,Healing,100000,1,"['Delicious coffee', 'Comfortable bedding', 'Spicy flavor']","['Limited amenities', 'Overpriced']",0.33,49,Female,2025-10-25
+U0718,couple,Activity,800000,2,"['Affordable prices', 'Quiet atmosphere', 'Tender meat']","['Poor soundproofing', 'Poor food quality']",0.14,51,Both,2025-06-19
+U0719,couple,Foodie,300000,2,"['Cleanliness', 'Satisfying portions', 'Value for money']","['Long wait', 'Hygiene issues']",0.92,51,Both,2025-06-02
+U0720,friends,Activity,1400000,2,"['Beautiful view', 'Attentive staff', 'Spicy flavor']","['Overpriced', 'Slow service']",0.98,40,Female,2025-03-14
+U0721,couple,Healing,400000,2,"['Delicious food', 'Spicy flavor', 'Quiet atmosphere']","['Poor food quality', 'Small room size']",0.9,40,Both,2025-03-07
+U0722,couple,Activity,200000,2,"['Authentic taste', 'Value for money', 'Convenient amenities']","['Poor food quality', 'Small room size']",1.0,63,Both,2025-02-02
+U0723,friends,Foodie,500000,3,"['Value for money', 'Family-friendly', 'Authentic taste']","['Poor value', 'Noise']",0.35,63,Female,2025-09-08
+U0724,solo,Healing,300000,3,"['Attentive staff', 'Delicious food', 'Value for money']","['High price', 'Weak water pressure']",0.95,48,Female,2025-05-24
+U0725,friends,Foodie,300000,2,"['Delicious food', 'Value for money', 'Scenic views']","['Lack of privacy', 'Long wait']",0.48,60,Male,2025-07-27
+U0726,couple,Healing,900000,4,"['High-quality meat', 'Large portions', 'Attentive staff']","['Noise', 'Limited menu']",0.55,65,Both,2025-10-19
+U0727,solo,Foodie,500000,2,"['Delicious coffee', 'Beautiful view', 'Friendly service']","['Unpleasant taste', 'Small room size']",0.03,34,Female,2025-12-22
+U0728,solo,Cultural,200000,1,"['Cleanliness', 'Quiet atmosphere', 'Fresh seafood']","['Small room size', 'Lack of privacy']",0.6,60,Male,2025-11-13
+U0729,friends,Activity,200000,2,"['Beautiful view', 'Delicious coffee', 'Satisfying portions']","['Overpriced', 'Limited menu']",0.98,63,Female,2025-04-27
+U0730,solo,Activity,700000,4,"['High-quality meat', 'Convenient amenities', 'Tasty food']","['Outdated facilities', 'Long wait']",0.87,29,Male,2025-09-03
+U0731,solo,Cultural,400000,2,"['Tender meat', 'Well-maintained facilities', 'Attentive staff']","['Hygiene issues', 'High price']",0.56,29,Female,2025-01-14
+U0732,couple,Healing,200000,2,"['Quiet atmosphere', 'Clean facilities', 'Tender meat']","['Unfriendly staff', 'High price']",0.34,52,Both,2025-06-27
+U0733,friends,Activity,400000,1,"['Clean room', 'Attentive staff', 'Tasty food']","['Long wait', 'Cramped space']",0.58,53,Female,2025-08-10
+U0734,solo,Healing,400000,3,"['Fresh seafood', 'Ocean view', 'Convenient amenities']","['Weak water pressure', 'Unpleasant taste']",0.4,35,Female,2025-01-17
+U0735,solo,Cultural,300000,3,"['Quiet atmosphere', 'Authentic taste', 'Friendly service']","['Hygiene issues', 'Limited options']",0.27,58,Female,2025-04-08
+U0736,couple,Healing,500000,4,"['Convenient amenities', 'Ocean view', 'Delicious coffee']","['Small portions', 'Long wait']",0.51,19,Both,2025-08-02
+U0737,couple,Healing,300000,2,"['Tasty food', 'Ocean view', 'Convenient amenities']","['Outdated facilities', 'Limited options']",0.56,50,Both,2025-04-29
+U0738,couple,Foodie,200000,2,"['Ocean view', 'Attentive staff', 'Delicious food']","['Poor food quality', 'Cramped space']",0.39,18,Both,2025-02-12
+U0739,solo,Activity,2400000,3,"['Attentive staff', 'Well-maintained facilities', 'Clean room']","['Poor food quality', 'Noise']",0.89,48,Male,2025-02-05
+U0740,friends,Foodie,900000,3,"['Fresh seafood', 'Spicy flavor', 'Pleasant atmosphere']","['Small portions', 'Slow service']",0.37,34,Female,2025-07-09
+U0741,friends,Foodie,400000,1,"['Satisfying portions', 'Convenient amenities', 'Scenic views']","['Long wait', 'Limited options']",0.91,26,Female,2025-03-31
+U0742,friends,Cultural,600000,3,"['Delicious food', 'Clean room', 'Ocean view']","['Weak water pressure', 'Limited menu']",0.48,32,Female,2025-03-09
+U0743,solo,Foodie,1500000,3,"['Tender meat', 'Spicy flavor', 'Value for money']","['Long wait', 'Poor value']",0.86,59,Male,2025-12-21
+U0744,solo,Healing,400000,2,"['High-quality meat', 'Clean room', 'Variety of dishes']","['Overpriced', 'Cramped space']",0.88,43,Female,2025-08-26
+U0745,solo,Activity,700000,2,"['Affordable prices', 'Large portions', 'Fresh seafood']","['Salty food', 'Slow service']",0.61,47,Male,2025-11-28
+U0746,couple,Healing,600000,2,"['Spicy flavor', 'Quick service', 'Pleasant atmosphere']","['Bland taste', 'Outdated facilities']",0.11,18,Both,2025-04-03
+U0747,solo,Cultural,500000,2,"['Large portions', 'Clean room', 'Delicious coffee']","['Slow service', 'Salty food']",0.32,23,Female,2025-11-01
+U0748,couple,Cultural,300000,2,"['Authentic taste', 'Pleasant atmosphere', 'Tender meat']","['Hygiene issues', 'Overpriced']",0.03,31,Both,2025-08-26
+U0749,solo,Cultural,1500000,4,"['Ocean view', 'Clean room', 'Convenient amenities']","['Small room size', 'Long wait']",0.28,45,Male,2025-11-01
+U0750,solo,Cultural,500000,3,"['Delicious coffee', 'Ocean view', 'Well-maintained facilities']","['Overpriced', 'Weak water pressure']",0.46,26,Female,2025-06-29
+U0751,friends,Foodie,1300000,2,"['Authentic taste', 'Family-friendly', 'Beautiful view']","['Poor soundproofing', 'Poor cleanliness']",0.67,48,Male,2025-11-12
+U0752,couple,Healing,900000,3,"['High-quality meat', 'Tasty food', 'Quiet atmosphere']","['Unfriendly staff', 'Outdated facilities']",0.85,48,Both,2025-12-06
+U0753,solo,Foodie,300000,2,"['Quick service', 'Tasty food', 'Comfortable bedding']","['Small room size', 'Unfriendly staff']",0.98,52,Male,2025-06-09
+U0754,solo,Foodie,500000,3,"['Attentive staff', 'Good value', 'Convenient amenities']","['Limited menu', 'Weak water pressure']",0.08,54,Female,2025-06-27
+U0755,solo,Cultural,900000,1,"['Tender meat', 'Generous portions', 'Ocean view']","['Weak water pressure', 'Poor soundproofing']",0.2,61,Male,2025-04-27
+U0756,couple,Cultural,200000,2,"['Convenient amenities', 'Tender meat', 'Cleanliness']","['Unpleasant taste', 'Noise']",0.53,48,Both,2025-06-19
+U0757,couple,Foodie,200000,1,"['Family-friendly', 'Clean facilities', 'Delicious food']","['Limited options', 'Weak water pressure']",0.7,27,Both,2025-02-11
+U0758,couple,Healing,1500000,4,"['Pleasant atmosphere', 'Clean room', 'Attentive staff']","['Insect presence', 'Limited menu']",0.49,47,Both,2025-05-22
+U0759,friends,Foodie,200000,2,"['Value for money', 'Large portions', 'Well-maintained facilities']","['Overpriced', 'Poor cleanliness']",0.08,46,Female,2025-04-08
+U0760,couple,Cultural,1100000,3,"['Affordable prices', 'Quiet atmosphere', 'Satisfying portions']","['Limited amenities', 'Long wait']",0.72,44,Both,2025-08-05
+U0761,couple,Foodie,600000,5,"['Comfortable bedding', 'Delicious coffee', 'Tender meat']","['Noise', 'Cramped space']",0.73,31,Both,2025-05-18
+U0762,couple,Foodie,300000,2,"['Beautiful view', 'Clean room', 'Variety of dishes']","['Bland taste', 'Cramped space']",0.87,51,Both,2025-10-14
+U0763,solo,Activity,900000,2,"['Scenic views', 'Fresh seafood', 'Good value']","['Hygiene issues', 'High price']",0.04,37,Male,2025-09-15
+U0764,couple,Foodie,1000000,5,"['Tender meat', 'Spicy flavor', 'Scenic views']","['Weak water pressure', 'Unfriendly staff']",0.46,30,Both,2025-06-27
+U0765,solo,Foodie,500000,5,"['Family-friendly', 'Variety of dishes', 'Pleasant atmosphere']","['High price', 'Small portions']",0.82,55,Female,2025-01-11
+U0766,couple,Activity,1100000,4,"['Scenic views', 'Authentic taste', 'Good value']","['Bland taste', 'Limited amenities']",0.02,63,Both,2025-03-29
+U0767,couple,Cultural,1300000,3,"['Pleasant atmosphere', 'High-quality meat', 'Ocean view']","['Poor cleanliness', 'Bland taste']",0.38,54,Both,2025-04-04
+U0768,friends,Cultural,100000,1,"['Quick service', 'Clean facilities', 'Value for money']","['Small room size', 'Poor value']",0.76,45,Female,2025-12-22
+U0769,friends,Activity,200000,1,"['Family-friendly', 'Variety of dishes', 'Clean room']","['Limited amenities', 'Bland taste']",0.81,50,Male,2025-05-07
+U0770,friends,Foodie,200000,2,"['Ocean view', 'Generous portions', 'Fresh seafood']","['Overpriced', 'Poor cleanliness']",0.22,58,Male,2025-03-11
+U0771,solo,Cultural,400000,1,"['Variety of dishes', 'Beautiful view', 'Good value']","['Poor cleanliness', 'Poor value']",0.11,30,Female,2025-11-05
+U0772,friends,Foodie,400000,3,"['Friendly service', 'Delicious coffee', 'Affordable prices']","['Lack of privacy', 'Slow service']",0.26,33,Female,2025-06-02
+U0773,solo,Foodie,200000,2,"['Quick service', 'Good value', 'High-quality meat']","['Small portions', 'Limited options']",0.36,37,Female,2025-10-24
+U0774,couple,Cultural,700000,2,"['Convenient amenities', 'Beautiful view', 'Value for money']","['Small room size', 'Unfriendly staff']",0.5,55,Both,2025-09-22
+U0775,friends,Healing,1400000,2,"['Large portions', 'Fresh seafood', 'Clean facilities']","['Limited options', 'Long wait']",0.51,18,Female,2025-12-07
+U0776,solo,Healing,1000000,5,"['Pleasant atmosphere', 'Large portions', 'Delicious food']","['Weak water pressure', 'Noise']",0.23,42,Female,2025-10-20
+U0777,solo,Healing,1000000,3,"['Delicious coffee', 'Quiet atmosphere', 'Well-maintained facilities']","['Poor food quality', 'Outdated facilities']",0.25,53,Male,2025-01-26
+U0778,couple,Foodie,3500000,5,"['Beautiful view', 'Tasty food', 'Family-friendly']","['Hygiene issues', 'Poor value']",0.74,55,Both,2025-10-28
+U0779,couple,Activity,600000,2,"['Convenient amenities', 'Delicious coffee', 'High-quality meat']","['Limited options', 'Outdated facilities']",0.46,23,Both,2025-02-28
+U0780,couple,Activity,500000,2,"['Tasty food', 'Satisfying portions', 'Pleasant atmosphere']","['Poor soundproofing', 'Unfriendly staff']",0.01,57,Both,2025-05-23
+U0781,couple,Cultural,900000,2,"['Affordable prices', 'Large portions', 'Pleasant atmosphere']","['Limited options', 'Cramped space']",0.53,26,Both,2025-01-27
+U0782,friends,Activity,200000,1,"['Affordable prices', 'Clean facilities', 'Authentic taste']","['Poor soundproofing', 'High price']",0.06,57,Female,2025-01-07
+U0783,friends,Foodie,300000,2,"['Pleasant atmosphere', 'Large portions', 'Variety of dishes']","['Long wait', 'Cramped space']",0.02,36,Male,2025-05-23
+U0784,friends,Healing,200000,2,"['Scenic views', 'Well-maintained facilities', 'Fresh seafood']","['Slow service', 'Outdated facilities']",0.75,54,Male,2025-11-24
+U0785,couple,Foodie,400000,2,"['Variety of dishes', 'Family-friendly', 'Beautiful view']","['Poor soundproofing', 'Unfriendly staff']",0.48,20,Both,2025-05-24
+U0786,couple,Foodie,900000,1,"['Pleasant atmosphere', 'Convenient amenities', 'Large portions']","['Limited menu', 'High price']",0.39,51,Both,2025-01-05
+U0787,couple,Healing,3800000,5,"['Satisfying portions', 'Quiet atmosphere', 'Quick service']","['Cramped space', 'Limited amenities']",0.14,39,Both,2025-04-12
+U0788,solo,Activity,800000,3,"['High-quality meat', 'Ocean view', 'Affordable prices']","['Unfriendly staff', 'Poor cleanliness']",0.33,43,Female,2025-03-26
+U0789,solo,Healing,200000,1,"['Pleasant atmosphere', 'Ocean view', 'Family-friendly']","['Salty food', 'Limited menu']",0.99,42,Male,2025-03-21
+U0790,couple,Healing,300000,3,"['Spicy flavor', 'Pleasant atmosphere', 'Large portions']","['Overpriced', 'Weak water pressure']",1.0,38,Both,2025-10-03
+U0791,friends,Cultural,4400000,5,"['Quick service', 'Fresh seafood', 'Delicious coffee']","['Outdated facilities', 'Unpleasant taste']",0.68,61,Female,2025-02-05
+U0792,friends,Healing,700000,2,"['Well-maintained facilities', 'Generous portions', 'High-quality meat']","['Overpriced', 'Limited menu']",0.67,42,Female,2025-03-28
+U0793,solo,Foodie,1400000,3,"['Affordable prices', 'Pleasant atmosphere', 'Spicy flavor']","['Lack of privacy', 'Poor soundproofing']",0.13,61,Female,2025-03-09
+U0794,friends,Cultural,400000,4,"['Ocean view', 'Large portions', 'Tender meat']","['Limited options', 'Bland taste']",0.16,41,Female,2025-01-17
+U0795,couple,Activity,800000,2,"['Fresh seafood', 'Quick service', 'Clean facilities']","['Insect presence', 'High price']",0.66,59,Both,2025-12-26
+U0796,friends,Activity,500000,2,"['Good value', 'Well-maintained facilities', 'Clean facilities']","['Poor food quality', 'Hygiene issues']",0.62,62,Female,2025-02-25
+U0797,couple,Foodie,700000,4,"['Delicious coffee', 'Value for money', 'Authentic taste']","['Overpriced', 'Limited options']",0.65,38,Both,2025-11-09
+U0798,friends,Cultural,800000,5,"['Good value', 'Beautiful view', 'Satisfying portions']","['Limited amenities', 'Hygiene issues']",0.81,39,Female,2025-10-04
+U0799,couple,Activity,400000,1,"['Large portions', 'Convenient amenities', 'Quiet atmosphere']","['Poor food quality', 'Cramped space']",0.49,29,Both,2025-03-30
+U0800,friends,Healing,200000,1,"['Family-friendly', 'Attentive staff', 'Cleanliness']","['Outdated facilities', 'Limited menu']",0.87,49,Female,2025-05-09
+U0801,solo,Activity,300000,3,"['Delicious coffee', 'Affordable prices', 'High-quality meat']","['Salty food', 'Poor value']",0.71,32,Female,2025-10-27
+U0802,friends,Activity,200000,1,"['Satisfying portions', 'Attentive staff', 'Clean room']","['Insect presence', 'Weak water pressure']",0.72,48,Male,2025-10-12
+U0803,couple,Cultural,600000,2,"['Cleanliness', 'Delicious food', 'High-quality meat']","['Lack of privacy', 'Bland taste']",0.28,61,Both,2025-11-01
+U0804,couple,Foodie,500000,3,"['Clean facilities', 'Well-maintained facilities', 'Pleasant atmosphere']","['Noise', 'Long wait']",0.36,28,Both,2025-09-10
+U0805,couple,Cultural,300000,3,"['Delicious coffee', 'Quick service', 'Convenient amenities']","['Limited menu', 'Lack of privacy']",0.31,65,Both,2025-05-03
+U0806,solo,Healing,600000,3,"['Variety of dishes', 'Ocean view', 'Tender meat']","['Poor soundproofing', 'Poor food quality']",0.16,53,Female,2025-10-30
+U0807,solo,Foodie,1500000,2,"['Family-friendly', 'Value for money', 'Satisfying portions']","['Bland taste', 'High price']",0.29,18,Male,2025-11-06
+U0808,solo,Healing,200000,2,"['Tender meat', 'Value for money', 'Pleasant atmosphere']","['Unpleasant taste', 'Cramped space']",0.68,29,Male,2025-07-12
+U0809,friends,Foodie,1100000,3,"['Variety of dishes', 'Good value', 'Satisfying portions']","['Poor cleanliness', 'Cramped space']",0.4,53,Male,2025-08-05
+U0810,solo,Foodie,900000,3,"['Ocean view', 'Well-maintained facilities', 'Pleasant atmosphere']","['Limited options', 'Long wait']",0.44,30,Female,2025-04-05
+U0811,friends,Foodie,500000,1,"['Generous portions', 'Well-maintained facilities', 'Authentic taste']","['Poor value', 'Poor cleanliness']",0.88,25,Male,2025-05-14
+U0812,couple,Activity,200000,1,"['Delicious coffee', 'Clean room', 'Pleasant atmosphere']","['Poor value', 'Slow service']",0.78,37,Both,2025-04-19
+U0813,couple,Healing,500000,4,"['Delicious food', 'Quick service', 'Clean facilities']","['Noise', 'Lack of privacy']",0.46,46,Both,2025-05-11
+U0814,friends,Cultural,2800000,4,"['Authentic taste', 'Friendly service', 'Delicious coffee']","['Noise', 'Hygiene issues']",0.53,65,Female,2025-11-09
+U0815,friends,Healing,400000,3,"['Fresh seafood', 'Family-friendly', 'Large portions']","['Long wait', 'High price']",0.18,61,Male,2025-03-01
+U0816,solo,Foodie,500000,2,"['Spicy flavor', 'Cleanliness', 'Quiet atmosphere']","['Insect presence', 'Poor food quality']",0.83,43,Male,2025-12-27
+U0817,couple,Foodie,2700000,3,"['Fresh seafood', 'Comfortable bedding', 'Ocean view']","['Cramped space', 'Limited options']",0.57,30,Both,2025-02-12
+U0818,friends,Healing,400000,2,"['Quick service', 'Affordable prices', 'Comfortable bedding']","['Weak water pressure', 'Noise']",0.75,65,Male,2025-10-16
+U0819,solo,Healing,800000,3,"['Delicious coffee', 'Satisfying portions', 'Cleanliness']","['High price', 'Bland taste']",0.87,49,Male,2025-12-01
+U0820,solo,Cultural,900000,3,"['Scenic views', 'Authentic taste', 'Fresh seafood']","['Poor cleanliness', 'Bland taste']",0.63,29,Male,2025-09-16
+U0821,solo,Activity,1000000,2,"['Cleanliness', 'Scenic views', 'Fresh seafood']","['Unpleasant taste', 'Limited options']",0.46,54,Male,2025-06-09
+U0822,couple,Cultural,500000,2,"['Delicious coffee', 'Comfortable bedding', 'Ocean view']","['Salty food', 'Weak water pressure']",0.92,29,Both,2025-04-17
+U0823,couple,Cultural,800000,3,"['Comfortable bedding', 'Spicy flavor', 'Friendly service']","['Insect presence', 'Lack of privacy']",0.06,52,Both,2025-05-30
+U0824,friends,Healing,1900000,5,"['Generous portions', 'High-quality meat', 'Variety of dishes']","['Poor soundproofing', 'Poor cleanliness']",0.7,61,Male,2025-03-26
+U0825,couple,Foodie,200000,2,"['Good value', 'Generous portions', 'Ocean view']","['Bland taste', 'Limited menu']",0.89,41,Both,2025-02-03
+U0826,solo,Foodie,700000,1,"['High-quality meat', 'Variety of dishes', 'Large portions']","['Long wait', 'Poor cleanliness']",0.98,59,Female,2025-07-24
+U0827,friends,Cultural,200000,1,"['Generous portions', 'Quick service', 'Cleanliness']","['Bland taste', 'Lack of privacy']",0.63,19,Male,2025-01-14
+U0828,solo,Healing,400000,2,"['Generous portions', 'Quiet atmosphere', 'Fresh seafood']","['Weak water pressure', 'Poor food quality']",0.27,65,Female,2025-01-22
+U0829,friends,Activity,900000,2,"['Spicy flavor', 'Generous portions', 'Tasty food']","['Poor cleanliness', 'Poor soundproofing']",0.32,54,Male,2025-11-04
+U0830,solo,Foodie,400000,3,"['Spicy flavor', 'Pleasant atmosphere', 'Clean room']","['Unfriendly staff', 'Weak water pressure']",0.93,42,Female,2025-08-02
+U0831,friends,Healing,1100000,3,"['Large portions', 'Variety of dishes', 'Tender meat']","['Weak water pressure', 'Bland taste']",0.15,21,Female,2025-10-23
+U0832,friends,Activity,1100000,4,"['Quick service', 'Comfortable bedding', 'Cleanliness']","['Salty food', 'Weak water pressure']",0.89,30,Male,2025-06-13
+U0833,solo,Cultural,600000,5,"['High-quality meat', 'Clean room', 'Affordable prices']","['Poor value', 'Salty food']",0.69,27,Female,2025-04-14
+U0834,friends,Healing,400000,2,"['Satisfying portions', 'Clean facilities', 'Beautiful view']","['Poor value', 'Poor food quality']",0.2,43,Male,2025-02-18
+U0835,friends,Activity,700000,3,"['Delicious food', 'Satisfying portions', 'Good value']","['Limited options', 'Unpleasant taste']",0.51,33,Male,2025-05-07
+U0836,solo,Healing,200000,2,"['Affordable prices', 'Beautiful view', 'Generous portions']","['High price', 'Unpleasant taste']",0.81,39,Male,2025-03-27
+U0837,solo,Activity,200000,2,"['Spicy flavor', 'Convenient amenities', 'Ocean view']","['Noise', 'Unpleasant taste']",0.13,34,Male,2025-07-04
+U0838,couple,Healing,800000,1,"['Large portions', 'Fresh seafood', 'Authentic taste']","['Limited options', 'Outdated facilities']",0.55,28,Both,2025-04-20
+U0839,couple,Foodie,400000,4,"['Friendly service', 'Ocean view', 'Clean facilities']","['Poor value', 'Small room size']",0.95,61,Both,2025-11-26
+U0840,friends,Activity,700000,3,"['Tender meat', 'Good value', 'Cleanliness']","['Small portions', 'Poor value']",0.7,58,Female,2025-03-04
+U0841,friends,Healing,100000,1,"['Affordable prices', 'Satisfying portions', 'Quiet atmosphere']","['Small room size', 'Limited amenities']",1.0,34,Male,2025-09-09
+U0842,couple,Activity,1200000,4,"['Friendly service', 'Good value', 'Ocean view']","['Lack of privacy', 'Unpleasant taste']",0.43,26,Both,2025-04-22
+U0843,solo,Cultural,1600000,2,"['Large portions', 'Fresh seafood', 'Attentive staff']","['Unpleasant taste', 'Cramped space']",0.07,64,Female,2025-07-15
+U0844,solo,Foodie,1000000,5,"['Well-maintained facilities', 'Large portions', 'Cleanliness']","['Insect presence', 'Slow service']",0.56,53,Male,2025-10-07
+U0845,solo,Healing,900000,2,"['Good value', 'Variety of dishes', 'Scenic views']","['Overpriced', 'Limited options']",0.7,28,Male,2025-05-09
+U0846,couple,Healing,100000,1,"['Clean facilities', 'Attentive staff', 'Family-friendly']","['Limited menu', 'Weak water pressure']",0.28,34,Both,2025-01-28
+U0847,couple,Healing,900000,3,"['Value for money', 'Friendly service', 'Beautiful view']","['Poor value', 'Salty food']",0.76,39,Both,2025-03-15
+U0848,friends,Cultural,700000,3,"['Good value', 'Pleasant atmosphere', 'High-quality meat']","['Poor cleanliness', 'Long wait']",0.83,57,Male,2025-11-27
+U0849,friends,Foodie,2300000,3,"['Good value', 'Quiet atmosphere', 'Attentive staff']","['Small portions', 'Poor food quality']",0.18,55,Female,2025-09-08
+U0850,couple,Cultural,1300000,5,"['Tasty food', 'High-quality meat', 'Variety of dishes']","['Unfriendly staff', 'Poor value']",0.51,25,Both,2025-09-05
+U0851,couple,Activity,900000,4,"['Friendly service', 'Convenient amenities', 'Large portions']","['Bland taste', 'Limited menu']",0.99,52,Both,2025-11-02
+U0852,solo,Healing,400000,2,"['Convenient amenities', 'Generous portions', 'Delicious food']","['Overpriced', 'Hygiene issues']",0.33,61,Female,2025-08-03
+U0853,friends,Healing,900000,2,"['Ocean view', 'Comfortable bedding', 'Spicy flavor']","['Small room size', 'Hygiene issues']",0.82,65,Female,2025-09-12
+U0854,solo,Cultural,100000,1,"['Tasty food', 'Satisfying portions', 'Quick service']","['Long wait', 'Salty food']",0.15,57,Female,2025-06-22
+U0855,friends,Activity,300000,2,"['Authentic taste', 'High-quality meat', 'Beautiful view']","['Poor soundproofing', 'Small room size']",0.64,47,Male,2025-07-28
+U0856,friends,Activity,1300000,2,"['Scenic views', 'Satisfying portions', 'Delicious coffee']","['Hygiene issues', 'Cramped space']",0.77,61,Male,2025-05-13
+U0857,solo,Cultural,300000,3,"['Delicious food', 'Friendly service', 'Affordable prices']","['Poor soundproofing', 'Weak water pressure']",0.2,58,Male,2025-10-26
+U0858,friends,Foodie,500000,4,"['Delicious coffee', 'Clean room', 'Authentic taste']","['Cramped space', 'Limited menu']",0.59,49,Male,2025-01-16
+U0859,couple,Cultural,400000,3,"['Delicious coffee', 'Clean facilities', 'Quiet atmosphere']","['Unpleasant taste', 'Lack of privacy']",0.71,38,Both,2025-08-28
+U0860,friends,Activity,1700000,2,"['Tender meat', 'Clean room', 'Quiet atmosphere']","['High price', 'Poor cleanliness']",0.05,51,Female,2025-12-27
+U0861,friends,Activity,700000,2,"['Quick service', 'Cleanliness', 'Delicious coffee']","['High price', 'Bland taste']",0.82,52,Female,2025-10-28
+U0862,solo,Foodie,1500000,2,"['Fresh seafood', 'Quiet atmosphere', 'Well-maintained facilities']","['Bland taste', 'Limited amenities']",0.16,39,Female,2025-02-15
+U0863,couple,Activity,1400000,3,"['Tasty food', 'Clean facilities', 'High-quality meat']","['Limited options', 'Overpriced']",0.93,33,Both,2025-02-28
+U0864,solo,Cultural,500000,4,"['Variety of dishes', 'Affordable prices', 'Delicious coffee']","['Poor value', 'Poor soundproofing']",0.72,60,Female,2025-02-14
+U0865,friends,Healing,300000,2,"['Good value', 'Family-friendly', 'Tender meat']","['Limited options', 'Overpriced']",0.76,61,Male,2025-08-29
+U0866,friends,Activity,900000,3,"['Authentic taste', 'Clean room', 'Beautiful view']","['Unfriendly staff', 'Salty food']",0.56,43,Female,2025-10-05
+U0867,friends,Cultural,100000,1,"['Quick service', 'Quiet atmosphere', 'Clean facilities']","['Small portions', 'Noise']",0.75,36,Female,2025-06-18
+U0868,solo,Cultural,200000,1,"['Delicious food', 'Beautiful view', 'Well-maintained facilities']","['Limited menu', 'Lack of privacy']",0.45,43,Male,2025-09-05
+U0869,couple,Healing,300000,2,"['Quiet atmosphere', 'Scenic views', 'High-quality meat']","['Unpleasant taste', 'Cramped space']",0.98,22,Both,2025-06-20
+U0870,friends,Cultural,100000,1,"['Variety of dishes', 'Tender meat', 'Delicious food']","['Poor food quality', 'Slow service']",0.91,40,Male,2025-04-24
+U0871,friends,Foodie,200000,2,"['Cleanliness', 'Delicious coffee', 'Generous portions']","['Unpleasant taste', 'Noise']",0.81,35,Male,2025-01-20
+U0872,solo,Cultural,400000,3,"['Satisfying portions', 'Attentive staff', 'Spicy flavor']","['Poor soundproofing', 'Limited menu']",0.08,46,Male,2025-12-30
+U0873,couple,Activity,200000,1,"['Well-maintained facilities', 'Scenic views', 'Tender meat']","['Cramped space', 'Limited menu']",0.72,38,Both,2025-03-13
+U0874,solo,Cultural,200000,2,"['Fresh seafood', 'Scenic views', 'Well-maintained facilities']","['Cramped space', 'Unpleasant taste']",0.51,56,Female,2025-08-11
+U0875,solo,Healing,200000,2,"['Quick service', 'Delicious coffee', 'Cleanliness']","['High price', 'Small room size']",0.33,54,Female,2025-11-11
+U0876,couple,Cultural,500000,5,"['Clean facilities', 'Friendly service', 'Pleasant atmosphere']","['Bland taste', 'Limited amenities']",0.31,32,Both,2025-11-23
+U0877,solo,Foodie,300000,2,"['Delicious food', 'Ocean view', 'Quick service']","['Small room size', 'Overpriced']",0.05,48,Male,2025-08-16
+U0878,friends,Healing,100000,1,"['Delicious food', 'Authentic taste', 'Pleasant atmosphere']","['Noise', 'Limited amenities']",0.0,41,Female,2025-03-06
+U0879,couple,Cultural,700000,1,"['Family-friendly', 'Spicy flavor', 'Tasty food']","['Bland taste', 'Lack of privacy']",0.82,63,Both,2025-07-31
+U0880,friends,Cultural,500000,2,"['High-quality meat', 'Attentive staff', 'Delicious coffee']","['Weak water pressure', 'Limited options']",0.09,21,Female,2025-11-16
+U0881,solo,Cultural,600000,2,"['Clean room', 'Quiet atmosphere', 'High-quality meat']","['Poor soundproofing', 'Overpriced']",0.97,36,Male,2025-12-13
+U0882,solo,Cultural,300000,2,"['Delicious food', 'Convenient amenities', 'Beautiful view']","['Poor cleanliness', 'Salty food']",0.59,34,Female,2025-07-09
+U0883,friends,Foodie,500000,2,"['Fresh seafood', 'Good value', 'Pleasant atmosphere']","['Noise', 'Unfriendly staff']",0.0,61,Male,2025-03-04
+U0884,friends,Foodie,900000,4,"['Authentic taste', 'Beautiful view', 'Cleanliness']","['Poor cleanliness', 'Limited amenities']",0.85,44,Male,2025-05-09
+U0885,couple,Activity,200000,1,"['Tender meat', 'Delicious food', 'Affordable prices']","['Poor food quality', 'Bland taste']",0.31,23,Both,2025-02-24
+U0886,couple,Cultural,700000,3,"['Comfortable bedding', 'Ocean view', 'Clean facilities']","['Noise', 'Unpleasant taste']",0.28,40,Both,2025-08-01
+U0887,friends,Foodie,200000,2,"['Clean room', 'Authentic taste', 'Friendly service']","['Small portions', 'Unpleasant taste']",0.06,55,Male,2025-11-09
+U0888,couple,Foodie,700000,5,"['Ocean view', 'Clean facilities', 'Generous portions']","['Long wait', 'Small portions']",0.54,32,Both,2025-01-16
+U0889,friends,Cultural,300000,2,"['Quick service', 'High-quality meat', 'Beautiful view']","['Bland taste', 'Small room size']",0.98,63,Male,2025-12-18
+U0890,friends,Cultural,600000,3,"['Clean facilities', 'Friendly service', 'High-quality meat']","['Cramped space', 'Overpriced']",0.77,58,Female,2025-01-06
+U0891,friends,Healing,1300000,2,"['Tasty food', 'Pleasant atmosphere', 'Quick service']","['Cramped space', 'Poor cleanliness']",0.04,28,Female,2025-08-14
+U0892,friends,Foodie,1600000,2,"['High-quality meat', 'Delicious coffee', 'Generous portions']","['Limited menu', 'Slow service']",0.49,36,Female,2025-04-17
+U0893,solo,Activity,100000,1,"['Quiet atmosphere', 'High-quality meat', 'Friendly service']","['Poor soundproofing', 'Limited options']",0.74,44,Female,2025-10-13
+U0894,solo,Activity,700000,4,"['Generous portions', 'Delicious food', 'Tender meat']","['Poor cleanliness', 'Insect presence']",1.0,61,Male,2025-08-20
+U0895,friends,Healing,300000,3,"['Delicious food', 'Satisfying portions', 'Authentic taste']","['Poor soundproofing', 'Poor cleanliness']",0.34,22,Female,2025-09-20
+U0896,friends,Healing,400000,3,"['Scenic views', 'Delicious food', 'Good value']","['Limited menu', 'Unfriendly staff']",0.46,18,Female,2025-05-13
+U0897,couple,Cultural,1600000,2,"['Generous portions', 'Good value', 'Scenic views']","['High price', 'Limited options']",0.09,35,Both,2025-01-17
+U0898,solo,Activity,200000,2,"['Good value', 'Friendly service', 'Generous portions']","['Hygiene issues', 'Noise']",0.9,20,Female,2025-06-25
+U0899,friends,Cultural,200000,1,"['Affordable prices', 'Generous portions', 'Authentic taste']","['Limited amenities', 'Small portions']",0.34,35,Female,2025-10-01
+U0900,couple,Activity,900000,2,"['High-quality meat', 'Attentive staff', 'Value for money']","['Slow service', 'Small portions']",0.85,37,Both,2025-11-24
+U0901,friends,Cultural,1100000,5,"['Generous portions', 'Quick service', 'Pleasant atmosphere']","['Limited menu', 'Small portions']",0.41,29,Male,2025-07-05
+U0902,couple,Activity,1000000,2,"['Scenic views', 'Tasty food', 'Value for money']","['Outdated facilities', 'High price']",0.63,52,Both,2025-05-25
+U0903,couple,Foodie,100000,1,"['Spicy flavor', 'Friendly service', 'Quiet atmosphere']","['Poor value', 'Poor cleanliness']",0.65,47,Both,2025-12-28
+U0904,solo,Cultural,1300000,2,"['Ocean view', 'Pleasant atmosphere', 'Fresh seafood']","['Weak water pressure', 'Limited amenities']",0.99,37,Female,2025-05-16
+U0905,couple,Healing,200000,1,"['Clean facilities', 'Delicious coffee', 'Beautiful view']","['Poor food quality', 'Bland taste']",0.01,28,Both,2025-01-29
+U0906,solo,Foodie,600000,5,"['Delicious food', 'Good value', 'Spicy flavor']","['Small room size', 'Noise']",0.37,62,Female,2025-07-07
+U0907,solo,Healing,1100000,3,"['Attentive staff', 'Ocean view', 'Comfortable bedding']","['Long wait', 'Limited menu']",0.18,60,Male,2025-05-16
+U0908,solo,Activity,600000,3,"['Scenic views', 'Convenient amenities', 'Tender meat']","['Limited amenities', 'Noise']",0.9,32,Female,2025-04-11
+U0909,friends,Foodie,400000,2,"['Quiet atmosphere', 'Clean room', 'Attentive staff']","['Overpriced', 'Weak water pressure']",0.91,33,Female,2025-05-03
+U0910,solo,Foodie,300000,3,"['Cleanliness', 'Affordable prices', 'Quick service']","['Outdated facilities', 'Unfriendly staff']",0.5,64,Female,2025-01-24
+U0911,solo,Activity,1000000,3,"['Ocean view', 'Fresh seafood', 'Attentive staff']","['Weak water pressure', 'Insect presence']",0.02,51,Female,2025-09-22
+U0912,couple,Activity,200000,1,"['Well-maintained facilities', 'Fresh seafood', 'Variety of dishes']","['Lack of privacy', 'Poor value']",0.6,52,Both,2025-06-10
+U0913,solo,Activity,500000,3,"['Good value', 'Clean room', 'Fresh seafood']","['High price', 'Small room size']",0.9,43,Male,2025-03-31
+U0914,friends,Cultural,900000,5,"['Delicious coffee', 'Ocean view', 'Spicy flavor']","['Slow service', 'Overpriced']",0.16,56,Female,2025-07-15
+U0915,solo,Healing,400000,2,"['Good value', 'Tender meat', 'Satisfying portions']","['Weak water pressure', 'Overpriced']",0.82,24,Male,2025-07-31
+U0916,solo,Healing,300000,2,"['Clean room', 'Friendly service', 'Pleasant atmosphere']","['Noise', 'Bland taste']",0.88,61,Male,2025-08-07
+U0917,couple,Activity,900000,4,"['Attentive staff', 'Large portions', 'Ocean view']","['Poor cleanliness', 'Noise']",0.15,62,Both,2025-09-24
+U0918,solo,Foodie,700000,3,"['Family-friendly', 'Fresh seafood', 'Comfortable bedding']","['Limited menu', 'Poor value']",0.04,18,Male,2025-12-20
+U0919,solo,Healing,300000,2,"['Delicious coffee', 'Tender meat', 'Friendly service']","['Noise', 'Unfriendly staff']",0.67,41,Male,2025-10-14
+U0920,solo,Foodie,1300000,4,"['Friendly service', 'Convenient amenities', 'Spicy flavor']","['Slow service', 'Lack of privacy']",0.39,49,Female,2025-11-01
+U0921,couple,Foodie,700000,4,"['Delicious food', 'Authentic taste', 'Tender meat']","['Hygiene issues', 'Noise']",0.9,51,Both,2025-06-25
+U0922,solo,Cultural,500000,4,"['Tasty food', 'Friendly service', 'High-quality meat']","['Small room size', 'Poor food quality']",0.68,39,Female,2025-05-28
+U0923,friends,Healing,800000,1,"['Friendly service', 'Fresh seafood', 'Scenic views']","['Salty food', 'Insect presence']",0.3,46,Male,2025-08-11
+U0924,friends,Cultural,500000,2,"['High-quality meat', 'Cleanliness', 'Ocean view']","['Unpleasant taste', 'Hygiene issues']",0.23,30,Female,2025-06-07
+U0925,solo,Foodie,800000,2,"['Quick service', 'Scenic views', 'Good value']","['Lack of privacy', 'Poor soundproofing']",0.81,32,Male,2025-10-10
+U0926,solo,Healing,200000,2,"['Good value', 'Family-friendly', 'Clean facilities']","['Small room size', 'Limited amenities']",0.29,47,Female,2025-05-15
+U0927,friends,Foodie,1000000,4,"['Authentic taste', 'Well-maintained facilities', 'Friendly service']","['Small room size', 'Long wait']",0.64,56,Female,2025-11-22
+U0928,couple,Foodie,400000,4,"['Attentive staff', 'High-quality meat', 'Tasty food']","['Cramped space', 'Long wait']",0.84,21,Both,2025-02-02
+U0929,friends,Foodie,1400000,3,"['Authentic taste', 'Family-friendly', 'Good value']","['Weak water pressure', 'Overpriced']",0.55,31,Female,2025-07-15
+U0930,solo,Cultural,1600000,2,"['Pleasant atmosphere', 'Ocean view', 'Delicious coffee']","['Insect presence', 'Slow service']",0.39,55,Male,2025-10-31
+U0931,friends,Cultural,200000,2,"['Fresh seafood', 'Well-maintained facilities', 'Affordable prices']","['High price', 'Weak water pressure']",0.89,51,Male,2025-03-16
+U0932,friends,Activity,400000,1,"['Beautiful view', 'Clean facilities', 'High-quality meat']","['Cramped space', 'Bland taste']",0.37,40,Female,2025-09-30
+U0933,couple,Cultural,1000000,3,"['Ocean view', 'Authentic taste', 'Friendly service']","['Insect presence', 'Slow service']",0.53,62,Both,2025-01-03
+U0934,couple,Foodie,300000,2,"['Attentive staff', 'Well-maintained facilities', 'Beautiful view']","['Noise', 'Outdated facilities']",0.54,23,Both,2025-07-05
+U0935,solo,Healing,300000,2,"['Pleasant atmosphere', 'Beautiful view', 'Attentive staff']","['Outdated facilities', 'Limited menu']",0.55,26,Male,2025-11-30
+U0936,friends,Cultural,100000,1,"['Attentive staff', 'High-quality meat', 'Pleasant atmosphere']","['Cramped space', 'Slow service']",0.02,27,Male,2025-08-23
+U0937,solo,Cultural,400000,2,"['Good value', 'Clean facilities', 'High-quality meat']","['Limited amenities', 'Long wait']",0.69,40,Female,2025-04-20
+U0938,solo,Cultural,700000,2,"['Delicious coffee', 'Good value', 'Variety of dishes']","['High price', 'Hygiene issues']",0.35,18,Female,2025-06-08
+U0939,solo,Foodie,1300000,5,"['Attentive staff', 'Convenient amenities', 'Delicious coffee']","['Unpleasant taste', 'Hygiene issues']",0.74,52,Female,2025-08-29
+U0940,friends,Activity,600000,2,"['Tasty food', 'Attentive staff', 'Ocean view']","['Poor value', 'Unfriendly staff']",0.24,29,Female,2025-02-11
+U0941,friends,Cultural,1400000,5,"['Good value', 'Clean room', 'Attentive staff']","['Lack of privacy', 'Limited menu']",0.1,29,Male,2025-05-27
+U0942,friends,Healing,4200000,5,"['Satisfying portions', 'Delicious coffee', 'Quick service']","['Slow service', 'Bland taste']",0.08,65,Male,2025-03-14
+U0943,couple,Cultural,600000,3,"['Ocean view', 'Clean facilities', 'Tender meat']","['Cramped space', 'Poor cleanliness']",0.08,33,Both,2025-03-31
+U0944,solo,Activity,400000,3,"['Affordable prices', 'Pleasant atmosphere', 'Variety of dishes']","['Weak water pressure', 'Limited options']",0.5,51,Male,2025-06-16
+U0945,friends,Foodie,1800000,2,"['Affordable prices', 'Large portions', 'Scenic views']","['Hygiene issues', 'Poor value']",0.5,50,Female,2025-03-09
+U0946,couple,Foodie,300000,1,"['Delicious coffee', 'Quiet atmosphere', 'Value for money']","['Poor cleanliness', 'Salty food']",0.61,62,Both,2025-05-15
+U0947,solo,Cultural,200000,2,"['Satisfying portions', 'Variety of dishes', 'Delicious food']","['Hygiene issues', 'Limited amenities']",0.84,28,Female,2025-04-14
+U0948,couple,Activity,400000,3,"['High-quality meat', 'Scenic views', 'Comfortable bedding']","['Outdated facilities', 'Insect presence']",0.54,25,Both,2025-09-06
+U0949,solo,Activity,1500000,2,"['Quiet atmosphere', 'Generous portions', 'Good value']","['Limited options', 'Poor soundproofing']",0.96,60,Female,2025-02-11
+U0950,friends,Healing,200000,2,"['Well-maintained facilities', 'Fresh seafood', 'Clean room']","['High price', 'Slow service']",0.87,57,Male,2025-08-09
+U0951,friends,Foodie,500000,2,"['Friendly service', 'Clean room', 'Tender meat']","['Insect presence', 'Poor food quality']",0.18,23,Male,2025-06-12
+U0952,couple,Foodie,300000,1,"['Cleanliness', 'Quick service', 'Large portions']","['Poor soundproofing', 'Long wait']",0.09,36,Both,2025-02-02
+U0953,friends,Foodie,1900000,3,"['Affordable prices', 'Ocean view', 'Family-friendly']","['Insect presence', 'Unfriendly staff']",0.37,36,Male,2025-02-23
+U0954,friends,Activity,600000,5,"['Family-friendly', 'Scenic views', 'Tender meat']","['Poor food quality', 'Long wait']",0.21,55,Female,2025-03-24
+U0955,solo,Foodie,400000,3,"['Tender meat', 'Scenic views', 'Large portions']","['Bland taste', 'Lack of privacy']",0.74,34,Male,2025-04-28
+U0956,couple,Foodie,600000,3,"['Affordable prices', 'Well-maintained facilities', 'Spicy flavor']","['High price', 'Bland taste']",0.44,65,Both,2025-08-26
+U0957,friends,Foodie,400000,2,"['Attentive staff', 'Convenient amenities', 'Quiet atmosphere']","['Limited amenities', 'Overpriced']",0.22,45,Male,2025-08-16
+U0958,solo,Cultural,100000,1,"['Fresh seafood', 'Quick service', 'Affordable prices']","['Unfriendly staff', 'Noise']",0.75,33,Male,2025-12-02
+U0959,friends,Healing,500000,2,"['Authentic taste', 'Family-friendly', 'Comfortable bedding']","['Noise', 'Limited amenities']",0.58,50,Female,2025-06-06
+U0960,couple,Activity,400000,3,"['Quick service', 'Family-friendly', 'High-quality meat']","['High price', 'Poor soundproofing']",0.21,18,Both,2025-08-21
+U0961,couple,Healing,300000,2,"['Friendly service', 'Well-maintained facilities', 'Authentic taste']","['Hygiene issues', 'Small room size']",0.86,51,Both,2025-02-24
+U0962,couple,Activity,400000,2,"['Family-friendly', 'Large portions', 'Good value']","['Bland taste', 'Long wait']",0.01,24,Both,2025-08-26
+U0963,friends,Foodie,800000,4,"['Clean facilities', 'Ocean view', 'Friendly service']","['Insect presence', 'Poor value']",0.83,33,Female,2025-02-09
+U0964,friends,Cultural,1000000,5,"['Pleasant atmosphere', 'Friendly service', 'Good value']","['Slow service', 'Poor soundproofing']",0.33,32,Female,2025-08-21
+U0965,couple,Cultural,400000,2,"['Tasty food', 'Ocean view', 'Family-friendly']","['Noise', 'Hygiene issues']",0.43,53,Both,2025-06-05
+U0966,friends,Cultural,400000,3,"['Quick service', 'Tasty food', 'Ocean view']","['Salty food', 'Overpriced']",0.33,31,Male,2025-09-14
+U0967,friends,Cultural,1300000,3,"['Cleanliness', 'Satisfying portions', 'Convenient amenities']","['Limited menu', 'Unfriendly staff']",0.94,45,Female,2025-04-14
+U0968,couple,Healing,200000,2,"['Authentic taste', 'Affordable prices', 'Delicious coffee']","['Poor food quality', 'Lack of privacy']",0.35,18,Both,2025-06-20
+U0969,solo,Healing,2200000,3,"['Convenient amenities', 'Quiet atmosphere', 'Good value']","['Slow service', 'Hygiene issues']",0.72,33,Female,2025-01-28
+U0970,friends,Activity,500000,2,"['Clean facilities', 'Family-friendly', 'Beautiful view']","['Hygiene issues', 'Outdated facilities']",0.02,29,Male,2025-03-11
+U0971,solo,Foodie,300000,2,"['Generous portions', 'Pleasant atmosphere', 'Clean room']","['Small room size', 'Weak water pressure']",0.47,48,Female,2025-11-13
+U0972,friends,Cultural,1300000,3,"['Quick service', 'Quiet atmosphere', 'Clean room']","['Poor value', 'Noise']",0.82,61,Male,2025-07-24
+U0973,solo,Healing,300000,2,"['Family-friendly', 'High-quality meat', 'Ocean view']","['Limited options', 'Hygiene issues']",0.36,60,Male,2025-05-06
+U0974,couple,Cultural,300000,3,"['Attentive staff', 'Pleasant atmosphere', 'Well-maintained facilities']","['Unfriendly staff', 'Weak water pressure']",0.82,53,Both,2025-05-02
+U0975,couple,Healing,1600000,5,"['Generous portions', 'Pleasant atmosphere', 'Tasty food']","['Salty food', 'Cramped space']",0.74,35,Both,2025-10-12
+U0976,couple,Foodie,700000,2,"['Clean room', 'Affordable prices', 'Tasty food']","['Poor soundproofing', 'Poor food quality']",0.14,53,Both,2025-08-11
+U0977,couple,Healing,900000,5,"['Satisfying portions', 'Beautiful view', 'Clean facilities']","['Small room size', 'Weak water pressure']",0.8,62,Both,2025-08-26
+U0978,friends,Foodie,1000000,2,"['Delicious food', 'Clean room', 'Authentic taste']","['Unfriendly staff', 'Hygiene issues']",0.15,65,Female,2025-03-13
+U0979,friends,Activity,800000,2,"['Attentive staff', 'Clean facilities', 'Convenient amenities']","['Cramped space', 'Overpriced']",0.59,63,Male,2025-09-30
+U0980,solo,Activity,500000,4,"['Affordable prices', 'Beautiful view', 'Delicious coffee']","['Unfriendly staff', 'Poor value']",0.63,26,Female,2025-07-19
+U0981,solo,Healing,1600000,4,"['Authentic taste', 'Family-friendly', 'Cleanliness']","['Cramped space', 'Lack of privacy']",0.92,18,Female,2025-04-20
+U0982,solo,Foodie,700000,3,"['Large portions', 'Clean room', 'Friendly service']","['Salty food', 'Limited menu']",0.2,46,Male,2025-06-26
+U0983,solo,Cultural,2000000,5,"['Delicious food', 'Ocean view', 'Good value']","['Limited options', 'Small room size']",0.14,45,Female,2025-05-26
+U0984,friends,Cultural,500000,2,"['Large portions', 'Beautiful view', 'Quick service']","['Hygiene issues', 'Slow service']",0.75,21,Female,2025-11-16
+U0985,solo,Healing,100000,1,"['Variety of dishes', 'Cleanliness', 'Beautiful view']","['Outdated facilities', 'Limited menu']",0.44,36,Male,2025-05-26
+U0986,solo,Healing,2200000,5,"['Variety of dishes', 'Friendly service', 'Cleanliness']","['Poor soundproofing', 'Small portions']",0.02,36,Female,2025-05-11
+U0987,solo,Foodie,1400000,4,"['Authentic taste', 'Fresh seafood', 'Ocean view']","['Small portions', 'Lack of privacy']",0.17,33,Male,2025-04-20
+U0988,couple,Healing,4700000,5,"['Good value', 'Cleanliness', 'Authentic taste']","['Poor food quality', 'Lack of privacy']",0.72,37,Both,2025-01-24
+U0989,couple,Foodie,600000,3,"['Friendly service', 'Beautiful view', 'Convenient amenities']","['Overpriced', 'Weak water pressure']",0.34,25,Both,2025-01-16
+U0990,couple,Foodie,600000,3,"['Delicious coffee', 'Generous portions', 'Convenient amenities']","['Weak water pressure', 'Limited amenities']",0.01,50,Both,2025-05-31
+U0991,solo,Cultural,400000,2,"['High-quality meat', 'Generous portions', 'Delicious food']","['Overpriced', 'Bland taste']",0.01,43,Male,2025-12-10
+U0992,friends,Healing,400000,2,"['Tasty food', 'Comfortable bedding', 'Value for money']","['Small room size', 'Poor soundproofing']",0.87,18,Female,2025-05-31
+U0993,friends,Activity,1300000,5,"['Variety of dishes', 'Satisfying portions', 'Friendly service']","['Poor soundproofing', 'Limited options']",0.09,35,Female,2025-07-07
+U0994,solo,Healing,400000,1,"['Ocean view', 'Authentic taste', 'Fresh seafood']","['Poor food quality', 'Long wait']",0.76,55,Male,2025-01-16
+U0995,couple,Healing,300000,2,"['Ocean view', 'Quiet atmosphere', 'Cleanliness']","['Bland taste', 'High price']",0.41,19,Both,2025-10-20
+U0996,friends,Healing,300000,3,"['Value for money', 'Convenient amenities', 'Clean room']","['Hygiene issues', 'Noise']",0.79,56,Male,2025-06-29
+U0997,friends,Healing,400000,1,"['Quiet atmosphere', 'Fresh seafood', 'Satisfying portions']","['Outdated facilities', 'Poor cleanliness']",0.36,33,Female,2025-07-08
+U0998,solo,Foodie,1600000,2,"['Quick service', 'Comfortable bedding', 'Affordable prices']","['Unfriendly staff', 'Lack of privacy']",0.62,55,Male,2025-04-08
+U0999,friends,Cultural,400000,2,"['Tasty food', 'Clean facilities', 'Attentive staff']","['Lack of privacy', 'Cramped space']",0.67,51,Female,2025-12-09
+U1000,friends,Activity,600000,2,"['Tasty food', 'Variety of dishes', 'Large portions']","['Noise', 'Poor value']",0.56,34,Female,2025-10-25

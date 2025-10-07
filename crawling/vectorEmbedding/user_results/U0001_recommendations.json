@@ -1,0 +1,610 @@
+{
+  "Accommodation": [
+    {
+      "id": 1000111789,
+      "category": "Accommodation",
+      "final_score": 0.6978226524450646
+    },
+    {
+      "id": 10062156,
+      "category": "Accommodation",
+      "final_score": 0.6352052189515331
+    },
+    {
+      "id": 10045242,
+      "category": "Accommodation",
+      "final_score": 0.6269484881434854
+    },
+    {
+      "id": 10045118,
+      "category": "Accommodation",
+      "final_score": 0.6239797202433187
+    },
+    {
+      "id": 10047953,
+      "category": "Accommodation",
+      "final_score": 0.6205307770714046
+    },
+    {
+      "id": 10063337,
+      "category": "Accommodation",
+      "final_score": 0.6200416233689766
+    },
+    {
+      "id": 3003412,
+      "category": "Accommodation",
+      "final_score": 0.6194372758339709
+    },
+    {
+      "id": 3002563,
+      "category": "Accommodation",
+      "final_score": 0.6137595998306418
+    },
+    {
+      "id": 10065274,
+      "category": "Accommodation",
+      "final_score": 0.605601196382928
+    },
+    {
+      "id": 10058071,
+      "category": "Accommodation",
+      "final_score": 0.6050180539559191
+    },
+    {
+      "id": 10058459,
+      "category": "Accommodation",
+      "final_score": 0.6038210898778569
+    },
+    {
+      "id": 10064591,
+      "category": "Accommodation",
+      "final_score": 0.6033223472711607
+    },
+    {
+      "id": 10061060,
+      "category": "Accommodation",
+      "final_score": 0.6024062555512105
+    },
+    {
+      "id": 10064482,
+      "category": "Accommodation",
+      "final_score": 0.6013392903016308
+    },
+    {
+      "id": 3009698,
+      "category": "Accommodation",
+      "final_score": 0.5994326457451647
+    },
+    {
+      "id": 10064423,
+      "category": "Accommodation",
+      "final_score": 0.5976132199238604
+    },
+    {
+      "id": 10054400,
+      "category": "Accommodation",
+      "final_score": 0.5952107139178148
+    },
+    {
+      "id": 10055844,
+      "category": "Accommodation",
+      "final_score": 0.5951324977086285
+    },
+    {
+      "id": 10040357,
+      "category": "Accommodation",
+      "final_score": 0.5950933967049665
+    },
+    {
+      "id": 10048897,
+      "category": "Accommodation",
+      "final_score": 0.5948918294249557
+    },
+    {
+      "id": 1000108403,
+      "category": "Accommodation",
+      "final_score": 0.5935599506182934
+    },
+    {
+      "id": 10057625,
+      "category": "Accommodation",
+      "final_score": 0.5928063195427572
+    },
+    {
+      "id": 10044704,
+      "category": "Accommodation",
+      "final_score": 0.5927453544290047
+    },
+    {
+      "id": 10055877,
+      "category": "Accommodation",
+      "final_score": 0.5923349697195639
+    },
+    {
+      "id": 10052935,
+      "category": "Accommodation",
+      "final_score": 0.5910985857389104
+    },
+    {
+      "id": 10057607,
+      "category": "Accommodation",
+      "final_score": 0.5891445927357111
+    },
+    {
+      "id": 10056273,
+      "category": "Accommodation",
+      "final_score": 0.5875796541642015
+    },
+    {
+      "id": 10052560,
+      "category": "Accommodation",
+      "final_score": 0.5848361171887615
+    },
+    {
+      "id": 10055839,
+      "category": "Accommodation",
+      "final_score": 0.5835048276983846
+    },
+    {
+      "id": 1000090896,
+      "category": "Accommodation",
+      "final_score": 0.581086855302285
+    }
+  ],
+  "Cafe": [
+    {
+      "id": 34203501,
+      "category": "Cafe",
+      "final_score": 0.6481574600834511
+    },
+    {
+      "id": 1606960077,
+      "category": "Cafe",
+      "final_score": 0.6259756088463443
+    },
+    {
+      "id": 1651019497,
+      "category": "Cafe",
+      "final_score": 0.6023517931916924
+    },
+    {
+      "id": 1824086717,
+      "category": "Cafe",
+      "final_score": 0.5948434839434137
+    },
+    {
+      "id": 1426647455,
+      "category": "Cafe",
+      "final_score": 0.5915307741419021
+    },
+    {
+      "id": 1867724165,
+      "category": "Cafe",
+      "final_score": 0.5866185113478155
+    },
+    {
+      "id": 2012122325,
+      "category": "Cafe",
+      "final_score": 0.5857284460436177
+    },
+    {
+      "id": 1756159133,
+      "category": "Cafe",
+      "final_score": 0.5828934737276937
+    },
+    {
+      "id": 19900143,
+      "category": "Cafe",
+      "final_score": 0.5828602206574867
+    },
+    {
+      "id": 1009179914,
+      "category": "Cafe",
+      "final_score": 0.5766729968916369
+    },
+    {
+      "id": 1876301121,
+      "category": "Cafe",
+      "final_score": 0.5726269856633076
+    },
+    {
+      "id": 1001417136,
+      "category": "Cafe",
+      "final_score": 0.5722286870122486
+    },
+    {
+      "id": 1899236965,
+      "category": "Cafe",
+      "final_score": 0.5691407250970971
+    },
+    {
+      "id": 1331157860,
+      "category": "Cafe",
+      "final_score": 0.5577156219902502
+    },
+    {
+      "id": 1647063521,
+      "category": "Cafe",
+      "final_score": 0.5571618470959216
+    },
+    {
+      "id": 1266299794,
+      "category": "Cafe",
+      "final_score": 0.5569014149242939
+    },
+    {
+      "id": 1569323095,
+      "category": "Cafe",
+      "final_score": 0.5541150206312943
+    },
+    {
+      "id": 1495937611,
+      "category": "Cafe",
+      "final_score": 0.5520684750806635
+    },
+    {
+      "id": 1292591709,
+      "category": "Cafe",
+      "final_score": 0.5496479999854786
+    },
+    {
+      "id": 1605447318,
+      "category": "Cafe",
+      "final_score": 0.5495677116135609
+    },
+    {
+      "id": 1526759655,
+      "category": "Cafe",
+      "final_score": 0.548462034376474
+    },
+    {
+      "id": 1506869074,
+      "category": "Cafe",
+      "final_score": 0.548141457075845
+    },
+    {
+      "id": 1761686436,
+      "category": "Cafe",
+      "final_score": 0.5480636253174451
+    },
+    {
+      "id": 1033478410,
+      "category": "Cafe",
+      "final_score": 0.5465547671619102
+    },
+    {
+      "id": 2067021446,
+      "category": "Cafe",
+      "final_score": 0.5449139399514241
+    },
+    {
+      "id": 1891894301,
+      "category": "Cafe",
+      "final_score": 0.5445526382612748
+    },
+    {
+      "id": 15299378,
+      "category": "Cafe",
+      "final_score": 0.5408715272154649
+    },
+    {
+      "id": 1174448798,
+      "category": "Cafe",
+      "final_score": 0.5377048215237468
+    },
+    {
+      "id": 2089930981,
+      "category": "Cafe",
+      "final_score": 0.5355332325068557
+    },
+    {
+      "id": 1232320005,
+      "category": "Cafe",
+      "final_score": 0.531337561850789
+    }
+  ],
+  "Restaurant": [
+    {
+      "id": 11824654,
+      "category": "Restaurant",
+      "final_score": 0.6755850141160205
+    },
+    {
+      "id": 15351961,
+      "category": "Restaurant",
+      "final_score": 0.6266947701357558
+    },
+    {
+      "id": 1379005450,
+      "category": "Restaurant",
+      "final_score": 0.6065694682655
+    },
+    {
+      "id": 1103963861,
+      "category": "Restaurant",
+      "final_score": 0.5946209826520319
+    },
+    {
+      "id": 1347619457,
+      "category": "Restaurant",
+      "final_score": 0.5935560240721592
+    },
+    {
+      "id": 1950305815,
+      "category": "Restaurant",
+      "final_score": 0.5932994158201109
+    },
+    {
+      "id": 35664675,
+      "category": "Restaurant",
+      "final_score": 0.5910091110720899
+    },
+    {
+      "id": 1969057580,
+      "category": "Restaurant",
+      "final_score": 0.589666003597586
+    },
+    {
+      "id": 1874304021,
+      "category": "Restaurant",
+      "final_score": 0.5880031571686641
+    },
+    {
+      "id": 1658810393,
+      "category": "Restaurant",
+      "final_score": 0.5860457066458705
+    },
+    {
+      "id": 1278298701,
+      "category": "Restaurant",
+      "final_score": 0.5774749845208957
+    },
+    {
+      "id": 1175159881,
+      "category": "Restaurant",
+      "final_score": 0.5719375339967528
+    },
+    {
+      "id": 19828562,
+      "category": "Restaurant",
+      "final_score": 0.5684447401247447
+    },
+    {
+      "id": 1890450106,
+      "category": "Restaurant",
+      "final_score": 0.5671784782629224
+    },
+    {
+      "id": 2140078078,
+      "category": "Restaurant",
+      "final_score": 0.5668567731745725
+    },
+    {
+      "id": 1318087817,
+      "category": "Restaurant",
+      "final_score": 0.565318725440349
+    },
+    {
+      "id": 1679108075,
+      "category": "Restaurant",
+      "final_score": 0.5646351409197952
+    },
+    {
+      "id": 37059478,
+      "category": "Restaurant",
+      "final_score": 0.5637215828561244
+    },
+    {
+      "id": 224093513,
+      "category": "Restaurant",
+      "final_score": 0.5635769824525455
+    },
+    {
+      "id": 1416506512,
+      "category": "Restaurant",
+      "final_score": 0.5626615780361918
+    },
+    {
+      "id": 1681518999,
+      "category": "Restaurant",
+      "final_score": 0.5569614519569952
+    },
+    {
+      "id": 1880529076,
+      "category": "Restaurant",
+      "final_score": 0.5561872409914147
+    },
+    {
+      "id": 2057775610,
+      "category": "Restaurant",
+      "final_score": 0.552763887123365
+    },
+    {
+      "id": 15380143,
+      "category": "Restaurant",
+      "final_score": 0.550562258597047
+    },
+    {
+      "id": 1434030213,
+      "category": "Restaurant",
+      "final_score": 0.5486961467438733
+    },
+    {
+      "id": 2077873969,
+      "category": "Restaurant",
+      "final_score": 0.5485886076470706
+    },
+    {
+      "id": 1417252039,
+      "category": "Restaurant",
+      "final_score": 0.5485180587701689
+    },
+    {
+      "id": 1330726128,
+      "category": "Restaurant",
+      "final_score": 0.544646057586083
+    },
+    {
+      "id": 1043586683,
+      "category": "Restaurant",
+      "final_score": 0.5422530136591422
+    },
+    {
+      "id": 1704605277,
+      "category": "Restaurant",
+      "final_score": 0.540097957426856
+    }
+  ],
+  "Attraction": [
+    {
+      "id": 1378194684,
+      "category": "Attraction",
+      "final_score": 0.583944628238678
+    },
+    {
+      "id": 37031400,
+      "category": "Attraction",
+      "final_score": 0.5432990050315857
+    },
+    {
+      "id": 21824426,
+      "category": "Attraction",
+      "final_score": 0.5250717854499817
+    },
+    {
+      "id": 1357865119,
+      "category": "Attraction",
+      "final_score": 0.5185501492023468
+    },
+    {
+      "id": 13491906,
+      "category": "Attraction",
+      "final_score": 0.517067722082138
+    },
+    {
+      "id": 20107994,
+      "category": "Attraction",
+      "final_score": 0.5095592474937438
+    },
+    {
+      "id": 1800696554,
+      "category": "Attraction",
+      "final_score": 0.5022151207923888
+    },
+    {
+      "id": 13491745,
+      "category": "Attraction",
+      "final_score": 0.4986495423800081
+    },
+    {
+      "id": 12079976,
+      "category": "Attraction",
+      "final_score": 0.4840627769961597
+    },
+    {
+      "id": 13490946,
+      "category": "Attraction",
+      "final_score": 0.47806319952011106
+    },
+    {
+      "id": 266717564,
+      "category": "Attraction",
+      "final_score": 0.4735481595993042
+    },
+    {
+      "id": 1109407473,
+      "category": "Attraction",
+      "final_score": 0.4707159852981567
+    },
+    {
+      "id": 1940124735,
+      "category": "Attraction",
+      "final_score": 0.46713033080101013
+    },
+    {
+      "id": 11592129,
+      "category": "Attraction",
+      "final_score": 0.4628120160102844
+    },
+    {
+      "id": 13345873,
+      "category": "Attraction",
+      "final_score": 0.4625089961289422
+    },
+    {
+      "id": 15699373,
+      "category": "Attraction",
+      "final_score": 0.45930876493453976
+    },
+    {
+      "id": 13491005,
+      "category": "Attraction",
+      "final_score": 0.45817138910293576
+    },
+    {
+      "id": 939463951,
+      "category": "Attraction",
+      "final_score": 0.4552544331550598
+    },
+    {
+      "id": 13491268,
+      "category": "Attraction",
+      "final_score": 0.45346849056921534
+    },
+    {
+      "id": 11620702,
+      "category": "Attraction",
+      "final_score": 0.44725374937057494
+    },
+    {
+      "id": 1249952785,
+      "category": "Attraction",
+      "final_score": 0.4469963586330414
+    },
+    {
+      "id": 1775014582,
+      "category": "Attraction",
+      "final_score": 0.4358681833744049
+    },
+    {
+      "id": 13345877,
+      "category": "Attraction",
+      "final_score": 0.43544686438809654
+    },
+    {
+      "id": 15685783,
+      "category": "Attraction",
+      "final_score": 0.4273490881919861
+    },
+    {
+      "id": 12762639,
+      "category": "Attraction",
+      "final_score": 0.42169675588607786
+    },
+    {
+      "id": 13491444,
+      "category": "Attraction",
+      "final_score": 0.41956674744688255
+    },
+    {
+      "id": 1206536601,
+      "category": "Attraction",
+      "final_score": 0.4183433789203222
+    },
+    {
+      "id": 15371716,
+      "category": "Attraction",
+      "final_score": 0.41505769733885733
+    },
+    {
+      "id": 20103328,
+      "category": "Attraction",
+      "final_score": 0.4129814720512783
+    },
+    {
+      "id": 37090227,
+      "category": "Attraction",
+      "final_score": 0.41232715936336345
+    }
+  ]
+}

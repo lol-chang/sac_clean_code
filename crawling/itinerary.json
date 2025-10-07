@@ -1,0 +1,135 @@
+{
+  "budget_per_day": 733333,
+  "itinerary": [
+    {
+      "day": 1,
+      "date": "2025-08-16",
+      "travel_day": "토",
+      "season": "peak",
+      "is_weekend": true,
+      "transport": "car",
+      "place_plan": [
+        {
+          "category": "Accommodation",
+          "count": 1,
+          "time": "09:30"
+        },
+        {
+          "category": "Cafe",
+          "count": 1,
+          "time": "10:30"
+        },
+        {
+          "category": "Attraction",
+          "count": 1,
+          "time": "12:00"
+        },
+        {
+          "category": "Restaurant",
+          "count": 1,
+          "time": "13:30"
+        },
+        {
+          "category": "Attraction",
+          "count": 1,
+          "time": "15:00"
+        },
+        {
+          "category": "Restaurant",
+          "count": 1,
+          "time": "18:00"
+        },
+        {
+          "category": "Accommodation",
+          "count": 1,
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2025-08-17",
+      "travel_day": "일",
+      "season": "peak",
+      "is_weekend": false,
+      "transport": "car",
+      "place_plan": [
+        {
+          "category": "Accommodation",
+          "count": 1,
+          "time": "09:30"
+        },
+        {
+          "category": "Cafe",
+          "count": 1,
+          "time": "10:30"
+        },
+        {
+          "category": "Attraction",
+          "count": 1,
+          "time": "12:00"
+        },
+        {
+          "category": "Restaurant",
+          "count": 1,
+          "time": "13:30"
+        },
+        {
+          "category": "Attraction",
+          "count": 1,
+          "time": "15:00"
+        },
+        {
+          "category": "Restaurant",
+          "count": 1,
+          "time": "18:00"
+        },
+        {
+          "category": "Accommodation",
+          "count": 1,
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2025-08-18",
+      "travel_day": "월",
+      "season": "peak",
+      "is_weekend": false,
+      "transport": "car",
+      "place_plan": [
+        {
+          "category": "Accommodation",
+          "count": 1,
+          "time": "09:30"
+        },
+        {
+          "category": "Cafe",
+          "count": 1,
+          "time": "10:30"
+        },
+        {
+          "category": "Attraction",
+          "count": 1,
+          "time": "12:00"
+        },
+        {
+          "category": "Restaurant",
+          "count": 1,
+          "time": "13:30"
+        },
+        {
+          "category": "Attraction",
+          "count": 1,
+          "time": "15:00"
+        },
+        {
+          "category": "Restaurant",
+          "count": 1,
+          "time": "18:00"
+        }
+      ]
+    }
+  ]
+}
